@@ -1,3 +1,7 @@
+---
+classes: wide
+---
+#Just War (Part 1)
 <br />
 <a name="2021-06-21" /><b>Session started at 2021-06-21 / 20:02</b>
 <br />
