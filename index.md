@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Episode Chatlogs
+
+- [S01-E01 - Just War ](s01_e01_just_war_part_1.html)
 
 You can use the [editor on GitHub](https://github.com/bakermd86/STAChatlogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
