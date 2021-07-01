@@ -14,5 +14,5 @@ defaults:
         - title: "Far Beyond the Stars"
           image: images/cover-350w.png
           image_alt: "cover"
-          text: "A Modiphius 2d20 Star Trek misadventure.< br/>Enabled by Fantasy Grounds Unity.< br/>Played by crazies."
+          text: "A Modiphius 2d20 Star Trek misadventure.\r\nEnabled by Fantasy Grounds Unity.\r\nPlayed by crazies."
         - nav: "docs"
