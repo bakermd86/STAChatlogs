@@ -1,7 +1,3 @@
----
-layout: single
-
----
 # Just War (Part 1)<br />
 
 <br />

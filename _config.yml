@@ -8,3 +8,5 @@ plugins:
 defaults:
   - values:
       show_date: true
+      layout: single
+      classes: wide
