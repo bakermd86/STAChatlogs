@@ -1,0 +1,12 @@
+docs:
+  - title: Navigation
+    children:
+      - title: "Index"
+        url: /index/
+
+  - title: Episodes
+    children:
+      - title: "Just War (Part 1)"
+        url: /episodes/s01_e01_just_war_part_1/
+       - title: "Just War (Part 2)"
+       url: /episodes/s01_e01_just_war_part_2/

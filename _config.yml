@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-title: "Far Beyond the Stars (A Modiphius 2d20 Star Trek Misadventure) - Chatlogs"
+title: "Far Beyond the Stars Chatlogs"
 search: true
 search_full_content: true
 plugins:
@@ -10,3 +10,9 @@ defaults:
       show_date: true
       layout: single
       classes: wide
+      sidebar:
+        - title: "Far Beyond the Stars"
+          image: images/cover-350w.png
+          image_alt: "cover"
+          text: "A Modiphius 2d20 Star Trek misadventure.\nEnabled by Fantasy Grounds Unity.\nPlayed by crazies."
+        nav: "docs"
