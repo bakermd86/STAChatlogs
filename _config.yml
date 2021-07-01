@@ -1,4 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+title: "Far Beyond the Stars (A Modiphius 2d20 Star Trek Misadventure) - Chatlogs"
+search: true
+search_full_content: true
 plugins:
   - jekyll-include-cache
+defaults:
+  - values:
+      show_date: true
