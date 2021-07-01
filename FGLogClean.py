@@ -154,6 +154,7 @@ class ChatFormatter:
     def start_body(self):
         md_body = [
             "# %s" % self.break_line(self.ep_title),
+            self.break_line(""),
             str(self.soup.find("a")) + str(self.soup.find("b")) + "\n",
             self.break_line("")
         ]
