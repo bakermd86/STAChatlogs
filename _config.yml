@@ -6,13 +6,14 @@ search_full_content: true
 plugins:
   - jekyll-include-cache
 defaults:
+  # _docs
   - values:
       show_date: true
       layout: single
       classes: wide
       sidebar:
+        nav: "docs"
         - title: "Far Beyond the Stars"
           image: images/cover-350w.png
           image_alt: "cover"
           text: "A Modiphius 2d20 Star Trek misadventure.\nEnabled by Fantasy Grounds Unity.\nPlayed by crazies."
-        nav: "docs"
