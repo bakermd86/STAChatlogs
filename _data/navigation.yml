@@ -2,7 +2,7 @@ docs:
   - title: Navigation
     children:
       - title: "Index"
-        url: /index/
+        url: /index
 
   - title: Episodes
     children:
