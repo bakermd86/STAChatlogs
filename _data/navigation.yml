@@ -7,6 +7,6 @@ docs:
   - title: Episodes
     children:
       - title: "Just War (Part 1)"
-        url: /episodes/s01_e01_just_war_part_1/
+        url: /episodes/s01_e01_just_war_part_1
       - title: "Just War (Part 2)"
-        url: /episodes/s01_e01_just_war_part_2/
+        url: /episodes/s01_e01_just_war_part_2
