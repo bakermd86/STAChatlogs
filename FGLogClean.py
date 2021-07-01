@@ -137,7 +137,7 @@ class ChatFormatter:
 
     @staticmethod
     def blockquote(line):
-        return ChatFormatter.break_line(">" + line) + "\r"
+        return ChatFormatter.break_line(">" + line) + "\n"
 
     @staticmethod
     def italicize(line):
@@ -149,13 +149,13 @@ class ChatFormatter:
 
     @staticmethod
     def break_line(line):
-        return line + "<br />\r"
+        return line + "<br />\n"
 
     def start_body(self):
         md_body = [
-            "# %s" % self.break_line(self.ep_title),
+            "# %s\n" % self.break_line(self.ep_title),
             self.break_line(""),
-            str(self.soup.find("a")) + str(self.soup.find("b")) + "\r",
+            str(self.soup.find("a")) + str(self.soup.find("b")) + "\n",
             self.break_line("")
         ]
         return md_body
