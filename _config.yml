@@ -16,3 +16,5 @@ defaults:
           image_alt: "cover"
           text: "A Modiphius 2d20 Star Trek misadventure.\r\nEnabled by Fantasy Grounds Unity.\r\nPlayed by crazies."
         - nav: "docs"
+      header:
+        overlay_image: /images/spash-image.png
