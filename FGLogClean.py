@@ -149,13 +149,13 @@ class ChatFormatter:
 
     @staticmethod
     def break_line(line):
-        return line + "<br />\r\n"
+        return line + "<br />\r"
 
     def start_body(self):
         md_body = [
             "# %s" % self.break_line(self.ep_title),
             self.break_line(""),
-            str(self.soup.find("a")) + str(self.soup.find("b")) + "\r\n",
+            str(self.soup.find("a")) + str(self.soup.find("b")) + "\r",
             self.break_line("")
         ]
         return md_body
