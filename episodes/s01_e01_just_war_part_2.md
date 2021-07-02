@@ -23,7 +23,7 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 **Lt. Cmdrs 11 and 10:** We concur, agression at this time would be premature<br />
 **Hailey Murry:** Plus, I think pummeling a geothermal power generator with torpedoes runs the risk of setting off every volcano in the region <br />
 **Hailey Murry:** This is bad for diplomacy<br />
-**Dr. Zerra:** Not to mention the loss of life, the Rutareans have a substantial presence in the area<br />
+**Dr. Zerra:** Not to mention the loss of life, the Osalans have a substantial presence in the area<br />
 **Hailey Murry:** On the other hand, I suppose it would give the nations reason to bond<br />
 **Skig:** In fact, I was going to ask Malat and Zox to determine the best spread and distribution of weapons to surgically eliminate the threat if needed.  However, I stress the words "if needed" very heavily here.<br />
 **Zox: [ CONTROL  (11) +  SECURITY  (4)]
@@ -38,7 +38,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 Failed on DC: 1 [2d20 = 23]**<br />
 *Kolea reporting for duty.*<br />
 **Kolea:** reporting for duty.<br />
->A group of Rutareans see the transporter beam and come over to investigate<br />
+>A group of Osalans see the transporter beam and come over to investigate<br />
 
 *Zox clutches a type-2 phaser and awaits beaming down.*<br />
 **Oakadan:** I'm ready to go when you are, Chief Tactical Officer<br />
@@ -114,7 +114,7 @@ Success with 1 momentum [2d20 = 6]**<br />
 >---------CUT TO COMMERCIAL-------<br />
 
 *Kolea is trying not to notice what is going on after being frisked by the Chief Tactical Officer and her medical supplies being used without consulting her.*<br />
->INTERIOR - Subteranean tunnels: Commander Zox has followed the ever-increasing warp radiation deeper and deeper through the ancient Rutarean facility until he stumbles upon a heavy sealed door<br />
+>INTERIOR - Subteranean tunnels: Commander Zox has followed the ever-increasing warp radiation deeper and deeper through the ancient Osalan facility until he stumbles upon a heavy sealed door<br />
 
 **Oakadan:** The scanner is going off the charts<br />
 <font color="##005500">indarien (Kolea): What type of seals are they? Do they accept fish?</font><br />
@@ -162,7 +162,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 **Oakadan:** Hmmm, but that's about as in as we're going to get<br />
 **Kolea:** Perhaps we should ask the ship to beam down a small power supply so we can finish opening the door, assuming transporter beams are able to work in this radiated environment?<br />
 *Kolea peeks through the door, playing a game of "Eye Spy"*<br />
->Kolea peeks through the door and sees a large circular room with a contraption in the middle. In the center of the room, there is an alien man (not Rutarean) in some sort of stasis device. Massive conduits run down through the ground and pulse with visible waves of energy.<br />
+>Kolea peeks through the door and sees a large circular room with a contraption in the middle. In the center of the room, there is an alien man (not Osalan) in some sort of stasis device. Massive conduits run down through the ground and pulse with visible waves of energy.<br />
 
 **Kolea: [ INSIGHT  (11) +  COMMAND  (2)]
 [Successes: 0] [Complications: 0]
@@ -288,7 +288,7 @@ Failed on DC: 1 [2d20 = 30]**<br />
 *Zox motions to the stasis chamber.*<br />
 **Zox:** It has much to answer for. <br />
 *Kolea performs a medical diagnosis (using observation, scanners, etc.) to determine the current state of existence of said creature in the stasis tube.*<br />
-**Crewman McAllister:** It doesn't look Rutarean<br />
+**Crewman McAllister:** It doesn't look Osalan<br />
 **Kolea: [ INSIGHT  (11) +  MEDICINE  (4)]
 [Focus: Xeno-biology ]
 [Successes: 3] [Complications: 0]
