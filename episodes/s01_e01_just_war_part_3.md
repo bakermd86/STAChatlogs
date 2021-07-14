@@ -58,9 +58,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 **Zox:** Hailey, perhaps we should ask our diplomats about this our new guest?<br />
 **Hailey Murry:** Absolutely<br />
 **Skig:** I think that is a good idea Zox, although I am not sure they will know anything specific.<br />
-**Hailey Murry:** pulls out her PAD and takes a few notes on it<br />
 *Hailey Murry pulls out her PAD and takes a few notes on it*<br />
-<font color="##005500">BayushiKazemi (Hailey Murry): Delete first</font><br />
 **Zox:** Skig, have you ever given thought to the fragile mammlian nerve system? Do you think it would be possible to analyze heat and nerve signatures when Hailey is talking to the diplomats to determine if they are telling the truth?<br />
 **Hailey Murry:** Were we able to figure out anything from the automated systems? How long he was there, when he awoke, the nature of the building? <br />
 **Oakadan:** I've got those, Doctor. Let me upload them now for you<br />
