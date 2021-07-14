@@ -22,8 +22,8 @@ DB_FILE = "db.xml"
 OUT_DIR = r'E:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
 BACKUP_DIR = join(OUT_DIR, "backups")
 
-SPEAKER_PATTERN = re.compile("([^:]+:)(.+)")
-MOOD_PATTERN = re.compile("([^(]+)(\([^:]+)(.+)")
+SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
+MOOD_PATTERN = re.compile("([^(]+)(\([^:]+)(.+)", re.DOTALL)
 
 
 class LineTypes(Enum):
