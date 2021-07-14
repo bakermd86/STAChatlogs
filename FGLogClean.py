@@ -12,6 +12,7 @@ CHAT_FONT = '##261A12'
 NPC_CHAT_FONT = '##000066'
 OOC_FONT = '##005500'
 EMOTE_FONT = '##880000'
+MOOD_FONT = '##000000'
 
 FEN_EXT_NAME = "Fen's StarTrekAdventures Extension"
 
@@ -22,6 +23,7 @@ OUT_DIR = r'E:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
 BACKUP_DIR = join(OUT_DIR, "backups")
 
 SPEAKER_PATTERN = re.compile("([^:]+:)(.+)")
+MOOD_PATTERN = re.compile("([^(]+)(\([^:]+)(.+)")
 
 
 class LineTypes(Enum):
@@ -32,6 +34,7 @@ class LineTypes(Enum):
     EMOTE = 5,
     STORY = 6,
     DETERMINE = 7,
+    MOOD = 8,
     UNKNOWN = 10
 
 
@@ -54,6 +57,7 @@ class ChatFormatter:
             LineTypes.EMOTE: ChatFormatter.italicize,
             LineTypes.STORY: ChatFormatter.blockquote,
             LineTypes.DETERMINE: ChatFormatter.bold,
+            LineTypes.MOOD: ChatFormatter.format_mood,
         }
 
     def get_pc_roll_pres(self):
@@ -125,6 +129,8 @@ class ChatFormatter:
             return LineTypes.DETERMINE
         elif color == WHISPER_ROLL_FONT:
             return LineTypes.WHISPER_AND_NPC_ROLL
+        elif color == MOOD_FONT:
+            return LineTypes.MOOD
         else:
             return LineTypes.UNKNOWN
 
@@ -133,6 +139,13 @@ class ChatFormatter:
         m = SPEAKER_PATTERN.match(line)
         if m and m.groups():
             return ChatFormatter.break_line("**%s**" % m.group(1) + m.group(2))
+        return ChatFormatter.break_line(line)
+
+    @staticmethod
+    def format_mood(line):
+        m = MOOD_PATTERN.match(line)
+        if m and m.groups():
+            return ChatFormatter.break_line("**%s**" % m.group(1) + "*%s*" % m.group(2) + m.group(3))
         return ChatFormatter.break_line(line)
 
     @staticmethod
@@ -166,9 +179,10 @@ class ChatFormatter:
 
 
 def backup_log():
-    copy(CHATLOG_FILE, join(BACKUP_DIR, "chatlog_%s.html" % datetime.now().strftime("%Y_%m_%d")))
+    copy(join(CAMPAIGN_DIR, CHATLOG_FILE), join(BACKUP_DIR, "chatlog_%s.html" % datetime.now().strftime("%Y_%m_%d")))
 
 
 if __name__ == '__main__':
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Just War (Part 2)", "s01_e01_just_war_part_2")
+    backup_log()
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Just War (Part 3)", "s01_e01_just_war_part_3")
     formatter.parse_chatlog()
