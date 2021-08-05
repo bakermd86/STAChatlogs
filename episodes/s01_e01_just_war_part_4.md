@@ -8,9 +8,7 @@
 Copyright 2021 Smiteworks USA, LLC</font><br />
 <font color="##880000">Fen's StarTrekAdventures Extension (v0.2) </font><br />
 >Counselor's Log - The diplomatic mission to Supplemental Planet Osala is proving to be deeper than anticipated. It's been nearly 48 hours since a third of our crew vanished, including Captain Balas, and they weren't even in an Away team this time. 
-
 The primary clues to their location came from an interview with Ambassador Talis of the Central Republic, data from a planet-side facility, and the Traveler we found in stasis within that facility. The Traveler was certainly involuntarily involved with the warp fields which took our crew members, and it appears a number of geosynchronous satellites from hundreds of years ago may have been involved as well. 
-
 While I would love the opportunity to question the Traveler and get to the bottom of this directly, it appears he is greatly distressed at the circumstances. He has been fading in and out of reality for several minutes now and is becoming less and less responsive. I've requested assistance, hopefully a change of staff can draw him back to our reality.<br />
 
 >INTERIOR - Sickbay: Commander Murry called Skig and Zox back to sickbay, as the Traveller began ominously phasing in and out of reality. Fortunately, the ship hasn't exploded. Yet.<br />
