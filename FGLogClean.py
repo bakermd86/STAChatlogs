@@ -19,7 +19,7 @@ FEN_EXT_NAME = "Fen's StarTrekAdventures Extension"
 CAMPAIGN_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds\campaigns\Far Beyond the Stars'
 CHATLOG_FILE = 'chatlog.html'
 DB_FILE = "db.xml"
-OUT_DIR = r'E:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
+OUT_DIR = r'D:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
 BACKUP_DIR = join(OUT_DIR, "backups")
 
 SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
@@ -184,5 +184,5 @@ def backup_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Just War (Part 6)", "s01_e01_just_war_part_6")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Nothing but Blue Skies (Part 1)", "s01_e02_blue_skies_part_1")
     formatter.parse_chatlog()
