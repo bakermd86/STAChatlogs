@@ -184,5 +184,5 @@ def backup_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Nothing but Blue Skies (Part 1)", "s01_e02_blue_skies_part_1")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Nothing but Blue Skies (Part 2)", "s01_e02_blue_skies_part_2")
     formatter.parse_chatlog()
