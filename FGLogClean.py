@@ -1,3 +1,4 @@
+import os
 from enum import Enum
 from os.path import join
 from shutil import copy
@@ -182,7 +183,11 @@ def backup_log():
     copy(join(CAMPAIGN_DIR, CHATLOG_FILE), join(BACKUP_DIR, "chatlog_%s.html" % datetime.now().strftime("%Y_%m_%d")))
 
 
+def delete_old_log():
+    os.remove(join(CAMPAIGN_DIR, CHATLOG_FILE))
+
+
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Nothing but Blue Skies (Part 3)", "s01_e02_blue_skies_part_3")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Nothing but Blue Skies (Part 4)", "s01_e02_blue_skies_part_4")
     formatter.parse_chatlog()
