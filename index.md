@@ -12,3 +12,4 @@
 - [S01-E02 - Nothing but Blue Skies (Part 4)](episodes/s01_e02_blue_skies_part_4)
 - [S01-E02 - Nothing but Blue Skies (Part 5)](episodes/s01_e02_blue_skies_part_5)
 - [S01-E02 - Nothing but Blue Skies (Part 6)](episodes/s01_e02_blue_skies_part_6)
+- [S01-E03 - Mother Knows Best (Part 1)](episodes/s01_e03_mother_knows_best_1)
