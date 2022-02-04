@@ -20,7 +20,7 @@ FEN_EXT_NAME = "Fen's StarTrekAdventures Extension"
 CAMPAIGN_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds\campaigns\Far Beyond the Stars'
 CHATLOG_FILE = 'chatlog.html'
 DB_FILE = "db.xml"
-OUT_DIR = r'D:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
+OUT_DIR = r'E:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
 BACKUP_DIR = join(OUT_DIR, "backups")
 
 SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
@@ -189,6 +189,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Mother Knows Best (Part 2)", "s01_e03_mother_knows_best_2")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Mother Knows Best (Part 3)", "s01_e03_mother_knows_best_3")
     formatter.parse_chatlog()
     delete_old_log()
