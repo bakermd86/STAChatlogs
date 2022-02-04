@@ -20,7 +20,7 @@ FEN_EXT_NAME = "Fen's StarTrekAdventures Extension"
 CAMPAIGN_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds\campaigns\Far Beyond the Stars'
 CHATLOG_FILE = 'chatlog.html'
 DB_FILE = "db.xml"
-OUT_DIR = r'E:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
+OUT_DIR = r'D:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
 BACKUP_DIR = join(OUT_DIR, "backups")
 
 SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
