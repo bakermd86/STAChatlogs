@@ -94,7 +94,6 @@ class ChatFormatter:
                 break
         for font_tag in font_tags:
             color, text = self.parse_line(font_tag)
-            print(color)
             if isinstance(font_tag.next_sibling, NavigableString):
                 text += font_tag.next_sibling
             elif isinstance(font_tag.nex_sigling, Tag):
