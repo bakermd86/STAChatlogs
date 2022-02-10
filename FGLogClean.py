@@ -15,7 +15,7 @@ OOC_FONT = '##005500'
 EMOTE_FONT = '##880000'
 MOOD_FONT = '##000000'
 
-FEN_EXT_NAME = "Fen's StarTrekAdventures Extension"
+FEN_EXT_NAME = "Fen's StarTrekAdventures Ruleset"
 
 CAMPAIGN_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds\campaigns\Far Beyond the Stars'
 CHATLOG_FILE = 'chatlog.html'
@@ -46,6 +46,7 @@ class ChatFormatter:
         self.ep_name = ep_name
         self.out_dir = out_dir
         self.pc_names = self.get_pc_names()
+        print(self.pc_names)
         self.pc_roll_pres = self.get_pc_roll_pres()
         self.pc_chat_pres = self.get_pc_chat_pres()
         self.soup = self.get_chat_soup()
@@ -93,6 +94,7 @@ class ChatFormatter:
                 break
         for font_tag in font_tags:
             color, text = self.parse_line(font_tag)
+            print(color)
             if isinstance(font_tag.next_sibling, NavigableString):
                 text += font_tag.next_sibling
             elif isinstance(font_tag.nex_sigling, Tag):
