@@ -8,8 +8,10 @@ from bs4 import BeautifulSoup
 from bs4.element import NavigableString, Tag
 
 
-WHISPER_ROLL_FONT = '##660066'
+WHISPER_FONT = '##660066'
+ROLL_FONT = '##660067'
 CHAT_FONT = '##261A12'
+NARRATOR_FONT = '##261A13'
 NPC_CHAT_FONT = '##000066'
 OOC_FONT = '##005500'
 EMOTE_FONT = '##880000'
@@ -118,18 +120,19 @@ class ChatFormatter:
     def get_line_type(self, color, text):
         if color == OOC_FONT:
             return LineTypes.OOC
-        elif (color == CHAT_FONT and any([text.startswith(s) for s in self.pc_chat_pres])) \
-                or color == NPC_CHAT_FONT:
+        # elif (color == CHAT_FONT and any([text.startswith(s) for s in self.pc_chat_pres])) \
+        #         or color == NPC_CHAT_FONT:
+        elif color == CHAT_FONT or color == NPC_CHAT_FONT:
             return LineTypes.CHAT
-        elif color == CHAT_FONT:
+        elif color == NARRATOR_FONT:
             return LineTypes.STORY
         elif color == EMOTE_FONT:
             return LineTypes.EMOTE
-        elif color == WHISPER_ROLL_FONT and any([text.startswith(s) for s in self.pc_roll_pres]):
+        elif color == ROLL_FONT and any([text.startswith(s) for s in self.pc_roll_pres]):
             return LineTypes.PC_ROLL
-        elif color == WHISPER_ROLL_FONT and "has used a point of Determination" in text:
+        elif color == ROLL_FONT and "has used a point of Determination" in text:
             return LineTypes.DETERMINE
-        elif color == WHISPER_ROLL_FONT:
+        elif color in (WHISPER_FONT, ROLL_FONT):
             return LineTypes.WHISPER_AND_NPC_ROLL
         elif color == MOOD_FONT:
             return LineTypes.MOOD
@@ -190,6 +193,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Mother Knows Best (Part 4)", "s01_e03_mother_knows_best_4")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "test", "test")
     formatter.parse_chatlog()
     delete_old_log()
