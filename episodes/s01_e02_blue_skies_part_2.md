@@ -20,14 +20,16 @@ Ruleset [Modiphius2d20] loaded.<br />
 Copyright 2021 Smiteworks USA, LLC*<br />
 *Fen's StarTrekAdventures Extension (v0.2) *<br />
 **Zox:  [d20 = 15]**<br />
->"Nothing but Blue Skies"Written By Nadia MacLeodDirected By Apolena Christianson<br />
+>"Nothing but Blue Skies"
+Written By Nadia MacLeod
+Directed By Apolena Christianson<br />
 
 >INTERIOR - Crew Lounge: As the red alert klaxon blares, any further response to Zox's violent outburst is cut short as Tural stands up and leaves. All of the attendees begin streaming out of the lounge, leaving the away team, Anjek , and Botok behind.<br />
 
 >The ship begins maneuvering, and the Cardassian cruiser is no longer visible through the large windows in the crew lounge<br />
 
 **Chief Botok:** Well that puts a bit of a damper on the festivities, eh sir?<br />
-**Hailey Murry:** Or extra explosives to the festivities<br />
+![](../images/murry.png) **Hailey Murry:** Or extra explosives to the festivities<br />
 *Zox rushes to the armory.*<br />
 *Hailey Murry pulls out a note pad to take notes for future reference*<br />
 **Chief Botok:** Is your duty station in engineering? Where can I be of some use?<br />
@@ -46,13 +48,13 @@ Copyright 2021 Smiteworks USA, LLC*<br />
 **Hailey Murry: [ INSIGHT  (12) +  SCIENCE  (5)]
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 13]**<br />
-**Hailey Murry:** I think we're in a dream, rather than a temporal event. It's quite likely, given the ionic storm was causing us to pass out, that the frequencies in the storm are responding to our brainwaves. After all, in a temporal event the crew would see us as strangers rather than responding as if we're additional crew. <br />
+![](../images/murry.png) **Hailey Murry:** I think we're in a dream, rather than a temporal event. It's quite likely, given the ionic storm was causing us to pass out, that the frequencies in the storm are responding to our brainwaves. After all, in a temporal event the crew would see us as strangers rather than responding as if we're additional crew. <br />
 **Lt. Cmdr Viraseti:** I agree it seems implausible, but it could be temporal-cognitive displacement<br />
 **Lt. Cmdr Viraseti:** Our cognition could have been displaced into other bodies, near to Skig's location<br />
 *Zox appears confused by this talk.*<br />
-**Hailey Murry:** I do think we need to take care not to have bad things happen to us, though. In a normal dream, we wake up when startled. I don't think the storm will permit that, though, so if someone were to become grievously injured during the course of the dream they may be stuck like that until we're able to awaken<br />
+![](../images/murry.png) **Hailey Murry:** I do think we need to take care not to have bad things happen to us, though. In a normal dream, we wake up when startled. I don't think the storm will permit that, though, so if someone were to become grievously injured during the course of the dream they may be stuck like that until we're able to awaken<br />
 *Zox Searches for weapons.*<br />
-**Hailey Murry:** Possible, but we're able to recognize each other for who we are<br />
+![](../images/murry.png) **Hailey Murry:** Possible, but we're able to recognize each other for who we are<br />
 **Zox: [ REASON  (7) +  SECURITY  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 12]**<br />
@@ -62,7 +64,7 @@ Success with 1 momentum [2d20 = 12]**<br />
 **Captain Baras:** Unless anyone has any more prudent suggestions<br />
 **Zox:** I see no reason to behave differently if this is a hallucination versus the past.<br />
 **Zox:** or _a_ past.<br />
-**Hailey Murry:** What do you normally dream about, Zox? <br />
+![](../images/murry.png) **Hailey Murry:** What do you normally dream about, Zox? <br />
 *Hailey Murry leads the way toward engineering*<br />
 **Lt. Cmdr Viraseti:** With your permission sir, I'm going to head to Stellar Cartography. I'd like to see if I can use the ship's sensors to look for any signs of temporal interference. Just in case we are wrong<br />
 *Lt. Cmdr Viraseti takes her leave*<br />
@@ -94,7 +96,7 @@ Success with 0 momentum [2d20 = 25]**<br />
 **Captain Baras:** I think he's talking to you Commanders<br />
 *Hailey Murry gives a salute and leads the way*<br />
 **Zox:** Sure.<br />
-**Hailey Murry:** Try to stick around parts of the ship that you recognize, they're less likely to have been replaced<br />
+![](../images/murry.png) **Hailey Murry:** Try to stick around parts of the ship that you recognize, they're less likely to have been replaced<br />
 *Captain Baras heads over to Botok to assist*<br />
 **Zox: [ DARING  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
@@ -103,40 +105,40 @@ Success with 1 momentum [2d20 = 18]**<br />
 **Hailey Murry: [ REASON  (9) +  CONN  (3)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 16]**<br />
-**Hailey Murry:** So, I'm pretty sure this is not the battle that nearly scuttled the Lister<br />
-**Hailey Murry:** So we're probably not in the worst of circumstances<br />
+![](../images/murry.png) **Hailey Murry:** So, I'm pretty sure this is not the battle that nearly scuttled the Lister<br />
+![](../images/murry.png) **Hailey Murry:** So we're probably not in the worst of circumstances<br />
 **Zox:** But if we do not do as we need to, it may scuttle it.<br />
 *Skig looks surprised to see them arrive.*<br />
 **Skig:** Oh, hello.<br />
-**Hailey Murry:** It would be a little surprising if that were the case, I think<br />
-**Hailey Murry:** Good morning, Skig!<br />
+![](../images/murry.png) **Hailey Murry:** It would be a little surprising if that were the case, I think<br />
+![](../images/murry.png) **Hailey Murry:** Good morning, Skig!<br />
 **Skig:** I fixed the problem, it helps having hindsight.<br />
-**Hailey Murry:** Oh, excellent<br />
+![](../images/murry.png) **Hailey Murry:** Oh, excellent<br />
 **Skig:** How is everyone else doing?<br />
-**Hailey Murry:** Judging from our discussions in the past, I was confident you'd have this handled<br />
+![](../images/murry.png) **Hailey Murry:** Judging from our discussions in the past, I was confident you'd have this handled<br />
 **Skig:** Yes, yes, wonderful.<br />
 *Skig is clearly distracted.*<br />
 *Zox Takes position by a door.*<br />
-**Hailey Murry:** Viraseti has gone up to Stellar Cartography to check on some scans, I think Captain Baras is following Chief Botok<br />
+![](../images/murry.png) **Hailey Murry:** Viraseti has gone up to Stellar Cartography to check on some scans, I think Captain Baras is following Chief Botok<br />
 **Skig:** Viraseti should be safe there, I had a flashback of a different situation and thought she might be in danger, but not today.<br />
-**Hailey Murry:** We left Anjek with Captain Baras. Now that I think about it, we should probably keep her close and provide some moral support. She's more alone than the rest of us are here. <br />
+![](../images/murry.png) **Hailey Murry:** We left Anjek with Captain Baras. Now that I think about it, we should probably keep her close and provide some moral support. She's more alone than the rest of us are here. <br />
 **Skig:** Who?<br />
 **Skig:** Oh sure, yes, do that.<br />
 *Skig resumes staring at a console in front of her while twiddling with an electric spanner in one hand.*<br />
 *Skig presses comm button badge.*<br />
 **Skig:** Tural, we should have enough power now to evade the Cardassian and keep our shields angled behind us.  How are we doing?<br />
 *Hailey Murry steps up behind Skig and sips her coffee, keeping an eye on the situation*<br />
-**Hailey Murry:** If I may ask, what originally happened?<br />
+![](../images/murry.png) **Hailey Murry:** If I may ask, what originally happened?<br />
 *Skig switches to "Screen Saver 3" on console 2.*<br />
 **Tural:** Main power is back online, the captain has ordered evasive action. Your work up there is adequate, but I could use your assistance here if you are finished<br />
 **Skig:** Understood, I'm on my way with Pederson and Ghex.<br />
 *Skig turns off comm badge.*<br />
 **Skig:** Botok climbed up the tube ahead of me, was lacerated by a electrical discharge, and died several minutes ago while I was getting burned badly forcing cabling back together to stop a core breach.<br />
-**Hailey Murry:** That...would have been a very troublesome position to be in<br />
+![](../images/murry.png) **Hailey Murry:** That...would have been a very troublesome position to be in<br />
 **Skig:** Hindsight being perfect, this time he did not climb up, I took the left side of the tube, and remembered to take the gloves with me when I need to touch the raw coils.<br />
 *Skig shrugs.*<br />
 *Zox begins to think about installing some additional signs advertising the proper use of PPE in engineering.*<br />
-**Hailey Murry:** I was telling Zox, I think we're in a dream of sorts. Reliving an event. We'll check back with Viraseti to confirm. However, unlike a normal dream I don't think we'll wake up if...otherwise lethal things happen. <br />
+![](../images/murry.png) **Hailey Murry:** I was telling Zox, I think we're in a dream of sorts. Reliving an event. We'll check back with Viraseti to confirm. However, unlike a normal dream I don't think we'll wake up if...otherwise lethal things happen. <br />
 **Skig:** Although I realize that sometimes my memory of today and my memories of Betazed seem to be interchangeable.<br />
 *Skig leads the others back to Tural.*<br />
 **Zox: [ FITNESS  (9) +  ENGINEERING  (4)]
@@ -196,7 +198,7 @@ Success with 2 momentum [2d20 = 11]**<br />
 **Chief Botok:** Well, I am impressed Lietenant. Another year or two and you'll displace that poor Vulcan chap and take over the whole shop<br />
 **Skig:** Botok, can you validate the triphasic non-pinion aviary edibility quotient?<br />
 *Skig blushes at the compliment from Botok.*<br />
-**Hailey Murry:** Well, I am impressed Lietenant. Another year or two and you'll displace that poor Vulcan chap and take over the whole shop<br />
+![](../images/murry.png) **Hailey Murry:** Well, I am impressed Lietenant. Another year or two and you'll displace that poor Vulcan chap and take over the whole shop<br />
 **Hailey Murry:  [d20 = 5]**<br />
 **Zox:  [d20 = 13]**<br />
 **Skig:** Thank you, I am honored you feel that way, every day in engineering is an opportunity to learn.<br />
@@ -220,7 +222,7 @@ Success with 1 momentum [2d20 = 20]**<br />
 *Skig relays information to Sick Bay as she chases after Zox, who is behaving quite questionably right night.*<br />
 >Zox and Skig run towards the turbolift and get in, Murry, Baras and Anjek follow suit.<br />
 
-**Hailey Murry:** Baras, Anjek, come this way! <br />
+![](../images/murry.png) **Hailey Murry:** Baras, Anjek, come this way! <br />
 >The turbolift doors close and it begins speeding away towards sickbay<br />
 
 **Skig: [ INSIGHT  (8) +  MEDICINE  (2)]
@@ -296,15 +298,15 @@ Success with 1 momentum [2d20 = 16]**<br />
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 6]**<br />
 *Skig is trying to adjust the "music box" to play a suitably beautiful ionic melody that will soothe the savage storm.*<br />
-**Hailey Murry:** Hmmm<br />
+![](../images/murry.png) **Hailey Murry:** Hmmm<br />
 *Zox 's normally cumbersome claws gracefully manipulate the music box.*<br />
 *Lt. Cmdr Viraseti comes back into the lounge, looking somewhat out of sorts*<br />
-**Hailey Murry:** How are you doing, Lieutenant Commander? <br />
+![](../images/murry.png) **Hailey Murry:** How are you doing, Lieutenant Commander? <br />
 *Lt. Cmdr Viraseti runs over to the away team and begins scanning  them with her tricorder*<br />
 **Hailey Murry: [ INSIGHT  (12) +  MEDICINE  (3)]
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 10]**<br />
-**Hailey Murry:** Viraseti, what's the matter?<br />
+![](../images/murry.png) **Hailey Murry:** Viraseti, what's the matter?<br />
 **Lt. Cmdr Viraseti:** I managed to access the sensor array in stellar cartography. In case you were wondering: no signs of any temporal disruptions<br />
 **Lt. Cmdr Viraseti:** In fact, there were no signs of almost anything. The ships sensors could only read one thing<br />
 **Lt. Cmdr Viraseti:** Tellerite lifesigns<br />
@@ -328,10 +330,10 @@ Success with 2 momentum [2d20 = 10]**<br />
 **Captain Baras:** Ok, so definitely not time travel...<br />
 **Captain Baras:** Murry, what's your take on this?<br />
 **Captain Baras:** If this isn't reality, then how do we get out of it?<br />
-**Hailey Murry:** My take is a bit frustrated, because I think we may not be sharing a dream<br />
-**Hailey Murry:** I think we're all in Skig's dream<br />
+![](../images/murry.png) **Hailey Murry:** My take is a bit frustrated, because I think we may not be sharing a dream<br />
+![](../images/murry.png) **Hailey Murry:** I think we're all in Skig's dream<br />
 *Zox spikes the coffee with Romulan Ale.*<br />
-**Hailey Murry:** Or we're all dead and our ghosts are inhabiting Skig's body<br />
+![](../images/murry.png) **Hailey Murry:** Or we're all dead and our ghosts are inhabiting Skig's body<br />
 **Zox: [ DARING  (11) +  MEDICINE  (1)]
 [Focus: Espionage ]
 [Successes: 3] [Complications: 0]
@@ -340,17 +342,17 @@ Success with 2 momentum [2d20 = 6]**<br />
 **Captain Baras:** Well let's assume we're not dead yet, for now<br />
 **Captain Baras:** Hard to operate under the opposite assumption<br />
 *Zox presents Skig with an appropriately steaming, very aromatic cup, complete with biscuits.*<br />
-**Hailey Murry:** It would be quite a scientific achievement if we were all reincarnated into Skig after this<br />
+![](../images/murry.png) **Hailey Murry:** It would be quite a scientific achievement if we were all reincarnated into Skig after this<br />
 **Zox:** Merry Hatching Day.<br />
 **Skig:** That level of psychotic multiple personalities would diminsh my overall ability to perform repairs.<br />
 *Skig takes biscuits and coffee from Zox.*<br />
 **Skig:** Happy Ovulation Production Festival to You!<br />
 **Captain Baras:** Murry, I am sure that would be fascinating to write a paper about, but I would prefer we all end up in the correct bodies<br />
-**Hailey Murry:** Are you sure about that? Your body is pretty old...<br />
+![](../images/murry.png) **Hailey Murry:** Are you sure about that? Your body is pretty old...<br />
 **Captain Baras:** You are aware that I am your commanding officer, yes?<br />
-**Hailey Murry:** Yes, sir!<br />
+![](../images/murry.png) **Hailey Murry:** Yes, sir!<br />
 **Skig:** Indeed, Zox's claws would not help with Murry's tendency to shove her fingers into her temples when she is thinking.<br />
-**Hailey Murry:** On the other hand, Zox has a very hard head<br />
+![](../images/murry.png) **Hailey Murry:** On the other hand, Zox has a very hard head<br />
 *Zox begins to ponder Skig's statement.*<br />
 **Lt. Cmdr Viraseti:** It's too bad we didn't bring the twins on this away team, that would be a fascinating wrinkle for this paper you're proposing<br />
 *Zox Begins scratching his head.*<br />

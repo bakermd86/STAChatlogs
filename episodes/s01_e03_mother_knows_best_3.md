@@ -14,13 +14,13 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 >♫♫♫ Mysterious Music ♫♫♫<br />
 
 **Zox:** Im taking my crew down these auxiliary shafts.<br />
-**Hailey Murry:** Well, on the plus side we really don't need to inspect down there…wait, where did Zox go?<br />
+![](../images/murry.png) **Hailey Murry:** Well, on the plus side we really don't need to inspect down there…wait, where did Zox go?<br />
 >The away team soon rounds a corner to find Commander Zox wrapped up by a large snake-like creature emerging from a hole in the shaft wall.<br />
 
 **Kolea:** I've had fantasies about things like this!<br />
 >Zox bashes the snake against the rocks, tearing open its flesh and releasing still more gas<br />
 
-**Hailey Murry:** Commander Murry to Lister, we need two things. We need to be beamed out. And we should pretend this was a resounding success.<br />
+![](../images/murry.png) **Hailey Murry:** Commander Murry to Lister, we need two things. We need to be beamed out. And we should pretend this was a resounding success.<br />
 >Skig materializes Zox in the containment system.<br />
 
 **Dr. Zerra:** It looks like something is… rewriting the Commander's DNA<br />
@@ -44,15 +44,15 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 >Hailey Murry steps up to look through the field in horror<br />
 
 **Zox:** Congratulations!<br />
-**Hailey Murry:** Not again<br />
+![](../images/murry.png) **Hailey Murry:** Not again<br />
 >Just then, Captain Baras enters Sickbay with an older Voth female<br />
 
 **Rhuk:** What are you hiding from me?<br />
-**Hailey Murry:** I'm not hiding anything, really, I just don't want you to worry about things that we don't have to worry about<br />
+![](../images/murry.png) **Hailey Murry:** I'm not hiding anything, really, I just don't want you to worry about things that we don't have to worry about<br />
 **Lt. Malat:** It's just getting to the good part, I want to see how Murry explains the Voth eggs in her belly<br />
 **Skig:** Who am I to question what the Counselor and Chief of Security do in their “free” time?<br />
 **Rhuk:** What what? Voth eggs in that small creature?<br />
-**Hailey Murry:** It was via the transporters. It has to have been.<br />
+![](../images/murry.png) **Hailey Murry:** It was via the transporters. It has to have been.<br />
 **Rhuk:** Iss that what they are calling it now?<br />
 **Dr. Zerra:** I didn't think to check the first time, I just assumed… But these eggs don't seem to contain any of the Counselor's DNA<br />
 **Dr. Zerra:** I think they need a little privacy to discuss their options<br />
@@ -241,7 +241,7 @@ Success with 1 momentum [2d20 = 12]**<br />
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 24]**<br />
 **Skig:** Captain, I have good news and bad news.<br />
-**Hailey Murry:** Zox? <br />
+![](../images/murry.png) **Hailey Murry:** Zox? <br />
 **Captain Baras:** I hope so, I could use some good news<br />
 **Zox:** Hello!<br />
 **Hailey Murry:  [d6 = 5]**<br />
@@ -283,13 +283,13 @@ Success with 0 momentum [2d20 = 31]**<br />
 **Skig:** Right away Captain. I apologize that the Lister is misbehaving in this way, we will need to figure out how to update our biofilters to prevent this in the future.<br />
 *Hailey Murry recoils from Rhuk's actions, already caught off guard by the thing in front of them*<br />
 *Skig heads back down the turbolift shaft, taking the shortest and most efficient route back to the ship.*<br />
-**Hailey Murry:** Stop that! <br />
+![](../images/murry.png) **Hailey Murry:** Stop that! <br />
 *Hailey Murry opens up the nearest door to grab an improvised weapon*<br />
 **Hailey Murry:  [d6 = 4]**<br />
 **Caiveka:** Counselor, how good it is to see you!<br />
 >Murry and Rhuk barge into the nearest door, which happens to be a crew quarters, just as the beast hisses loudly and starts barelling towards them<br />
 
-**Hailey Murry:** Oh thank goodness get a weapon! Rhuk, this way!<br />
+![](../images/murry.png) **Hailey Murry:** Oh thank goodness get a weapon! Rhuk, this way!<br />
 *Rhuk follows the noble Federation Officer's orders.*<br />
 **Hailey Murry: [ DARING  (11) +  SECURITY  (2)]
 [Successes: 1] [Complications: 0]
@@ -310,7 +310,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 31]**<br />
 *Hailey Murry grabs the model of the Galaxy Class starship*<br />
-**Hailey Murry:** I really wish this was pointier<br />
+![](../images/murry.png) **Hailey Murry:** I really wish this was pointier<br />
 **Rhuk: [ DARING  (10) +  SECURITY  (1)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 9]**<br />
@@ -333,7 +333,7 @@ Success with 0 momentum [2d20 = 27]**<br />
 **Hailey Murry: [ DARING  (11) +  SECURITY  (2)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 19]**<br />
-**Hailey Murry:** Oh jeez! Tail!<br />
+![](../images/murry.png) **Hailey Murry:** Oh jeez! Tail!<br />
 >Murry lunges at the creature but it swats her aside <br />
 
 **Rhuk: [ DARING  (10) +  SECURITY  (1)]
@@ -353,7 +353,7 @@ Success with 1 momentum [2d20 = 23]**<br />
 >The creature sinks its teeth into Caiveka, and begins to coil its body around her<br />
 
 *Rhuk does not quite comprehend how the Federation ever withstood the Kingon Empire.*<br />
-**Hailey Murry:** Oh no you don't!<br />
+![](../images/murry.png) **Hailey Murry:** Oh no you don't!<br />
 **Hailey Murry: [ DARING  (11) +  SECURITY  (2)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 12]**<br />

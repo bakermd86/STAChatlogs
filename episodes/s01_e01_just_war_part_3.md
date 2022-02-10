@@ -53,14 +53,14 @@ Success with 0 momentum [2d20 = 31]**<br />
 **Crewman McAllister:** Commander Zox, permission to return to my post<br />
 <font color="##005500">Feneril: before I am killed</font><br />
 **Zox:** Sure.<br />
-**Hailey Murry:** Were we able to obtain up any information from the system he came from? <br />
+![](../images/murry.png) **Hailey Murry:** Were we able to obtain up any information from the system he came from? <br />
 *Crewman McAllister runs away joyfully, having survived his first scene*<br />
 **Zox:** Hailey, perhaps we should ask our diplomats about this our new guest?<br />
-**Hailey Murry:** Absolutely<br />
+![](../images/murry.png) **Hailey Murry:** Absolutely<br />
 **Skig:** I think that is a good idea Zox, although I am not sure they will know anything specific.<br />
 *Hailey Murry pulls out her PAD and takes a few notes on it*<br />
 **Zox:** Skig, have you ever given thought to the fragile mammlian nerve system? Do you think it would be possible to analyze heat and nerve signatures when Hailey is talking to the diplomats to determine if they are telling the truth?<br />
-**Hailey Murry:** Were we able to figure out anything from the automated systems? How long he was there, when he awoke, the nature of the building? <br />
+![](../images/murry.png) **Hailey Murry:** Were we able to figure out anything from the automated systems? How long he was there, when he awoke, the nature of the building? <br />
 **Oakadan:** I've got those, Doctor. Let me upload them now for you<br />
 **Zox:** That is a good question Hailey. Perhaps we should beam down a technical crew with a security detail until the Traveller wakes.<br />
 **Zox:** Oh excellent!<br />
@@ -92,12 +92,12 @@ Success with 0 momentum [2d20 = 24]**<br />
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 20]**<br />
 **Zox:** No one leaves sick bay without an all clear and a signature!<br />
-**Hailey Murry:** Skig, do you want to take a look at this before I go?<br />
+![](../images/murry.png) **Hailey Murry:** Skig, do you want to take a look at this before I go?<br />
 >A level 4 containment field spring up around the Traveller's sickbay bed<br />
 
 **Skig:** The warp field inhibitor affecting the ship has dissipated, there are 20-30 satellites projecting smaller warp fields in geosynchronous locations around the planet, but they are not posing a danger to the ship. We are still without our missing shipmates though.<br />
-**Hailey Murry:** The data on the facility has hundreds of instances of "neutralized" organisms within the last 24 hours. Potentially our crew? <br />
-**Hailey Murry:** 12 hours, pardon me<br />
+![](../images/murry.png) **Hailey Murry:** The data on the facility has hundreds of instances of "neutralized" organisms within the last 24 hours. Potentially our crew? <br />
+![](../images/murry.png) **Hailey Murry:** 12 hours, pardon me<br />
 *Dr. Zerra looks over Commander Murry's shoulder*<br />
 **Skig:** Excellent, that could explain our missing crew, does the number equal or exceed our missing crew count?<br />
 **Skig:** And most importantly, how do we get them back?<br />
@@ -105,7 +105,7 @@ Success with 1 momentum [2d20 = 20]**<br />
 **Dr. Zerra:** These sections look like DNA sequences<br />
 *Skig looks over at Zox.*<br />
 **Skig:** Also, excellent work in short time, Security Chief, you are to be commended.<br />
-**Hailey Murry:** Crewman Oakadan, please provide copies of this to Doctor Zerra and Skig. I need to go have a word with Ambassador Talis. <br />
+![](../images/murry.png) **Hailey Murry:** Crewman Oakadan, please provide copies of this to Doctor Zerra and Skig. I need to go have a word with Ambassador Talis. <br />
 *Zox 's Face pulses red in a chamelon like fashion.*<br />
 **Zox:** Thank you.<br />
 >INTERIOR - Briefing Room: Commander Murry has summoned Abassador Talis for questioning<br />
@@ -117,34 +117,34 @@ Success with 1 momentum [2d20 = 20]**<br />
 **Telar Talis:** We asked you here to help us, not to spring some trap on you<br />
 **Zox:** That may be true. It's possible you are being played by yet another entity.<br />
 **Skig:** My apologies ambassador, Zox was not using his inside voice when the door opened.<br />
-**Hailey Murry:** It's a good question. How much do you know about your planet's defense mechanisms?<br />
+![](../images/murry.png) **Hailey Murry:** It's a good question. How much do you know about your planet's defense mechanisms?<br />
 **Telar Talis:** Not much, any such technology was built long before I was born<br />
 **Telar Talis:** We have only the stories of our elders, passed down over the many years since<br />
 *Zox points to small holes in the side of his head.*<br />
 **Telar Talis:** We know that we once ruled the stars, as you do<br />
-**Hailey Murry:** What sorts of stories did they tell? <br />
+![](../images/murry.png) **Hailey Murry:** What sorts of stories did they tell? <br />
 **Telar Talis:** When the war began, we fought on the ground, in the air and in the stars above our world<br />
 <font color="##005500">indarien (Skig): How long ago was this?</font><br />
 **Telar Talis:** All of our space-faring vessels were destoyed within a decade<br />
 **Telar Talis:** When we ran out of ships, we fought with planes. And when we ran out of planes, we fought with phasers, and guns, and eventually our bare hands<br />
 *Zox stares at Telar's hands. Zox is not impressed at their war-making capacity.*<br />
 **Telar Talis:** If there is some planetary defense system that is threatening your ship, then it must have been the Northern Front's doing<br />
-**Hailey Murry:** I have to wonder if it was a technology that came before the war<br />
+![](../images/murry.png) **Hailey Murry:** I have to wonder if it was a technology that came before the war<br />
 **Zox:** Very much so, if you cannot remember how long it has been, how accurate could your arsenal inventory be?<br />
 **Skig:** Such is the travesty of war, that regression into stone age technology follows this level of destruction, it is fortunate you skipped the "global thermonuclear" option.<br />
-**Hailey Murry:** Do you know if citizens from the Central Republic been frequenting those ruins recently?<br />
+![](../images/murry.png) **Hailey Murry:** Do you know if citizens from the Central Republic been frequenting those ruins recently?<br />
 **Telar Talis:** No, the Northern Front occupied that land 20 years ago<br />
 **Skig:** Ambassador, realistically, if the Northern Front was capable of this, I would expect them to have overrun and conquered you long ago. Not as an insult to the bravery of your fighters, but because if they had the ability to incapacitate and neutralize hundreds of people from space, they could have applied such technology to eliminate entire armies of yours.<br />
 **Telar Talis:** They stole it from my people<br />
 *Zox Seems to nod in agreement with Skig.*<br />
-**Hailey Murry:** Do you recall the original name for the ruins? <br />
+![](../images/murry.png) **Hailey Murry:** Do you recall the original name for the ruins? <br />
 **Skig:  [1 = 1]**<br />
 **Telar Talis:** It was once a city: Tuvad Durikah<br />
 **Skig: [ REASON  (10) +  SCIENCE  (3)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 22]**<br />
 **Telar Talis:** My grandfather told me it was a beautiful place once<br />
-**Hailey Murry:** It still is, though in a different way<br />
+![](../images/murry.png) **Hailey Murry:** It still is, though in a different way<br />
 **Skig:** I'm going to check some things, Zox, could you come with me while Murry pumps the ambassador for information?<br />
 **Zox:** Absolutely.<br />
 **Kolea:** WAIT A MINUTE!  There is no pumping for information without me!<br />
@@ -165,7 +165,7 @@ Success with 1 momentum [2d20 = 11]**<br />
 *Zox blinks in reptile.*<br />
 **Zox:** Yes we think alike.<br />
 **Skig:** Excellent, I had not considered that option, but that is a logical next step. Let's see how we can enact that plan.<br />
-**Hailey Murry:** We're doing quite a bit more at the moment. I'm confident that we'll get to the bottom of this, but it does appear that we're dealing with something that is tied into the history of your planet. Pre-war, even, by the looks of it. I imagine we'll have the situation resolved sooner rather than later!<br />
+![](../images/murry.png) **Hailey Murry:** We're doing quite a bit more at the moment. I'm confident that we'll get to the bottom of this, but it does appear that we're dealing with something that is tied into the history of your planet. Pre-war, even, by the looks of it. I imagine we'll have the situation resolved sooner rather than later!<br />
 >♫♫♫Spoooooky Music Sting♫♫♫<br />
 
 *Skig LOVES her ship.*<br />
@@ -251,13 +251,13 @@ Success with 1 momentum [2d20 = 10]**<br />
 >INTERIOR - Sickbay: Skig and Commander Murry return to Sickbay to question The Traveller about the warp bubble satellites.<br />
 
 *Dr. Zerra gives the Traveller an injection, and he slowly opens his eyes*<br />
-**Hailey Murry:** Good morning!<br />
+![](../images/murry.png) **Hailey Murry:** Good morning!<br />
 *Traveller looks around the room with a pained expression on his face*<br />
-**Hailey Murry:** Would you like something to drink? I think you've been out of it for quite some time<br />
+![](../images/murry.png) **Hailey Murry:** Would you like something to drink? I think you've been out of it for quite some time<br />
 **Traveller:** I do not know how much of your time it has been, for me it has been... eternities<br />
-**Hailey Murry:** It sounds like it's been incredibly hard<br />
+![](../images/murry.png) **Hailey Murry:** It sounds like it's been incredibly hard<br />
 **Traveller:** You are not the beings that confined me<br />
-**Hailey Murry:** We are not. How did you end up in there? <br />
+![](../images/murry.png) **Hailey Murry:** We are not. How did you end up in there? <br />
 **Traveller:** I came to this world on my travels, they tricked me, used me....<br />
 *Traveller trails off*<br />
 **Traveller:** All those people...<br />
@@ -265,11 +265,11 @@ Success with 1 momentum [2d20 = 10]**<br />
 **Traveller:** I have seen things... Done things... <br />
 **Skig:** Doctor, Murry, I need to attend to other matters, I leave this in your capable hands.<br />
 *Skig departs.*<br />
-**Hailey Murry:** Of course<br />
-**Hailey Murry:** Would you like something to drink or eat? <br />
+![](../images/murry.png) **Hailey Murry:** Of course<br />
+![](../images/murry.png) **Hailey Murry:** Would you like something to drink or eat? <br />
 *Skig heads up to the bridge to meet with Zox.*<br />
 **Traveller:** No, their... machine made sure my phsyical needs were met<br />
-**Hailey Murry:** Yet eating and drinking can serve other purposes as well. I've always found the ritual to be calming<br />
+![](../images/murry.png) **Hailey Murry:** Yet eating and drinking can serve other purposes as well. I've always found the ritual to be calming<br />
 *Hailey Murry takes a sip of tea*<br />
 **Traveller:** No! I have been a prisoner here too long, I will not be confined any longer.<br />
 *Traveller stands up and walks through Zox's containment field, then begins to phase out of physical space again*<br />

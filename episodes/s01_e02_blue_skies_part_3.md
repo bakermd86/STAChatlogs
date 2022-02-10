@@ -11,29 +11,29 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 >Counselor's Log - I only have a moment of peace away from the others. I hope this remains intact after this, though I expect it will not. Still, the act of repeating it will help with retention. The working theory is that the ionic storm is causing us to relive of the USS Lister's battles, a flight from a Cardassian cruiser that left some trauma on Skig. We thought that hindsight would allow a cleaner resolution than in reality, but it appears we only delayed the inevitable and looped back to the beginning. I'm concerned for Skig's wellbeing if we continue to repeat this loop, but I'm more concerned that we won't get the chance. The Cardassian cruiser is now ionized. Things are escalating. End recording.<br />
 
 **Captain Baras:** Counselor, I am not convinced that Skig's efforts with Chief Botok are going to amount to anything<br />
-**Hailey Murry:** Neither am I<br />
+![](../images/murry.png) **Hailey Murry:** Neither am I<br />
 **Captain Baras:** I want an alternative course of action, thoughts?<br />
-**Hailey Murry:** In fact, I think it may wind up being worse for us, given the changes we're seeing on only our second loop<br />
-**Hailey Murry:** Zox, what are your thoughts?<br />
+![](../images/murry.png) **Hailey Murry:** In fact, I think it may wind up being worse for us, given the changes we're seeing on only our second loop<br />
+![](../images/murry.png) **Hailey Murry:** Zox, what are your thoughts?<br />
 *Hailey Murry takes a drink of her coffee as she thinks*<br />
 **Zox:** I am not certain. I am not assigned to the security of this vessel at this time.<br />
 **Zox:** Perhaps we need to give Skig more fermented beverages such that she mellows our.<br />
 **Zox:** ..out and stops having violent recollections and dreams.<br />
 **Captain Baras:** So you think a theraputic solution might help?<br />
-**Hailey Murry:** It might. Something about learning to let go...<br />
+![](../images/murry.png) **Hailey Murry:** It might. Something about learning to let go...<br />
 *Hailey Murry sighs*<br />
-**Hailey Murry:** But this is very tactile<br />
-**Hailey Murry:** Have we tried reaching out to the Cardassian ship to see what it wants?<br />
+![](../images/murry.png) **Hailey Murry:** But this is very tactile<br />
+![](../images/murry.png) **Hailey Murry:** Have we tried reaching out to the Cardassian ship to see what it wants?<br />
 **Zox:** War.<br />
 **Zox: [ INSIGHT  (8) +  MEDICINE  (1)]
 [Focus: Xenobiology ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 18]**<br />
-**Hailey Murry:** Ah, let me rephrease; have we tried reaching out to the ionic storm that's in superposition with the Cardassian ship? <br />
+![](../images/murry.png) **Hailey Murry:** Ah, let me rephrease; have we tried reaching out to the ionic storm that's in superposition with the Cardassian ship? <br />
 **Zox:** I think you should put mild psychadelics in Skigs food, microdosing.<br />
 **Lt. Cmdr Viraseti:** Interesting idea Counselor. You think we might find someone or something to communicate with?<br />
 **Captain Baras:** Ok, if we wanted to attempt communication, how would we do it?<br />
-**Hailey Murry:** Let's try to reach out to the enemy ship first, see if we can communicate with them through the ship. Pay attention to the static or distortions as well, I can run some scans and see if there are words within the sounds.<br />
+![](../images/murry.png) **Hailey Murry:** Let's try to reach out to the enemy ship first, see if we can communicate with them through the ship. Pay attention to the static or distortions as well, I can run some scans and see if there are words within the sounds.<br />
 **Zox: [ REASON  (7) +  ENGINEERING  (4)]
 [Focus: Espionage ]
 [Successes: 2] [Complications: 0]
@@ -44,7 +44,7 @@ Success with 1 momentum [2d20 = 21]**<br />
 **Zox: [ PRESENCE  (10) +  SECURITY  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 14]**<br />
-**Hailey Murry:** The communication does not need to be "meaningful" in the classic sense of the terms. We don't necessarily have to come to peace with the ship, but rather to pick out subtle messages in how they phrase things or voices in the static to clue us into an out.<br />
+![](../images/murry.png) **Hailey Murry:** The communication does not need to be "meaningful" in the classic sense of the terms. We don't necessarily have to come to peace with the ship, but rather to pick out subtle messages in how they phrase things or voices in the static to clue us into an out.<br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
 [Focus: Acoustics ]
 [Successes: 2] [Complications: 1]
@@ -99,13 +99,13 @@ Success with 0 momentum [2d20 = 22]**<br />
 *Zox begins laying eggs.*<br />
 *Lt. Cmdr Viraseti begins to roll to her feet*<br />
 **Skig ***(mutters in her sleep)*: Yes, I would like another Romulan Ale mixer. This is delicious.<br />
-**Hailey Murry:** That was almost as unpleasant as when we mixed up the frequencies for the sonic showers<br />
+![](../images/murry.png) **Hailey Murry:** That was almost as unpleasant as when we mixed up the frequencies for the sonic showers<br />
 **Lt. Cmdr Viraseti:** This place is not at all conducive to humanoid life<br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
 [Focus: Acoustics ]
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 15]**<br />
-**Hailey Murry:** That definitely came from outside our current predicament. Either directly from the storm or something else interacting with it<br />
+![](../images/murry.png) **Hailey Murry:** That definitely came from outside our current predicament. Either directly from the storm or something else interacting with it<br />
 **Captain Baras:** Skig, what happened in engineering? We were discussing a plan to attempt to communicate with... whatever it is that is going on here<br />
 *Skig wakes up, looks around blearily, stands up and Picard-Maneuvers her shirt back into position.*<br />
 <font color="##005500">Masakari (Zox): it occurs to me that the best ways to wear pajamas all the time is work for star-fleet, or work from home.</font><br />
@@ -122,12 +122,12 @@ Success with 1 momentum [2d20 = 6]**<br />
 Success with 0 momentum [2d20 = 24]**<br />
 **Skig:** Current Lister Bridge or Skig's Memory Lister Bridge?<br />
 <font color="##005500">indarien (Skig): Current Lister Bridge or Skig's Memory Lister Bridge?</font><br />
-**Hailey Murry:** What did the storm state? <br />
+![](../images/murry.png) **Hailey Murry:** What did the storm state? <br />
 **Skig:** Disable killing power response, with lots of extra static and screeching.<br />
 >As the crew contemplate their situation on the bridge, the Cardassian cruiser again emerges from behind the planet, again surrounded by a massive ionic storm<br />
 
-**Hailey Murry:** That...probably has to do with the main plan back in the real world<br />
-**Hailey Murry:** Which we're unfortunately sequestered from<br />
+![](../images/murry.png) **Hailey Murry:** That...probably has to do with the main plan back in the real world<br />
+![](../images/murry.png) **Hailey Murry:** Which we're unfortunately sequestered from<br />
 **Skig:** I assume the Weather Grid is triggering a response from this entity.<br />
 **Skig:** Yes, I was trying to get the entity to leave the area so we could wake up and figure out how to disable the power grid in a way that was not an attack on the entity itself.<br />
 **Zox:** I refuse to believe that a planet has brought problems upon itself and we alone can show them a solution. It seems too simple.<br />
@@ -138,7 +138,7 @@ Success with 0 momentum [2d20 = 24]**<br />
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 15]**<br />
 **Skig:** Something about this situation reminded me of the Enterprise experience with the discovery of the Horta in the mining colony, where the miners were unintentionally destroying the eggs and provoked a response from the parent.<br />
-**Hailey Murry:** Does this mean the entity is tied into the power grid now? <br />
+![](../images/murry.png) **Hailey Murry:** Does this mean the entity is tied into the power grid now? <br />
 **Skig:** Or the power grid is seen as a hostile force by the entity, and it is escalating back and forth between upgrades and responses and finally brought about a situation where we could make contact.<br />
 >A grim looking Cardassian appears on the viewscreen<br />
 
@@ -148,9 +148,9 @@ Success with 1 momentum [2d20 = 15]**<br />
 **Captain Baras:** This is Captain Baras of the USS Lister, we would like to signal our surrender and discuss terms<br />
 *Skig remembers to schedule taking down Holodeck 4 for "maintenance" when she needs to de-stress by simulating previous Starfleet After-Action-Reports.*<br />
 *Cardassian Gul emits another series of screeching sounds*<br />
-**Hailey Murry:** It's not going to help, Zox, the sound is directly to the ear drums. Possibly to the sensory sentor of the brain directly<br />
+![](../images/murry.png) **Hailey Murry:** It's not going to help, Zox, the sound is directly to the ear drums. Possibly to the sensory sentor of the brain directly<br />
 *Skig uses Universal Translator to get an idea what is being communicated.*<br />
-**Hailey Murry:** Does the universal translator work on Gul?<br />
+![](../images/murry.png) **Hailey Murry:** Does the universal translator work on Gul?<br />
 **Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Focus: Computers ]
 [Successes: 4] [Complications: 0]
@@ -162,7 +162,7 @@ Success with 3 momentum [2d20 = 3]**<br />
 <font color="##005500">indarien (Skig): Majel Barrett?</font><br />
 **Commander Bachar:** I repeat: To anyone on the away team that can hear me, you need to disable the weather control grid. You lifesigns are fading, the radiation at your location is killing you. You need to cut all power to the weather control grid so we can obtain a transporter lock. We will repeat every minute until we get your response.<br />
 **Zox:** Skig, the one item that has followed us in all these dream sequences is the emitter; if we find it here can you hotwire it to disable the entire network?<br />
-**Hailey Murry:** This is part of the original message we got earlier<br />
+![](../images/murry.png) **Hailey Murry:** This is part of the original message we got earlier<br />
 **Skig:** No problem.<br />
 *Skig looks for a suspiciously emitter sized object.*<br />
 **Captain Baras:** Commander Bachar, we copy your message, do you read this transmission?<br />
@@ -181,7 +181,7 @@ Success with 1 momentum [2d20 = 20]**<br />
 
 **Zox:** Quickly Skig.<br />
 **Skig:** Right-o!<br />
-**Hailey Murry:** Duly noted, Captain, but I think she's still good for now. <br />
+![](../images/murry.png) **Hailey Murry:** Duly noted, Captain, but I think she's still good for now. <br />
 *Skig looks at the music box.*<br />
 **Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Focus: Reverse Engineering ]
@@ -205,7 +205,7 @@ Success with 2 momentum [2d20 = 7]**<br />
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 22]**<br />
 **Skig:** This is the song we played at Tural's funeral, mostly because nothing else was working on the Lister at the time. Weird how the music box would pick that one.<br />
-**Hailey Murry:** Oh no, the Cardassian ship is moving much faster<br />
+![](../images/murry.png) **Hailey Murry:** Oh no, the Cardassian ship is moving much faster<br />
 **Zox:** Perhaps it is not the key to switching off the network.<br />
 **Skig:** And then it was stuck in a loop and I was too busy keeping the ship operational, so this song was flooded on all the decks for about a week.<br />
 **Skig:** I hate this song.<br />
@@ -231,7 +231,7 @@ Success with 0 momentum [2d20 = 30]**<br />
 **Zox: [ INSIGHT  (8) +  SECURITY  (4)]
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 26]**<br />
-**Hailey Murry:** What did we just eject?<br />
+![](../images/murry.png) **Hailey Murry:** What did we just eject?<br />
 *Skig attempts to determine what this is.*<br />
 **Zox:** How did a human shake-toy get that big?<br />
 **Hailey Murry: [ REASON  (9) +  ENGINEERING  (2)]
@@ -241,9 +241,9 @@ Success with 1 momentum [2d20 = 14]**<br />
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 24]**<br />
 **Skig:** I don't remember the Lister warp core having such a nice collection of red and blue lights, but the fat human guy in the sleigh being carried by the four-legged animals is a nice touch. I assume that is Pedersen's doing.<br />
-**Hailey Murry:** It seems like...a sphere. I think something's in it?<br />
-**Hailey Murry:** I can't see it clearly<br />
-**Hailey Murry:** Anjek, come over here. Do you recognize that?<br />
+![](../images/murry.png) **Hailey Murry:** It seems like...a sphere. I think something's in it?<br />
+![](../images/murry.png) **Hailey Murry:** I can't see it clearly<br />
+![](../images/murry.png) **Hailey Murry:** Anjek, come over here. Do you recognize that?<br />
 *Skig turns her head ninety degress to the side.*<br />
 **Anjek:** No, I have never seen anything like that.<br />
 **Anjek:** I have no idea what that is<br />
@@ -268,28 +268,28 @@ Success with 1 momentum [2d20 = 18]**<br />
 >Zox pulls up a close-up of the object on screen, and it is now clearly a large transparent sphere. Inside, there seems to be a small collection of ionic clouds flashing with small bursts of lightning<br />
 
 **Skig:** Umm.... at the risk of sounding truly insane... Any one else feel like they are looking at baby ion storms?<br />
-**Hailey Murry:** Well, I'm at a loss<br />
-**Hailey Murry:** Skig, ion storms don't have babies<br />
+![](../images/murry.png) **Hailey Murry:** Well, I'm at a loss<br />
+![](../images/murry.png) **Hailey Murry:** Skig, ion storms don't have babies<br />
 **Zox:** That is a good read of the metaphor Skig.<br />
-**Hailey Murry:** Isn't that right, Anjek?<br />
+![](../images/murry.png) **Hailey Murry:** Isn't that right, Anjek?<br />
 **Skig:** Refer back to earlier comment about Kirk's experience with the Horta.<br />
 *Skig looks at Anjek.*<br />
 **Anjek:** Why should I know anything about the situation? We're in your furry friend's head<br />
-**Hailey Murry:** Yeah, but Skig's head didn't have any ion storms, those are intruding from outside<br />
+![](../images/murry.png) **Hailey Murry:** Yeah, but Skig's head didn't have any ion storms, those are intruding from outside<br />
 *Anjek backs away from the away team*<br />
 **Skig:** You aren't, by any chance, harvesting baby ion storms for study and have angered the mother?<br />
 **Zox: [ DARING  (11) +  SECURITY  (4)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 26]**<br />
-**Hailey Murry:** That is the third most absurd thing I've ever heard, Skig<br />
+![](../images/murry.png) **Hailey Murry:** That is the third most absurd thing I've ever heard, Skig<br />
 **Skig:** Glad I could make the top five.<br />
 *Anjek darts for the turbolift and is able to slip past Zox and shut the door*<br />
-**Hailey Murry:** You were already on the top five<br />
-**Hailey Murry:** What?!<br />
+![](../images/murry.png) **Hailey Murry:** You were already on the top five<br />
+![](../images/murry.png) **Hailey Murry:** What?!<br />
 **Captain Baras:** I wonder where she thinks she is going?<br />
 **Skig:** Excellent, I shall continue to cause you mass chaos in your quarterly crew reviews.<br />
 >♫♫♫Lighthearted Music Sting♫♫♫<br />
 
-**Hailey Murry:** We need to follow her! Zox, come on!<br />
+![](../images/murry.png) **Hailey Murry:** We need to follow her! Zox, come on!<br />
 >---------CUT TO COMMERCIAL-------<br />
 

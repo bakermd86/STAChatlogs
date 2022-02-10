@@ -33,7 +33,7 @@ Success with 2 momentum [3d20 = 22]**<br />
 >The lift doors close behind the Jem Hadar and the lift whooshes away<br />
 
 **Zox:** Whew, I do not like those beasties.<br />
-**Hailey Murry:** Thank you for that, Zox<br />
+![](../images/murry.png) **Hailey Murry:** Thank you for that, Zox<br />
 **Captain Baras:** Computer, seal turbolift 3<br />
 *Skig checks the nearest monitor for current situation of what is going on in engineering outside the doors of the turbolift.*<br />
 >Skig flips through the security monitors, and sees Jem Hadar crawling all over the engineering deck. There are 4 in main engineering itself, and at least half a dozen more spread throughout the deck (not counting any that may be shrouded)<br />
@@ -61,7 +61,7 @@ Success with 0 momentum [2d20 = 22]**<br />
 Success with 1 momentum [2d20 = 21]**<br />
 **Skig:** There is insufficient power to reroute the turbolifts, so I'm going to drain power from the life support on this level to activate the turbolift controls.<br />
 **Zox:** Sounds good to me.<br />
-**Hailey Murry:** Is that going to be healthy for us?<br />
+![](../images/murry.png) **Hailey Murry:** Is that going to be healthy for us?<br />
 *Skig types at a rate of 1000 wpm using only flashing green and yellow buttons.*<br />
 **Zox:** If you aren't here, how can it be unhealthy for you?<br />
 **Computer:** Warning: Life support is now offline. Oxygen will be depleted in 30 minutes.<br />
@@ -92,7 +92,7 @@ Success with 2 momentum [2d20 = 11]**<br />
 *Skig opens the door to get everyone space suits. Checks to see if Zox's detonated phaser had appropriate effect of opening the ship to vacuum.*<br />
 **Skig:** Thank you Captain.<br />
 **Zox:  [d20 = 4]**<br />
-**Hailey Murry:** Excellent job, Zox! How did you know they were in there?<br />
+![](../images/murry.png) **Hailey Murry:** Excellent job, Zox! How did you know they were in there?<br />
 **Computer:** Warning: Hull Breach on Engineering Deck. Containment fields: offline.<br />
 *Skig opens all the doors on this level to pull the Jem Hadar into the vacuum.*<br />
 **Zox:** I have not forgotten the Dominion War. If there's one good trait the Jem Hadar have, it is consistency.<br />
@@ -122,7 +122,7 @@ Success with 0 momentum [d20 = 3]**<br />
 [Focus: Demolitions ]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 11]**<br />
-**Hailey Murry:** Oh, hey, I've seen this model before<br />
+![](../images/murry.png) **Hailey Murry:** Oh, hey, I've seen this model before<br />
 **Skig:** Hailey, I would never have expected a ship's counselor to be an expert bomb disposal technician.<br />
 >Over by the main engineering console is a cloud of ionic energy in a roughly humanoid shape, wearing the uniform of a Starfleet Chief Petty Officer<br />
 
@@ -134,7 +134,7 @@ Success with 1 momentum [2d20 = 11]**<br />
 [Focus: Computers ]
 [Successes: 4] [Complications: 0]
 Success with 3 momentum [2d20 = 6]**<br />
-**Hailey Murry:** Explosives are a fantastic team building exercise <br />
+![](../images/murry.png) **Hailey Murry:** Explosives are a fantastic team building exercise <br />
 *Skig rearranges the plastoid microphasic auditory incisors to fragmulate the xiphoid constructs.*<br />
 *Zox is totally convinced that humans must be the most amicable team players in the universe, given Hailey's comment and the preponderance of humans with 10 functional digits.*<br />
 **Skig:** Okay, I think this will either give us the ability to speak with the creature OR will tear open a subspace hole in the side of your head that will feel like your brains are being gnawed apart. Only one way to be sure.<br />
@@ -146,29 +146,29 @@ Success with 3 momentum [2d20 = 6]**<br />
 *Hailey Murry gives the device a distasteful look*<br />
 *Hailey Murry sighs and hits the button*<br />
 *Skig gets behind a strange lead shield that has suddenly appeared next to Captain Baras.*<br />
-**Hailey Murry:** Good afternoon, Petty Officer. Can you understand me?<br />
+![](../images/murry.png) **Hailey Murry:** Good afternoon, Petty Officer. Can you understand me?<br />
 >The shape responds in the voice of Chief Botok.<br />
 
 **Unknown:** That doesn’t sound like the Skig I know<br />
 *Zox has fogged up her space suit and cannot see, bumping into walls, etc.*<br />
 **Unknown:** I am a guest on your ship<br />
 **Unknown:** Violated some protocols <br />
-**Hailey Murry:** On this ship in Skig's mind, do you mean? <br />
+![](../images/murry.png) **Hailey Murry:** On this ship in Skig's mind, do you mean? <br />
 **Unknown:** Figure out you...Tellerite <br />
 **Unknown:** I had to come<br />
 **Unknown:** So different<br />
-**Hailey Murry:** Ahhh, is it that Skig is uniquely compatible with your frequencies? <br />
+![](../images/murry.png) **Hailey Murry:** Ahhh, is it that Skig is uniquely compatible with your frequencies? <br />
 **Unknown:** you know...you know...you know your ship<br />
 **Skig:** I do know my ship.<br />
 **Chief Botok:** I know...Skig...now...know a thing or two<br />
 **Skig:** I do know a thing or two. How can we help you?<br />
 **Chief Botok:** Damper...Field...protocols...<br />
-**Hailey Murry:** Which protocols would you like us to address? <br />
+![](../images/murry.png) **Hailey Murry:** Which protocols would you like us to address? <br />
 **Chief Botok:** We....invite...Skig.......Figure out...Field...protocols...displace<br />
 **Chief Botok:** Figure out... field<br />
 **Chief Botok:** I...damper...colleagues...aggression<br />
 **Chief Botok:** Skig... guest...displace... Field Dynamics<br />
-**Hailey Murry:** If you can help get us out of here, we can figure out the nuances on the tamper fields<br />
+![](../images/murry.png) **Hailey Murry:** If you can help get us out of here, we can figure out the nuances on the tamper fields<br />
 *Chief Botok crackles brightly at Murry's suggestion*<br />
 **Zox:** ..and severely discipline those who have harmed you.<br />
 **Chief Botok:** Lead the way Lieutenant... I ... damper... colleagues .... aggression<br />
@@ -180,7 +180,7 @@ Success with 3 momentum [2d20 = 6]**<br />
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 29]**<br />
 **Skig:** I postulate it needs out help to modulate the Damper Fields of the Weather Grid to no longer cause mental anguish to the ion entities while also functioning similar to the human version of something called "fly paper".<br />
-**Hailey Murry:** In exchange, this one will pull its colleagues back and allow us some breathing space so we can address it<br />
+![](../images/murry.png) **Hailey Murry:** In exchange, this one will pull its colleagues back and allow us some breathing space so we can address it<br />
 **Captain Baras:** How do we know they won't simply kill us the moment Skig drops the weather grid?<br />
 **Skig:** Right, well done.  By the way, when that red button starts blinking green like that, you need to move the universal translator to the other side of your head or the field harmonics might cause unexpected bowel displacement.<br />
 *Skig gestures at the universal translator Hailey is holding.*<br />
@@ -192,7 +192,7 @@ Failed on DC: 1 [2d20 = 29]**<br />
 **Zox:** I agree with Skig.<br />
 **Skig:** Paranoidly, I could assume this is all a trap, but as it currently is, I am physically rotting away and waiting around to see what happens there seems like a bad idea.<br />
 **Captain Baras:** Then it's agreed. <br />
-**Hailey Murry:** We're lucky that Skig is compatible <br />
+![](../images/murry.png) **Hailey Murry:** We're lucky that Skig is compatible <br />
 **Chief Botok:** Find your way<br />
 **Skig:** Yes, when I tried out a dating app a couple years ago, the only things that were compatible showed up as starships capable of Warp 5 or better. I was never presented with a carbon-based lifeform.<br />
 **Skig:** This is the first time I've been compatible with an ion storm though, so that is unique.<br />
@@ -204,7 +204,7 @@ Failed on DC: 1 [2d20 = 29]**<br />
 **Commander Bachar:** I repeat: To anyone on the away team that can hear me, you need to disable the weather control grid. You lifesigns are fading, the radiation at your location is killing you. You need to cut all power to the weather control grid so we can obtain a transporter lock. We will repeat every minute until we get your response.<br />
 >Commander Bachar's voice comes crackling out of the communicators<br />
 
-**Hailey Murry:** Whew, that was a bit rough<br />
+![](../images/murry.png) **Hailey Murry:** Whew, that was a bit rough<br />
 **Zox: [ CONTROL  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
 [Successes: 3] [Complications: 0]
@@ -251,7 +251,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 *Skig looks to see if Pokemon Go characters and Ion Storms happen to occupy the same spot in the universe, and if so, does this explain so many things about galaxy.*<br />
 *Skig is waiting for Murry's after-action report on Skig's mental breakdowns during this episode.*<br />
 **Skig:** Hello?<br />
-**Hailey Murry:** Zox, can you pull up a map? They probably have more of the medical supplies in the brig <br />
+![](../images/murry.png) **Hailey Murry:** Zox, can you pull up a map? They probably have more of the medical supplies in the brig <br />
 *Skig looks for signs of the ion creatures.*<br />
 **Zox: [ INSIGHT  (8) +  SECURITY  (4)]
 [Successes: 1] [Complications: 1]
@@ -264,7 +264,7 @@ Success with 0 momentum [2d20 = 26]**<br />
 **Skig:** I agree Lt. Commander, this is peculiar. They must be in here unless the signals are being jammed or redirected somehow.<br />
 **Zox:** Hrm. That really makes you think.<br />
 <font color="##005500">indarien (Skig): Zox notices the authentication system uses a hand print, returns five minutes later with Anjek's hand.</font><br />
-**Hailey Murry:** Are they inside the computers? <br />
+![](../images/murry.png) **Hailey Murry:** Are they inside the computers? <br />
 **Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Focus: Computers ]
 [Successes: 3] [Complications: 0]
@@ -286,7 +286,7 @@ Success with 3 momentum [2d20 = 7]**<br />
 **Lt. Cmdr Viraseti:** Should we... maybe go out in the hall?<br />
 **Zox:** Well you are quite good at that.<br />
 *Lt. Cmdr Viraseti starts backing out of the room*<br />
-**Hailey Murry:** Absolutely, though we've got at least 10 seconds<br />
+![](../images/murry.png) **Hailey Murry:** Absolutely, though we've got at least 10 seconds<br />
 <font color="##005500">indarien (Skig): Meanwhile, outside, Captain Baras is sitting there patiently when he hears the unmistakable thump of a high explosive charge. Sighs and checks the newspaper for sports scores.</font><br />
 *Hailey Murry steps calmly out into the hallway*<br />
 *Lt. Cmdr Viraseti runs out to the hall and covers her ears*<br />
@@ -299,7 +299,7 @@ Success with 3 momentum [2d20 = 7]**<br />
 **Skig:** Oh good, it is white, I'd be worried if it was pinkish and elephant shaped.<br />
 **Lt. Cmdr Viraseti:** At least the building didn't collapse in on us<br />
 *Skig walks back in the room to see what the redecorating accomplished.*<br />
-**Hailey Murry:** The building here is built to be particularly sturdy, and that wall wasn't load bearing<br />
+![](../images/murry.png) **Hailey Murry:** The building here is built to be particularly sturdy, and that wall wasn't load bearing<br />
 *Skig puts Murry down for an engineering commendation.*<br />
 >Where once there was a wall, there is now a jagged gaping hole torn through the sheet metal. On the other side, a lab can be seen containing a variety of scientific equipment. In the cernter, there is a large transparent sphere full of flashing ionic energy<br />
 
@@ -308,7 +308,7 @@ Success with 3 momentum [2d20 = 7]**<br />
 **Zox: [ INSIGHT  (8) +  ENGINEERING  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 18]**<br />
-**Hailey Murry:** Huh, you know what, I was not expecting Anjek to have actually captured some of this. We'll need to perform an investigation of the crew up on the ship. <br />
+![](../images/murry.png) **Hailey Murry:** Huh, you know what, I was not expecting Anjek to have actually captured some of this. We'll need to perform an investigation of the crew up on the ship. <br />
 >As the away team gingerly step through into the lab, a loud sound of crackling air and hissing energy can be heard echoing through the hallways behind them<br />
 
 **Zox:** This will absolve any charges against me. <br />

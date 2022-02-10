@@ -13,7 +13,9 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 <font color="##005500">Masakari (Zox): High-five! There's a reason we aren't on the Enterprise!</font><br />
 <font color="##005500">indarien (Skig): Evidently, we have a horrible propensity for shooting ourselves in the mouth between episodes.</font><br />
 <font color="##005500">indarien: Test</font><br />
->Captain's log, stardate 61131.7: Our mission to the Malari system to review their petition for Federation membership is nearing completion. The planet meets Federation standards for equality, liberty, good governance, and techonological sufficiency. The only out-standing report is the assessment of working conditions, which Commander Zox is spearheading.Per his latest status report, his survey team has completed random inspections of several Malari facilities, but there is one other facility he selected to inspect: a dilitium mine. I worry that Zox is perhaps being overly susicious of the Malari, but I suppose that is to be expected. Regardless, once his inspection is complete we should be ready to break orbit and submit our recommendation to Starfleet Command regarding the Malari membership petition.<br />
+>Captain's log, stardate 61131.7: Our mission to the Malari system to review their petition for Federation membership is nearing completion. The planet meets Federation standards for equality, liberty, good governance, and techonological sufficiency. The only out-standing report is the assessment of working conditions, which Commander Zox is spearheading.
+
+Per his latest status report, his survey team has completed random inspections of several Malari facilities, but there is one other facility he selected to inspect: a dilitium mine. I worry that Zox is perhaps being overly susicious of the Malari, but I suppose that is to be expected. Regardless, once his inspection is complete we should be ready to break orbit and submit our recommendation to Starfleet Command regarding the Malari membership petition.<br />
 
 *Hailey Murry Also, nothing says "I belong on a mining facility" like a demolitions focus*<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): Also, nothing says "I belong on a mining facility" like a demolitions focus</font><br />
@@ -56,9 +58,9 @@ Success with 3 momentum [2d20 = 2]**<br />
 Success with 1 momentum [2d20 = 22]**<br />
 >Zox slips down the shaft silently, like a swift wind<br />
 
-**Hailey Murry:** Well, on the plus side we really don't need to inspect down there if people aren't usually down there. Unless there's something suspicious being hidden down there...wait, where did Zox go? <br />
+![](../images/murry.png) **Hailey Murry:** Well, on the plus side we really don't need to inspect down there if people aren't usually down there. Unless there's something suspicious being hidden down there...wait, where did Zox go? <br />
 *Hailey Murry looks at the pair of boots to her right*<br />
-**Hailey Murry:** What?<br />
+![](../images/murry.png) **Hailey Murry:** What?<br />
 **Kolea: [ INSIGHT  (11) +  MEDICINE  (4)]
 [Focus: Xeno-biology ]
 [Successes: 1] [Complications: 0]
@@ -67,7 +69,7 @@ Success with 0 momentum [2d20 = 24]**<br />
 
 >As he proceeds deeper down the shaft, there is no evidence of the life signs he detected from the main chamber<br />
 
-**Hailey Murry:** Oh goodness<br />
+![](../images/murry.png) **Hailey Murry:** Oh goodness<br />
 **Lt. Malat:** Should we follow the commander?<br />
 **Lt. Malat:** I'm trying to end up with any MORE insubordination charges, but that seems... reckless. And stupid<br />
 **Zox: [ CONTROL  (11) +  SECURITY  (4)]
@@ -77,7 +79,7 @@ Success with 1 momentum [2d20 = 16]**<br />
 **Kolea:** Well, to start with I would recommend we all use this N99 respiration system masks that I conveniently keep in my backpack.<br />
 *Kolea hands out medical masks to the rest of the group.*<br />
 **Crewman McAllister:** Good thinking nurse. Better safe than sorry, that's what I always say<br />
-**Hailey Murry:** Thank goodness, thank you Kolea. Let's see if we can get our commander one as well. <br />
+![](../images/murry.png) **Hailey Murry:** Thank goodness, thank you Kolea. Let's see if we can get our commander one as well. <br />
 **Crewman McAllister:** I plan to live until I'm 120 and die in bed<br />
 *Crewman McAllister puts on his mask*<br />
 **Zox: [ CONTROL  (11) +  COMMAND  (3)]
@@ -88,16 +90,16 @@ Success with 1 momentum [2d20 = 5]**<br />
 <font color="##005500">Masakari (Zox): those companies know how to move product.</font><br />
 **Kolea:** I shall happy see you dead in bed.<br />
 *Lt. Malat puts on her Verizon(tm) breather aparatus*<br />
-**Hailey Murry:** Commander Zox? Can you read me? If you could inform us on the direction you went, that would be fantastic<br />
+![](../images/murry.png) **Hailey Murry:** Commander Zox? Can you read me? If you could inform us on the direction you went, that would be fantastic<br />
 *Kolea gives MacAllister a wink.*<br />
 *Lt. Malat pulls out her tricorder*<br />
 **Lt. Malat:** I'm reading his life signs 200 meters this way Counselor<br />
-**Hailey Murry:** Fantastic, let's head over that way. Are there any other life signs down here as well or is it just his?<br />
+![](../images/murry.png) **Hailey Murry:** Fantastic, let's head over that way. Are there any other life signs down here as well or is it just his?<br />
 *Kolea follows dutifully along, scanning for life signs and particulate matter or dangerous effects.*<br />
 <font color="##005500">Masakari (Zox): Oof. </font><br />
 >The away team soon rounds a corner to find Commander Zox wrapped up by a large snake-like creature emerging from a hole in the shaft wall. Approximately 7 meters of snake are visible, but its tail is still inside the wall<br />
 
-**Hailey Murry:** Oh goodness! Commander Zox!<br />
+![](../images/murry.png) **Hailey Murry:** Oh goodness! Commander Zox!<br />
 **Kolea:** I've have fantasies about things like this!<br />
 >The snake-creature continues to crush Zox in its grasp, but Zox is stronk<br />
 
@@ -136,9 +138,9 @@ Success with 1 momentum [2d20 = 32]**<br />
 **Kolea: [ REASON  (9) +  MEDICINE  (4)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 27]**<br />
-**Hailey Murry:** Oh no<br />
-**Hailey Murry:** There are a lot of them<br />
-**Hailey Murry:** We gotta move, Kolea get Zox his mask. Watch out for incoming holes<br />
+![](../images/murry.png) **Hailey Murry:** Oh no<br />
+![](../images/murry.png) **Hailey Murry:** There are a lot of them<br />
+![](../images/murry.png) **Hailey Murry:** We gotta move, Kolea get Zox his mask. Watch out for incoming holes<br />
 **Zox:  [d20 = 1]**<br />
 **Hailey Murry:  [d20 = 15]**<br />
 **Skig:  [d20 = 13]**<br />
@@ -159,7 +161,7 @@ Success with 0 momentum [2d20 = 21]**<br />
 >Murry and Kolea estimate that the creature was at least 10 meters in length<br />
 
 <font color="##005500">indarien (Skig): I forgot, Kolea should get a +2 dice for determing length of snake-like objects.</font><br />
-**Hailey Murry:** Does anybody know what those are?<br />
+![](../images/murry.png) **Hailey Murry:** Does anybody know what those are?<br />
 **Kolea:** Wow, that must have been at least 18m long, based on Crewman Thompson informing me exactly what 6" is!<br />
 *Zox takes a defensive position.*<br />
 *Lt. Malat sets her phaser to the maximum setting and fires into the hole that the creature dissapeared down*<br />
@@ -170,7 +172,7 @@ Success with 0 momentum [2d20 = 21]**<br />
 [Focus: Demolitions ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 28]**<br />
-**Hailey Murry:** Incoming collapse, not controlled!<br />
+![](../images/murry.png) **Hailey Murry:** Incoming collapse, not controlled!<br />
 *Kolea follows McAllister and Zox, checks to see if the away team can be safely transported out in case of emergency.*<br />
 **Skig: [ DARING  (9) +  ENGINEERING  (5)]
 [Successes: 2] [Complications: 0]
@@ -198,12 +200,12 @@ Success with 0 momentum [2d20 = 21]**<br />
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 23]**<br />
 *Hailey Murry I am rolling like garbage, but I'm rolling like garbage with a 17 to hit and it's actually working*<br />
-**Hailey Murry:** Dilitium crystal dust? That's fine, nah, that stuff won't explode without proper priming<br />
-**Hailey Murry:** The hydrogen and flourine, on the other hand<br />
+![](../images/murry.png) **Hailey Murry:** Dilitium crystal dust? That's fine, nah, that stuff won't explode without proper priming<br />
+![](../images/murry.png) **Hailey Murry:** The hydrogen and flourine, on the other hand<br />
 **Kolea:** Umm... I meant, as in, "We have been firing phasers around and I would like to know what would cause the mine to collapse."<br />
 **Lt. Malat:** Which way is the exit? I can't see a damn thing<br />
 **Skig:** It's okay Kolea, I knew what you meant.<br />
-**Hailey Murry:** I think it may be the worms<br />
+![](../images/murry.png) **Hailey Murry:** I think it may be the worms<br />
 **Zox: [ FITNESS  (9) +  SECURITY  (4)]
 [Focus: Endurance ]
 [Successes: 4] [Complications: 0]
@@ -221,11 +223,11 @@ Success with 1 momentum [2d20 = 19]**<br />
 **Crewman McAllister:** Sir, I'm reading one of those drones. 15 meters that way<br />
 *Crewman McAllister points in a direction, hard to discern with all of the gas*<br />
 **Lt. Malat:** I'm can't even read the display on my tricoder in all this gas<br />
-**Hailey Murry:** I've got it!<br />
+![](../images/murry.png) **Hailey Murry:** I've got it!<br />
 **Hailey Murry: [ DARING  (11) +  ENGINEERING  (2)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 25]**<br />
-**Hailey Murry:** It's locked! Who wants to give it a try to bypass the screen?<br />
+![](../images/murry.png) **Hailey Murry:** It's locked! Who wants to give it a try to bypass the screen?<br />
 **Zox: [ DARING  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
 [Successes: 3] [Complications: 0]
@@ -241,8 +243,8 @@ Success with 2 momentum [2d20 = 9]**<br />
 **Hailey Murry:  [d20 = 2]**<br />
 **Skig:  [d20 = 17]**<br />
 **Zox:  [d20 = 15]**<br />
-**Hailey Murry:** Well then, that seems a bit odd<br />
-**Hailey Murry:** Are the vents supposed to stop like that? <br />
+![](../images/murry.png) **Hailey Murry:** Well then, that seems a bit odd<br />
+![](../images/murry.png) **Hailey Murry:** Are the vents supposed to stop like that? <br />
 >A crumbling sound is heard, and the ceiling caves in over Kolea's head, dumping a massive pile of rocks on her fragile form<br />
 
 **Kolea:** What seems odd Counselor?  That we've had this much dialogue with me making a pun about my experience with shafts?<br />
@@ -258,15 +260,15 @@ Success with 1 momentum [3d20 = 41]**<br />
 >He is able to push them both far enough aside that they are not crushed to death instantly, and instead share the 9 damage between them. But both are knocked unconscious.<br />
 
 *Kolea cuddle hugs Zox and begins licking his scaly hide in her sleep.*<br />
-**Hailey Murry:** Alright, so<br />
-**Hailey Murry:** Commander Murry to Lister, we need two things<br />
-**Hailey Murry:** We need to be beamed out<br />
+![](../images/murry.png) **Hailey Murry:** Alright, so<br />
+![](../images/murry.png) **Hailey Murry:** Commander Murry to Lister, we need two things<br />
+![](../images/murry.png) **Hailey Murry:** We need to be beamed out<br />
 **Skig:** Okay, what can we do to help?<br />
-**Hailey Murry:** And we should pretend this was a resounding success<br />
+![](../images/murry.png) **Hailey Murry:** And we should pretend this was a resounding success<br />
 **Skig:** Got it, straight to sick bay or to a normal transporter room?<br />
 *Zox is now convinved Kolea has a bigger crush on him than the SpaceSnek(TM)*<br />
 **Lt. Malat:** I agree with the counselor. Snitches get stiches<br />
-**Hailey Murry:** Sick bay, please, we should probably all get a look over<br />
+![](../images/murry.png) **Hailey Murry:** Sick bay, please, we should probably all get a look over<br />
 **Skig:** I'm reporting this as a resounding success for testing out the transporters and the efficacy of the rebreathing equipment.<br />
 *Crewman McAllister breathes a sign of relief that it was Kolea who got crushed by the rocks and not him, because he doubts Zox would have risked his life to save him*<br />
 *Skig activates the transporter to send the entire Away Team to a medical bay with quarantine features to prevent spread of airborne contaminants.*<br />
@@ -276,7 +278,7 @@ Success with 1 momentum [3d20 = 41]**<br />
 
 **Skig:** Counselor, are you arrived and, I assume Lt. Commander Zox is...<br />
 **Skig:** Hmm....<br />
-**Hailey Murry:** So, I suppose we should probably double check if that was intentional venting of --where is Zox?<br />
+![](../images/murry.png) **Hailey Murry:** So, I suppose we should probably double check if that was intentional venting of --where is Zox?<br />
 *Dr. Zerra gets Kolea up onto a bed and... begins scanning her with his medical tricorder*<br />
 **Skig:** Lt. Commander Zox is being held in the transporter buffer as he is carrying some level of contaminant that is not identifiable or purgeable via transporter.<br />
 **Dr. Zerra:** I'll set up a level 4 containment field<br />
@@ -298,16 +300,19 @@ Success with 1 momentum [3d20 = 41]**<br />
 **Dr. Zerra:** But this is very serious, if we don't find a way to reverse the genetic damage, there's no telling what could become of the commander<br />
 >♫♫♫Dramatic Music String♫♫♫<br />
 
->---------CUT TO CREDITS-------♫♫♫Opening Theme♫♫♫<br />
+>---------CUT TO CREDITS-------
+♫♫♫Opening Theme♫♫♫<br />
 
->"Mother Knows Best"Written By Priya PrittipayaDirected By Clifford Ness<br />
+>"Mother Knows Best"
+Written By Priya Prittipaya
+Directed By Clifford Ness<br />
 
 >After the credits, the Captain has come to sickbay to discuss the situation with his senior staff<br />
 
 **Captain Baras:** How are you feeling Commander?<br />
 **Zox:** Hissssterical. All squirmy.<br />
 **Captain Baras:** Dr, is he fit for duty?<br />
-**Hailey Murry:** I can't tell if he's feeling normal or if he's actually feeling different<br />
+![](../images/murry.png) **Hailey Murry:** I can't tell if he's feeling normal or if he's actually feeling different<br />
 **Dr. Zerra:** Impossible to say, normal for Zox is hard to pin down<br />
 **Dr. Zerra:** As for his fitness for duty, if he is feeling up to it, I would not object. But I would insist that he wear a bio-monitor<br />
 **Dr. Zerra:** I need to be able to monitor his condition<br />

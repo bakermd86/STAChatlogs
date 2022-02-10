@@ -14,7 +14,7 @@ While I would love the opportunity to question the Traveler and get to the botto
 >INTERIOR - Sickbay: Commander Murry called Skig and Zox back to sickbay, as the Traveller began ominously phasing in and out of reality. Fortunately, the ship hasn't exploded. Yet.<br />
 
 **Dr. Zerra:** His vital signs are all over the place. Although... I don't really have any idea what "normal" is for his species<br />
-**Hailey Murry:** I think it's safe to say it isn't this<br />
+![](../images/murry.png) **Hailey Murry:** I think it's safe to say it isn't this<br />
 **Zox: [ INSIGHT  (8) +  SCIENCE  (3)]
 [Focus: Xenobiology ]
 [Successes: 1] [Complications: 0]
@@ -22,14 +22,14 @@ Success with 0 momentum [2d20 = 18]**<br />
 **Zox:** I wonder if this is a physics problem more than a biology problem...<br />
 **Zox:** Me thinks this poor traveller is trapped in a bubbly human seltzer of scrombled warp bubbles.<br />
 **Zox:** Perhaps there is a way to fuse these bubbles.<br />
-**Hailey Murry:** Is he still trapped, despite all appearances? <br />
+![](../images/murry.png) **Hailey Murry:** Is he still trapped, despite all appearances? <br />
 **Dr. Zerra:** His neurotransmitter levels are off the scale, this could be his version of a "fight or flight" response<br />
 **Zox:** I am sorry Dr. Zerra, but this perhaps may be a case left to Skig.<br />
 **Zox:** Perhaps the answer is in the satellite network. <br />
 *Traveller opens his eyes and looks at Zox*<br />
-**Hailey Murry:** It very well might be, but I think first we should see if we could get our guest something to calm him down while we work on that<br />
+![](../images/murry.png) **Hailey Murry:** It very well might be, but I think first we should see if we could get our guest something to calm him down while we work on that<br />
 **Traveller:** Inside... yes...<br />
-**Hailey Murry:** Insight what? <br />
+![](../images/murry.png) **Hailey Murry:** Insight what? <br />
 **Traveller:** Me!<br />
 *Traveller cries out in pain and a bright flash of light washes over sickbay*<br />
 *Skig arrives in MedBay while holding several pieces of a disassembled Osalan satellite.*<br />
@@ -47,17 +47,17 @@ Success with 0 momentum [2d20 = 18]**<br />
 **Lt. Cmdrs 11 and 10:** Sensors were knocked offline momentarily, and when they came back... Well, we are not sure how to say this...<br />
 **Lt. Cmdrs 11 and 10:** But, the entire universe seems to be a toroid, 400,000 km in diameter<br />
 *Zox looks contemplative.*<br />
-**Hailey Murry:** That is...not very large<br />
+![](../images/murry.png) **Hailey Murry:** That is...not very large<br />
 **Lt. Malat (Comms):** Sir, I am reading commbadge signals on the planet's surface<br />
 *Zox begins to wonder what plants he ate.*<br />
-**Hailey Murry:** Where are they at, Lieutenant? <br />
+![](../images/murry.png) **Hailey Murry:** Where are they at, Lieutenant? <br />
 **Skig:** I would say we have been teleported into an alternate pocket dimension where the crew and who knows how many other creatures have been sent via Warp Transference by the Traveler and the Osalan technology over the past 100 years.<br />
 **Lt. Malat (Comms):** Centered around the Rolvak valley<br />
 **Skig:** How many total lifesigns from the Rolvak Valley are you reading?<br />
 **Lt. Malat (Comms):** Approximately 25,000<br />
 **Skig:** Let me amend that, "Total lifesigns of sentient creatures we would need to figure out how to evacuate from their prison."<br />
 **Skig:** Thank you for understanding my ambiguity and providing the information I requested, Lt Malat.<br />
-**Hailey Murry:** Wait, so they're not rescued, we've been captured? <br />
+![](../images/murry.png) **Hailey Murry:** Wait, so they're not rescued, we've been captured? <br />
 **Skig:** Right, that is my working hypothesis at this point.<br />
 **Lt. Malat (Comms):** It seems that way ma'am<br />
 **Lt. Malat (Comms):** Your first command has been a rousing success thus far commander.<br />
@@ -65,7 +65,7 @@ Success with 0 momentum [2d20 = 18]**<br />
 **Zox:** No prison can contain the prime directive! We will break free!<br />
 **Skig:** Bynars, can you scan for the sector of space where the satellites were clustered by the deflector dish and see if that is a valid egress point for the warp bubble if we can generate the inverse warp bubble we posited earlier?<br />
 **Lt. Cmdrs 11 and 10 (Comms):** Yes commander, we will begin right away<br />
-**Hailey Murry:** I'm glad we've got you around, Skig<br />
+![](../images/murry.png) **Hailey Murry:** I'm glad we've got you around, Skig<br />
 **Dr. Zerra:** Yes, you're doing an admirable job under difficult circumstances sir. <br />
 **Skig:** A commanding officer is only as good as the crew who supports her.<br />
 **Skig:** Now that we are here though, let's see about finding the missing crew. Lt Malat are you able to locate the CO or XO and raise them on comms?<br />
@@ -83,8 +83,8 @@ Success with 0 momentum [2d20 = 19]**<br />
 **Skig:** Commander Bachar, I have assumed command of the Lister until you and/or the Captain return to the ship. Are you with the Captain?  His comm badge is not responding properly.<br />
 **Commander Bachar:** Negative. The captain was captured. Is Zox up there? If so, I need him to assemble a security detail and get down here<br />
 **Zox:** Captured?<br />
-**Hailey Murry:** Well, this is an added complication<br />
-**Hailey Murry:** Are the diplomats still on board? <br />
+![](../images/murry.png) **Hailey Murry:** Well, this is an added complication<br />
+![](../images/murry.png) **Hailey Murry:** Are the diplomats still on board? <br />
 **Zox:** Full security detail, transporter room 1.<br />
 **Skig:** Captured by what would be a good question.<br />
 *Zox leaves for the transporter room.*<br />

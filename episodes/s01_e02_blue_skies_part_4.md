@@ -19,12 +19,12 @@ Copyright 2021 Smiteworks USA, LLC*<br />
 Success with 1 momentum [2d20 = 9]**<br />
 >Anjek darts past Zox into the turbolift and shouts a command "Main Engineering" before the doors *fwoop* shut behind her.<br />
 
-**Hailey Murry:** Zox! You use the less popular cooridors all the time, do you know a shortcut?<br />
+![](../images/murry.png) **Hailey Murry:** Zox! You use the less popular cooridors all the time, do you know a shortcut?<br />
 **Zox:** Sure.<br />
 **Zox:** Where do you want to go?<br />
 **Zox:** Are you okay with very thin air and possibly very hot temperatures?<br />
-**Hailey Murry:** Down to Main Engineering, I think. Anjek is probably up to something bad down there<br />
-**Hailey Murry:** Thin air, probably. But, uh, how hot is hot?<br />
+![](../images/murry.png) **Hailey Murry:** Down to Main Engineering, I think. Anjek is probably up to something bad down there<br />
+![](../images/murry.png) **Hailey Murry:** Thin air, probably. But, uh, how hot is hot?<br />
 **Skig:** Computer, cut power to turbolift 3<br />
 **Zox: [ INSIGHT  (8) +  SECURITY  (4)]
 [Focus: Espionage ]
@@ -40,7 +40,7 @@ Success with 2 momentum [2d20 = 8]**<br />
 **Skig:** Computer, activate, "Ultimate Terrifying Spooky Red Light Mode for maximal Zox Terror Effect while stalking people through the ship". Skig override 1432omega4.<br />
 *Skig looks at Zox.*<br />
 **Skig:** You are welcome, I had some spare time to program that during our last maintenance cycle.<br />
-**Hailey Murry:** Skig, you stay here and see if you can interfere with her. Zox, see if you can cut her off and get there first. I'll follow after and try to talk her down<br />
+![](../images/murry.png) **Hailey Murry:** Skig, you stay here and see if you can interfere with her. Zox, see if you can cut her off and get there first. I'll follow after and try to talk her down<br />
 **Computer:** Activating unecessary red pulsing lights that would have no purpose on a Starfleet vessel and cutting off all other illumination<br />
 **Skig:** Thank you computer.<br />
 **Zox:** rips the top part of the uniform off.<br />
@@ -67,7 +67,7 @@ Success with 2 momentum [2d20 = 14]**<br />
 **Skig:** Captain, my physical existence seems to be on the verge of suffering cardiac arrest. If I become incoherent here, please follow whatever seems like a very sensible course of action.<br />
 >The corridors and dark, illuminated only in flashes of red light in a way that seems unecessary<br />
 
-**Hailey Murry:** Hm. I don't recall the Zox Red Light Mode having actual red lights<br />
+![](../images/murry.png) **Hailey Murry:** Hm. I don't recall the Zox Red Light Mode having actual red lights<br />
 *Zox attempts to smell Anjek.*<br />
 **Zox: [ INSIGHT  (8) +  SECURITY  (4)]
 [Focus: Xenobiology ]
@@ -95,7 +95,7 @@ Success with 0 momentum [2d20 = 27]**<br />
 **Skig:** Oh Captain, by the way, for your own safety you should probably not use the Wash-o-lette in your quarters on the bidet option while seated until we find the missing pair of scissors that were used to open the packaging necessary to install it.<br />
 >Commander Murry and the others arrive not long after<br />
 
-**Hailey Murry:** Ah, excellent job Zox. What did she say when you confronted her?<br />
+![](../images/murry.png) **Hailey Murry:** Ah, excellent job Zox. What did she say when you confronted her?<br />
 **Skig:** I wouldn't want something to fly out of an installed aperature and injure sensitive bits.<br />
 *Skig looks at scene.*<br />
 **Skig:** Oh, good job Zox.<br />
@@ -105,7 +105,7 @@ Success with 0 momentum [2d20 = 27]**<br />
 *Lt. Cmdr Viraseti grabs an emergency med kit from the storage locker near the transporter pad*<br />
 **Lt. Cmdr Viraseti:** We could give her a quick stimulant, I don't know the appropriate dosage for her species though...<br />
 **Captain Baras:** Might be a good idea to confiscate the phaser too<br />
-**Hailey Murry:** Oh, absolutely<br />
+![](../images/murry.png) **Hailey Murry:** Oh, absolutely<br />
 *Hailey Murry takes her phaser and checks her for other weapons*<br />
 **Skig:** But Zox needs his phaser.<br />
 **Zox: [ REASON  (7) +  MEDICINE  (1)]
@@ -128,20 +128,20 @@ Success with 1 momentum [2d20 = 14]**<br />
 *Anjek reaches for the phaser she had stolen, then realizes it is gone*<br />
 *Skig gives Zox a high five.*<br />
 *Zox reaches for the high five with Skig.*<br />
-**Hailey Murry:** Good morning, doctor. I hope you're not feeling too roughed up<br />
+![](../images/murry.png) **Hailey Murry:** Good morning, doctor. I hope you're not feeling too roughed up<br />
 *Zox Zox returns a high three, which is the maximum number of digits he is capable of.*<br />
 **Anjek:** What do they put in the water to turn you all into such sycophantic adherents to your version of space veganism?<br />
 **Anjek:** Just kill me or whatever and be done with it<br />
 **Anjek:** We're all going to die here anyways<br />
 *Anjek sighs and leans back against the wall*<br />
-**Hailey Murry:** Not if you're willing to talk to us we won't. What happened? <br />
+![](../images/murry.png) **Hailey Murry:** Not if you're willing to talk to us we won't. What happened? <br />
 **Zox:** Surely you know how to calm the static phenomena. <br />
 *Zox smlies real good, revealing lots of ketchup and bits of a bottle.*<br />
 **Anjek:** What happened? Calm them? I knew it was a mistake asking for help from the Federation...<br />
 **Anjek:** We just wanted to keep our weather grid going so we could perform or research, my colleagues warned me that the Federaion always causes more problems than they solve....<br />
 **Zox:** You have some intelligent colleagues.<br />
 **Zox:** But clearly your experiments perturbed a native form of life that we didn't understand nor adequately respected when your research began. Only you have the secrets we need.<br />
-**Hailey Murry:** One which you appear very eager to shove under the rug, even now<br />
+![](../images/murry.png) **Hailey Murry:** One which you appear very eager to shove under the rug, even now<br />
 **Anjek:** Respected? They're animals! They're not even capable of linguistic communication<br />
 *Zox puffs up, revealing considerable reptilian bulk.*<br />
 **Zox:** Violence is a form of communication.<br />
@@ -150,7 +150,7 @@ Success with 1 momentum [2d20 = 14]**<br />
 **Zox:** Has the idea dawned on you, that perhaps _you_ violenced it first?<br />
 **Skig:** Wait...<br />
 **Anjek:** We attempted to communicate with them when we first encountered them on this planet, but they do not seem to be capable of any sort of meaningful communication<br />
-**Hailey Murry:** Have you tried this before?<br />
+![](../images/murry.png) **Hailey Murry:** Have you tried this before?<br />
 **Zox:** I implore you to manually override and oower down the entire research station.<br />
 **Zox:** *power<br />
 **Anjek:** They have some level of animalistic intelligence yes, but they are only capable of communicating empathically. They don't have a liguistic intelligence<br />
@@ -159,7 +159,7 @@ Success with 1 momentum [2d20 = 14]**<br />
 **Zox:** Hrm.<br />
 **Zox:** Well it's up to you. You can find out how advanced they are some day or you can have the rest of your neurons fried from static. I think it's worth it to try shutting down all the things.<br />
 **Anjek:** It doesn't matter anyways, we're all going to die here, same as the others<br />
-**Hailey Murry:** Same as the others?<br />
+![](../images/murry.png) **Hailey Murry:** Same as the others?<br />
 **Skig:** Which others?<br />
 **Anjek:** I lost two graduate students to these empathic attacks<br />
 **Anjek:** The lifeforms seem to be able to attack our minds empathically, they cause a cascade of neurotransmitters until the target dies of cardiac arrest<br />
@@ -168,7 +168,7 @@ Success with 1 momentum [2d20 = 14]**<br />
 **Skig:** That would make sense for what I am feeling, which also explains this recurring phenomenon.<br />
 **Zox:** Quite inventive. <br />
 **Zox:** That sort of means they are intelligent beyond the credit you give them.<br />
-**Hailey Murry:** Quite a bit, if they're able to target and aim this sort of empathy<br />
+![](../images/murry.png) **Hailey Murry:** Quite a bit, if they're able to target and aim this sort of empathy<br />
 **Anjek:** Not necessarily. The venom from a snake can have complicated impacts on your nervous system, but the snake does not know your neurology<br />
 **Skig:** It may also be that they are in fear, terror, and scared, and trying to impress that upon the person receptive to them.<br />
 **Anjek:** You bleeding heart Federation types want to project intelligence on every living thing you encounter<br />
@@ -177,12 +177,12 @@ Success with 1 momentum [2d20 = 14]**<br />
 **Anjek:** Interesting hypothesis, but then why do they kill their victims?<br />
 **Zox:** Oh, just tell us how to turn your research station off.<br />
 **Skig:** If they don't know our physiology or what we are capable of, or not, based on their completely different physical existence, they are likely bewildered by the death of the person they are communicating with.<br />
-**Hailey Murry:** Revenge, perhaps? Or simply lashing out to try and stop the pain? I suspect, and perhaps I am wrong, but I suspect that this is more complicated than a simple chemical compound. <br />
+![](../images/murry.png) **Hailey Murry:** Revenge, perhaps? Or simply lashing out to try and stop the pain? I suspect, and perhaps I am wrong, but I suspect that this is more complicated than a simple chemical compound. <br />
 **Anjek:** No. After we die in here, the creatures will move away, your crew can repair the weather control grid, and my graduate students will finish our research<br />
-**Hailey Murry:** No, they won't<br />
+![](../images/murry.png) **Hailey Murry:** No, they won't<br />
 **Zox:** Okay. We do this the hard way.<br />
 *Zox begins twisting Anjek's arm.*<br />
-**Hailey Murry:** Anjek, I don't think you're aware, but this facility will become abandoned if we can't get out. The loss of several crew members, a lead researcher. You were already on the brink of abandoning the facility.<br />
+![](../images/murry.png) **Hailey Murry:** Anjek, I don't think you're aware, but this facility will become abandoned if we can't get out. The loss of several crew members, a lead researcher. You were already on the brink of abandoning the facility.<br />
 <font color="##005500">Masakari (Zox): Hey, I mean theoretically they are being mean to the native creature. I justify this solution to the trolley problem.</font><br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
 [Focus: Bureaucracy ]
@@ -211,21 +211,21 @@ Success with 1 momentum [2d20 = 19]**<br />
 *Zox smiles, and suddenly acts much less feral, now that a solution looks in sight.*<br />
 **Skig:** Well, I happen to have made some patents for modifications to the universal translator earlier, if I forgot to email those out, and since they worked, that might be a good start.<br />
 **Anjek:** But when you used the universal translator, we were just hearing your colleague from your ship<br />
-**Hailey Murry:** An attempt to parlay and appease would be good. It sounds like these ion storms may not be used to negotiation<br />
+![](../images/murry.png) **Hailey Murry:** An attempt to parlay and appease would be good. It sounds like these ion storms may not be used to negotiation<br />
 <font color="##005500">indarien (Skig): Back in a few, evidently box delivery day.</font><br />
 <font color="##005500">Masakari (Zox): swag day in Japan.</font><br />
-**Hailey Murry:** The static that it sent over. Those few words the first time formed their own, separate idea. Perhaps it's able to speak through the looped recording, or other recordings? A voice in the machine, so to speak, like how you can pick up whispers from radio chatter sometimes when between stations. <br />
+![](../images/murry.png) **Hailey Murry:** The static that it sent over. Those few words the first time formed their own, separate idea. Perhaps it's able to speak through the looped recording, or other recordings? A voice in the machine, so to speak, like how you can pick up whispers from radio chatter sometimes when between stations. <br />
 **Zox: [ DARING  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 18]**<br />
 **Lt. Cmdr Viraseti:** Interesting idea Commander. But how do we use that to our advantage?<br />
-**Hailey Murry:** It'll provide us with a manner which we can use to reach out and ask for their terms<br />
+![](../images/murry.png) **Hailey Murry:** It'll provide us with a manner which we can use to reach out and ask for their terms<br />
 **Captain Baras:** Hmm. I'm convinced it's worth a try counselor. So how do we make contact?<br />
 *Zox looks at Skig*<br />
 **Captain Baras:** Just walk around with the universal translator open until we hear something?<br />
 *Anjek rolls her eyes at the captain*<br />
-**Hailey Murry:** Skig, what do you think? <br />
+![](../images/murry.png) **Hailey Murry:** Skig, what do you think? <br />
 **Zox:** Whatever you do, do not blast rock and roll at it; this has been known to obliterate some alien species. I suggest letting Skig determine the best route of communication.<br />
 **Skig:** I could rig the universal translator to a ship-wide Sousaphone net and use it to reflect the amplification wave of the sinoidal cavities of subspace to create a plausible transmission medium through gaseous substrated mental paradigms.<br />
 <font color="##005500">indarien (Skig): Just don't sneeze when doing that</font><br />
@@ -253,7 +253,7 @@ Success with 1 momentum [2d20 = 18]**<br />
 Success with 3 momentum [2d20 = 8]**<br />
 >As the turbolift doors open on main engineering, the scene is utter chaos. The emergency lighting is the only illumination and there are dead bodies strewn about the floor. The red alert klaxon blares, and two Jem Hadar soldiers turn and look at the away team.<br />
 
-**Hailey Murry:** Ah, was this the rumbling earlier?<br />
+![](../images/murry.png) **Hailey Murry:** Ah, was this the rumbling earlier?<br />
 **Skig:** So, things are likely quite bad right now.<br />
 **Skig:** There will be a large number of Jem Hadar soldiers in here engaged in a fight with mostly unarmed and injured engineering crew.<br />
 >Zox fires its phaser but it misses the nearest Jem Hadar, who raises his disruptor<br />

@@ -174,7 +174,7 @@ Success with 1 momentum [2d20 = 14]**<br />
 **Commander Bachar:** Agreed, we can't give these people access to phasers<br />
 **Commander Bachar:** They have been killing each other in here for 100 years, the last thing they need is more advanced weapons<br />
 **Skig:** Perhaps we can find out what they want, and negotiate some palatable solution where they are each given half of some more advanced medical/life preserving technology and taught they need to work together to make the best use of it?<br />
-**Hailey Murry:** We also have prisoners from the Osalans. We should hail them first, and we may be able to get them on board with a full rescue.<br />
+![](../images/murry.png) **Hailey Murry:** We also have prisoners from the Osalans. We should hail them first, and we may be able to get them on board with a full rescue.<br />
 **Skig:** Or perhaps something agricultural.<br />
 **Zox:** I like the idea of hailing first. We have enough prisoners to negotiate for whatever Starfleet was captured by either side.<br />
 **Commander Bachar:** Sounds like the best plan we have. <br />
@@ -190,19 +190,19 @@ Success with 1 momentum [2d20 = 14]**<br />
 **Kolea:** I took it as, "I love a female who gives me aggressive orders and assumes a dominant position."<br />
 *Hailey Murry begins working on establishing communication*<br />
 **Zox:** It might be that too<br />
-**Hailey Murry:** 11, 10, can you get us connected with them to begin negotiation? <br />
+![](../images/murry.png) **Hailey Murry:** 11, 10, can you get us connected with them to begin negotiation? <br />
 **Lt. Cmdrs 11 and 10:** Aye sir<br />
 **Lt. Cmdrs 11 and 10:** Hailing frequencies open<br />
 *Zox Looks to Hailey, anticipating a swift resolution and successful negotiations.*<br />
 *Lt. Cmdrs 11 and 10 looks at Commander Murry, waiting for her to speak*<br />
 *Zox begins to wonder if Hailey is feeling ok...*<br />
-**Hailey Murry:** Good day, sirs and madams. We're reaching out to you from the Starship USS Lister from the Federation. We're under the impression that some of our crew, who went missing within the last few days, have been kindly taken under your wing. We would like to discuss their return. Please respond so we can parlay. <br />
+![](../images/murry.png) **Hailey Murry:** Good day, sirs and madams. We're reaching out to you from the Starship USS Lister from the Federation. We're under the impression that some of our crew, who went missing within the last few days, have been kindly taken under your wing. We would like to discuss their return. Please respond so we can parlay. <br />
 *Skig offers slow clap of respect for Murry's opening speech.*<br />
 >Several moments of silence pass before a robust chorus of laughter erupts from the comms<br />
 
 **Loris Vaah:** My men said the old gods brought fire from the sky! You sound like a frightened child!<br />
 *Skig works out a firing solution for a photon torpedo that will hit the upper atmosphere and create an "aurora borealis of red death" effect without actually bringing harm to the people on the surface. *<br />
-**Hailey Murry:** I see, I'm sorry to hear that. If you're unwilling to discuss negotiations, I suppose we'll have to discuss it with your peers. <br />
+![](../images/murry.png) **Hailey Murry:** I see, I'm sorry to hear that. If you're unwilling to discuss negotiations, I suppose we'll have to discuss it with your peers. <br />
 **Loris Vaah:** I have your people, some of them at least. I am Loris Vaah, supreme leader of the Central Republic<br />
 **Loris Vaah:** I would be glad to return your people, but as a show of good faith, why don't you use that sky fire to eliminate a thorn in my side<br />
 >Another voice bursts into laughter over he comms<br />
@@ -258,7 +258,7 @@ Success with 1 momentum [2d20 = 16]**<br />
 >Finally, Burkett and McAllister are able to wrestle the much larger Korok to the ground and rip his blade from his hand<br />
 
 **Lt. Malat:** Well, that was exciting<br />
-**Hailey Murry:** I'll take...that<br />
+![](../images/murry.png) **Hailey Murry:** I'll take...that<br />
 *Korok Avera laughs*<br />
 *Hailey Murry wrests the knife from Loris's grip*<br />
 **Korok Avera:** It took three of them to best me Loris, and you couldn't even handle one little girl!<br />
@@ -268,7 +268,7 @@ Success with 1 momentum [2d20 = 16]**<br />
 **Loris Vaah:** Where are we?<br />
 **Loris Vaah:** How have you captured us?<br />
 *Hailey Murry brushes herself off as well, a bit flushed in the face*<br />
-**Hailey Murry:** We captured you with more ease than I suspect you captured our crew. <br />
+![](../images/murry.png) **Hailey Murry:** We captured you with more ease than I suspect you captured our crew. <br />
 **Korok Avera:** More of their "sky god" technology <br />
 **Korok Avera:** You and your silly superstitions<br />
 **Loris Vaah:** It is no matter, kill me if you want, but my men will surely kill your crew within the hour.<br />

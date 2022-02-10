@@ -10,26 +10,26 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 **Commander Bachar:** Captain's log, supplemental. The situation has somehow gotten worse after being rescued from the planet's surface. This warp-bubble seems to be collapsing rapidly, we still have hundreds of crew on the surface, and Korok and Loris still don't seem to want to be rescued. I'm starting to think I should have just stayed on the planet...<br />
 >INTERIOR - Brieifing Room: Murry, Korok and Loris are still arguing about their petty squabbles as the Bynar's notify her that the bubble is collapsing in on them<br />
 
-**Hailey Murry:** How long do we have until the bubble collapses? <br />
+![](../images/murry.png) **Hailey Murry:** How long do we have until the bubble collapses? <br />
 **Commander Bachar:** Murry, deal with them. I need to get back to the bridge. If they won't agree to be rescued, then throw them out an airlock and find someone who will<br />
 *Commander Bachar heads back to the bridge*<br />
 **Lt. Cmdrs 11 and 10 (Comms):** Difficult to say, no more than a few hours<br />
-**Hailey Murry:** Thank you, that should be long enough. <br />
+![](../images/murry.png) **Hailey Murry:** Thank you, that should be long enough. <br />
 *Hailey Murry turns to face the pair of bickering warlords, her hands behind her back*<br />
-**Hailey Murry:** Ambassador Loris, Ambassador Korok, if you could please take a seat. Preferably out of arms reach of one another. <br />
+![](../images/murry.png) **Hailey Murry:** Ambassador Loris, Ambassador Korok, if you could please take a seat. Preferably out of arms reach of one another. <br />
 **Loris Vaah:** Ambassador! Ha! No one's ever called me that before<br />
 **Korok Avera:** Ambassador's bathe occasionally, Loris<br />
 *Korok Avera takes a seat*<br />
 *Loris Vaah reluctantly sits opposite Korok*<br />
-**Hailey Murry:** If you have a preferred title that you use, then I'll be happy to use that instead. Similarly, if there is someone else that you'd like to negotiate in your stead, we can beam them up. But unfortunately, circumstances necessitate that we begin and conclude negotiations for the survival of all of our people within the next few hours. <br />
+![](../images/murry.png) **Hailey Murry:** If you have a preferred title that you use, then I'll be happy to use that instead. Similarly, if there is someone else that you'd like to negotiate in your stead, we can beam them up. But unfortunately, circumstances necessitate that we begin and conclude negotiations for the survival of all of our people within the next few hours. <br />
 **Korok Avera:** What do you propose? You think you can fit all of our people on your little ship?<br />
 **Korok Avera:** I have thousands of men<br />
-**Hailey Murry:** I propose that we talk<br />
+![](../images/murry.png) **Hailey Murry:** I propose that we talk<br />
 **Loris Vaah:** No more than I do, and I won't let you rescue a single Northern Front soldier if my men are not rescued<br />
 *Hailey Murry sits down between the two of them, steepling her fingers*<br />
-**Hailey Murry:** Ideally we're able to rescue them all, but we may need to consult with our engineers<br />
+![](../images/murry.png) **Hailey Murry:** Ideally we're able to rescue them all, but we may need to consult with our engineers<br />
 **Skig:** I propose we rig an inversion transporter that sling-shots people through the Fluxnazit Hydroprophalytic converter that moves them from their current location on the planet surface of the pocket dimension to the exact same physical location (accounting for variances in constructed structures) in the actual physical version of the planet.<br />
-**Hailey Murry:** What she said. Fortunately, the valley the two of you occupy here has been UNoccupied on the mainworld for a long time, so there is plenty of space for you there where there isn't much here.<br />
+![](../images/murry.png) **Hailey Murry:** What she said. Fortunately, the valley the two of you occupy here has been UNoccupied on the mainworld for a long time, so there is plenty of space for you there where there isn't much here.<br />
 **Loris Vaah:** I... didn't understand a word of that, and I'm not sure it was even words<br />
 **Skig:** Amended of course for what is actually possible given the variances of Galactic Common and the need to cycle through the Alchemical Bifram Defibrilator Oxygenization Matrix.<br />
 **Loris Vaah:** But are you saying you can take us back to our planet?<br />
@@ -39,9 +39,9 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 **Korok Avera:** How do I know I can trust you?<br />
 **Korok Avera:** For all I know, you could teleport my people into space. Or into the center of the planet<br />
 **Loris Vaah:** Now there's an idea<br />
-**Hailey Murry:** Well, you have a large number of our people in your mix, do you not? <br />
+![](../images/murry.png) **Hailey Murry:** Well, you have a large number of our people in your mix, do you not? <br />
 **Skig:** We could send a representative sampling of our own people through first, while you observe the operation, then transport groups of your people pending the maximum transit capacity based on power as well as the monodigylceride content of your fat cells.<br />
-**Hailey Murry:** This will, ideally, rescue everyone. Even if our crew weren't planetside, we'd still be working to return you to the planet proper. We were in the process of helping your peoples when this whole thing happened. <br />
+![](../images/murry.png) **Hailey Murry:** This will, ideally, rescue everyone. Even if our crew weren't planetside, we'd still be working to return you to the planet proper. We were in the process of helping your peoples when this whole thing happened. <br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 20]**<br />
@@ -55,9 +55,9 @@ Failed on DC: 1 [d20 = 18]**<br />
 **Loris Vaah:** They will simply teleport their people to the surface and leave your men to die in their machine<br />
 **Loris Vaah:** I for one am not such a fool<br />
 **Korok Avera:** A fool is exactly what you are Loris<br />
-**Hailey Murry:** We can mix and match<br />
-**Hailey Murry:** If we had the ability to teleport our men out, we would have done so already<br />
-**Hailey Murry:** We can identify people, yes, but not which are ours. We'll teleport people in batches, but you can determine how many of each are in each group. <br />
+![](../images/murry.png) **Hailey Murry:** We can mix and match<br />
+![](../images/murry.png) **Hailey Murry:** If we had the ability to teleport our men out, we would have done so already<br />
+![](../images/murry.png) **Hailey Murry:** We can identify people, yes, but not which are ours. We'll teleport people in batches, but you can determine how many of each are in each group. <br />
 *Skig contemplates using the teleporter to mix halves of Loris and Korok's men together to create a Voltron-style flesh amalgamation.  Decides to skip that idea because she has clearly been spending too much time around Malat.*<br />
 **Hailey Murry: Hailey Murry has used a point of Determination to add a natural one to the dice pool.**<br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
@@ -71,16 +71,16 @@ Success with 2 momentum [2d20 = 11]**<br />
 [Focus: Espionage ]
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 35]**<br />
-**Hailey Murry:** I'd suggest putting your people all in one group, but I suspect that would lead to hostilities within the groups. We'll alternate between the two, a batch of one group and then of the other.<br />
-**Hailey Murry:** Also, Loris<br />
-**Hailey Murry:** Korok<br />
-**Hailey Murry:** What do you think about ending the hostilities between your people? <br />
+![](../images/murry.png) **Hailey Murry:** I'd suggest putting your people all in one group, but I suspect that would lead to hostilities within the groups. We'll alternate between the two, a batch of one group and then of the other.<br />
+![](../images/murry.png) **Hailey Murry:** Also, Loris<br />
+![](../images/murry.png) **Hailey Murry:** Korok<br />
+![](../images/murry.png) **Hailey Murry:** What do you think about ending the hostilities between your people? <br />
 **Loris Vaah:** I.. don't know. I didn't think I would ever see my world again. My real world<br />
 **Korok Avera:** I am still not sure I believe in this plan of yours<br />
 <font color="##005500">indarien (Skig): I'm actually impressed they worked out they were not in a real version of the planet.</font><br />
-**Hailey Murry:** That's why I'm asking. Things are going to change dramatically for you, and your return could bring together both of your peoples. <br />
+![](../images/murry.png) **Hailey Murry:** That's why I'm asking. Things are going to change dramatically for you, and your return could bring together both of your peoples. <br />
 **Skig:** You would also have a considerable amount of catching up to do on everything else that has happened.<br />
-**Hailey Murry:** This is a chance to bring your peoples from active warfare to a period of peace and prosperity that many literally have never imagined. <br />
+![](../images/murry.png) **Hailey Murry:** This is a chance to bring your peoples from active warfare to a period of peace and prosperity that many literally have never imagined. <br />
 *Skig slow claps at Murry's words.*<br />
 **Hailey Murry: [ REASON  (9) +  SECURITY  (2)]
 [Focus: Bureaucracy ]

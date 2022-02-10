@@ -11,20 +11,20 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 >INTERIOR - Briefing Room: Skig, 11 and 10 were able to isolate a warp field signature to a ruin in the Rolvak valley. Skig reconvened with Murry and Zox to discuss their next steps<br />
 
 **Zox:** An away team is assembled for your protection.<br />
-**Hailey Murry:** Hmmm, would that by chance be a geothermal power station? <br />
+![](../images/murry.png) **Hailey Murry:** Hmmm, would that by chance be a geothermal power station? <br />
 **Skig:** The remains of one, possibly.<br />
 **Lt. Cmdrs 11 and 10:** It was impossible to determine the structure's original purpose, so little was left<br />
 **Lt. Cmdrs 11 and 10:** The settlement there now is primitive, whatever its original purpose they do not seem to be using it that way at this time<br />
 **Lt. Malat:** Whatever it used to be, it is clearly a threat to the ship<br />
-**Hailey Murry:** Then we need to head down there and see what they're doing<br />
+![](../images/murry.png) **Hailey Murry:** Then we need to head down there and see what they're doing<br />
 **Lt. Malat:** A full spread of photon torpedoes will stop whatever it is doing<br />
 **Zox:** I think your direct approach is best Lt., but we cannot rule out our missing crew is down there. <br />
 **Skig:** I agree Lt. Malat; however, that is the second option.  The first option is to investigate more closely, determine the cause, see if there is useful technology to discover, and also whether our missing shipmates are being held there.<br />
 **Lt. Cmdrs 11 and 10:** We concur, agression at this time would be premature<br />
-**Hailey Murry:** Plus, I think pummeling a geothermal power generator with torpedoes runs the risk of setting off every volcano in the region <br />
-**Hailey Murry:** This is bad for diplomacy<br />
+![](../images/murry.png) **Hailey Murry:** Plus, I think pummeling a geothermal power generator with torpedoes runs the risk of setting off every volcano in the region <br />
+![](../images/murry.png) **Hailey Murry:** This is bad for diplomacy<br />
 **Dr. Zerra:** Not to mention the loss of life, the Osalans have a substantial presence in the area<br />
-**Hailey Murry:** On the other hand, I suppose it would give the nations reason to bond<br />
+![](../images/murry.png) **Hailey Murry:** On the other hand, I suppose it would give the nations reason to bond<br />
 **Skig:** In fact, I was going to ask Malat and Zox to determine the best spread and distribution of weapons to surgically eliminate the threat if needed.  However, I stress the words "if needed" very heavily here.<br />
 **Zox: [ CONTROL  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
