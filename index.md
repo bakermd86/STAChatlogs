@@ -15,3 +15,4 @@
 - [S01-E03 - Mother Knows Best (Part 1)](episodes/s01_e03_mother_knows_best_1)
 - [S01-E03 - Mother Knows Best (Part 2)](episodes/s01_e03_mother_knows_best_2)
 - [S01-E03 - Mother Knows Best (Part 3)](episodes/s01_e03_mother_knows_best_3)
+- [S01-E03 - Mother Knows Best (Part 4)](episodes/s01_e03_mother_knows_best_4)
