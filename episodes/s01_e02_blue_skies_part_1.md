@@ -33,7 +33,7 @@ I managed to convince Amondi to let me lead the away team myself. But only if I 
 **Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 27]**<br />
-**Skig:** Well, looks like yesterday was a good day for an ion storm...<br />
+![](../images/skig.png) **Skig:** Well, looks like yesterday was a good day for an ion storm...<br />
 *Skig rotates tricoder 965 degrees to see if maybe the color chart will change.*<br />
 ![](../images/murry.png) **Hailey Murry:** It's better to have things prepared as a just in case. Hopefully we can treat this as a slightly irregular drill, rather than an actual evacuation. <br />
 *Lt. Cmdr Viraseti furrows her brow*<br />
@@ -43,39 +43,39 @@ Success with 0 momentum [2d20 = 27]**<br />
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 26]**<br />
 **Anjek:** Fleeing from the planet and leaving hundreds of delicate experiments to be ravaged by the ionic storms hardly sounds like a drill<br />
-**Skig:** It looks like there is some sort of transient interference from the Migratronic Aviary Transponder.<br />
+![](../images/skig.png) **Skig:** It looks like there is some sort of transient interference from the Migratronic Aviary Transponder.<br />
 **Lt. Cmdr Viraseti:** Can you fix it?<br />
 **Skig ***(mutters)*: Given current rolls, we'd be better off calling for Exterminatus.<br />
 **Lt. Cmdr Viraseti:** If you can stablize the power delivery, we may have some hope of getting the emitters back online<br />
 *Zox nods at Skig*<br />
 ![](../images/murry.png) **Hailey Murry:** You are correct, if we have to flee it's definitely not a drill anymore. But I'm sure Lieutenant Commanders Skig and Viraseti will wrap this up shortly, barring any unusual circumstances. <br />
-**Skig:** That is a good option, let me see if I can adjust the relay system to remodulate the capacitance without impacting the Connubial Dampeners.<br />
+![](../images/skig.png) **Skig:** That is a good option, let me see if I can adjust the relay system to remodulate the capacitance without impacting the Connubial Dampeners.<br />
 **Anjek:** You will forgive me if I do not share your confidence, your colleagues do not seem to be able to roll very well<br />
 *Skig nods in total agreement to the destruction of the Fourth Wall due to horrific dice rolls.*<br />
 **Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Focus: System Maintenance ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 31]**<br />
-**Zox:** If you do not like the weather here, why not just leave the planet?<br />
+![](../images/zox.png) **Zox:** If you do not like the weather here, why not just leave the planet?<br />
 *Skig rejoices at not getting a complication for the first time today.*<br />
 **Anjek:** The ionic storms here are an inconvenience, but they enable our entire research project<br />
 **Anjek:** By harnessing the ionic energy with our weather control grid, we are able to study the interactions of complex ionic systems in a way that our scientists have never before been able<br />
-**Zox:** Then should you not pre-emtively evacuate non-essential staff in the event of some catastrophe?<br />
+![](../images/zox.png) **Zox:** Then should you not pre-emtively evacuate non-essential staff in the event of some catastrophe?<br />
 **Zox: [ REASON  (7) +  SECURITY  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 17]**<br />
 **Anjek:** Your suggestion is... reasonable<br />
-**Zox:** I am glad this planet is reasonable! I will make preparations immediately. <br />
-**Skig:** Viraseti, it seems like there is some sort of variable frequency change impacting the ionic range. Can you check the colony ionic weather patterns and see if this is a new phenomenon or something expected?<br />
+![](../images/zox.png) **Zox:** I am glad this planet is reasonable! I will make preparations immediately. <br />
+![](../images/skig.png) **Skig:** Viraseti, it seems like there is some sort of variable frequency change impacting the ionic range. Can you check the colony ionic weather patterns and see if this is a new phenomenon or something expected?<br />
 *Lt. Cmdr Viraseti performs a scan before kneeling down to where Skig is working*<br />
 **Lt. Cmdr Viraseti:** Something unusual.... Try that again Commander, these energy patterns are... not behaving as I would expect<br />
 **Lt. Cmdr Viraseti:** Perhaps you triggered some sort of sympathetic response?<br />
 *Hailey Murry turns to Zox*<br />
 ![](../images/murry.png) **Hailey Murry:** Can ion storms have sympathy? <br />
-**Zox:** No.<br />
+![](../images/zox.png) **Zox:** No.<br />
 *Captain Baras laughs*<br />
-**Skig:** Very well, although my bedside manner talking through the psychological disorders present in weather patterns is limited to merely encouraging rain to not be quite so acidic.<br />
-**Zox:** Whatever you ask of them, they just charge extra.<br />
+![](../images/skig.png) **Skig:** Very well, although my bedside manner talking through the psychological disorders present in weather patterns is limited to merely encouraging rain to not be quite so acidic.<br />
+![](../images/zox.png) **Zox:** Whatever you ask of them, they just charge extra.<br />
 **Captain Baras:** Good one Commander<br />
 **Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Focus: System Maintenance ]
@@ -89,7 +89,7 @@ Failed on DC: 1 [2d20 = 35]**<br />
 Success with 2 momentum [2d20 = 10]**<br />
 **Lt. Cmdr Viraseti:** Commander, picking up increasing ionic radiation<br />
 **Lt. Cmdr Viraseti:** If you've got any of that last-second magic, now is the time to use it<br />
-**Skig:** That did not seem to respond as expected, I feel like we are approaching this from the wrong charge.<br />
+![](../images/skig.png) **Skig:** That did not seem to respond as expected, I feel like we are approaching this from the wrong charge.<br />
 >As Commander Viraseti speaks, an Ionic storm front begins to form in the distance<br />
 
 ![](../images/murry.png) **Hailey Murry:** So what sorts of things do you work on here, Administrator? <br />
@@ -106,16 +106,16 @@ Success with 3 momentum [2d20 = 23]**<br />
 *Hailey Murry applauds from the side*<br />
 ![](../images/murry.png) **Hailey Murry:** See? I told you things would be fine. <br />
 *Zox nods enthusiastically at the application of force.*<br />
-**Skig:** Proper application of the principle of force times motivation equals desired results.<br />
+![](../images/skig.png) **Skig:** Proper application of the principle of force times motivation equals desired results.<br />
 **Lt. Cmdr Viraseti:** They're still having trouble locking on to the frequency of the storm. The frequency is shifting too rapidly for the emitters to compensate<br />
 >The storm front in the distance suddenly begins to roll rapidly across the sands, towards the colony<br />
 
 >Within a matter of seconds, the storm slams into the perimitter of the weather control emitters, surrounding the colony<br />
 
 **Lt. Cmdr Viraseti:** The emitters are holding for now, but I don't know how long that will last<br />
-**Skig:** Is this a new occurence though?  Something must have happened to precipitate this change.<br />
+![](../images/skig.png) **Skig:** Is this a new occurence though?  Something must have happened to precipitate this change.<br />
 **Lt. Cmdr Viraseti:** Agreed, this happened far too suddenly<br />
-**Zox:** Might there be some place underground to seek shelter against this?<br />
+![](../images/zox.png) **Zox:** Might there be some place underground to seek shelter against this?<br />
 **Anjek:** Our facility is built into the cliff face, but the geology here offers little protection against ionic radiation <br />
 **Anjek:** That is why we need the weather grid<br />
 *Skig checks the system logs for the normal behavior of the ion storms versus what was just observed to determine if this effect has been getting worse over time or if there is some sort of system malfunction that is causing the issue.*<br />
@@ -124,17 +124,17 @@ Success with 3 momentum [2d20 = 23]**<br />
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 27]**<br />
 **Captain Baras:** Commanders, if you can't find a way to repair the grid, I will have to order the evacuation. We can't risk losing the entire away team<br />
-**Zox:** Yes.<br />
+![](../images/zox.png) **Zox:** Yes.<br />
 ![](../images/murry.png) **Hailey Murry:** When did the troubles with the weather grid begin? <br />
 *Skig appreciates Hailey asking the important questions.*<br />
 **Anjek:** We have had challenges with the grid since the first day<br />
-**Zox:** But there are no reports of ion storms of this intensity before your expedition set up shop?<br />
+![](../images/zox.png) **Zox:** But there are no reports of ion storms of this intensity before your expedition set up shop?<br />
 **Anjek:** No matter how much power we pump into the grid, the storms seem to be capable of overpowering it<br />
 **Anjek:** Surveys prior to our arrival indicated mild ionic activity<br />
 **Skig: [ INSIGHT  (8) +  SCIENCE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 15]**<br />
-**Skig:** Perhaps the storms are merely reacting to the increases in power by being drawn to the weather control grid in an escalating fashion.<br />
+![](../images/skig.png) **Skig:** Perhaps the storms are merely reacting to the increases in power by being drawn to the weather control grid in an escalating fashion.<br />
 **Zox: [ DARING  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
 [Successes: 1] [Complications: 1]
@@ -142,7 +142,7 @@ Success with 0 momentum [2d20 = 34]**<br />
 **Lt. Cmdr Viraseti:** It would certainly explain the reaction when you powered on the grid<br />
 **Captain Baras:** So what do you suggest commander? We can't shut down the grid in the midst of this storm<br />
 ![](../images/murry.png) **Hailey Murry:** What's being used to generate power for the grid? <br />
-**Skig:** The frequencies are modulating rapidly too try and overcome the defenses and the storm intensity is increasing. It may almost be fruitful to evacuate the planet, turn off the weather control grid, then turn it back on at a much lower power and judge the response of the ionic storm.<br />
+![](../images/skig.png) **Skig:** The frequencies are modulating rapidly too try and overcome the defenses and the storm intensity is increasing. It may almost be fruitful to evacuate the planet, turn off the weather control grid, then turn it back on at a much lower power and judge the response of the ionic storm.<br />
 **Captain Baras:** Agreed Commander. The situation has gotten out of hand. I'm ordering an evactuation. Baras to Lister, initiate emergency transport.<br />
 >There is no response to the captain's order, and no transports take place.<br />
 
@@ -151,14 +151,14 @@ Success with 0 momentum [2d20 = 34]**<br />
 *Skig really doesn't want to mention the hamster wheels in the control panel responsible for the weather control system, since that would make Hailey sad.*<br />
 ![](../images/murry.png) **Hailey Murry:** There's nothing but static on the line<br />
 **Lt. Cmdr Viraseti:** The storm must be blocking communications<br />
-**Skig:** There was a 99.99999999% chance of that being the case.<br />
+![](../images/skig.png) **Skig:** There was a 99.99999999% chance of that being the case.<br />
 **Captain Baras:** Suggestions?<br />
 *Skig checks Plot-Meter to verify accuracy of her statement.*<br />
 *Captain Baras turns to the away team*<br />
-**Zox:** Project and ionic field of our own to shield ourselves?<br />
+![](../images/zox.png) **Zox:** Project and ionic field of our own to shield ourselves?<br />
 **Lt. Cmdr Viraseti:** If we take the power banks from our phasers and feed them into the grid, we may be able to generate a single pulse to dissipate the storm<br />
 *Zox Nods approvingly*<br />
-**Skig:** I would be concerned about the sudden influx of power overloading the relays given the problem we have been having with them, if we can compensate for that it would be a feasible thing to try.<br />
+![](../images/skig.png) **Skig:** I would be concerned about the sudden influx of power overloading the relays given the problem we have been having with them, if we can compensate for that it would be a feasible thing to try.<br />
 **Zox: [ CONTROL  (11) +  SECURITY  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 14]**<br />
@@ -168,9 +168,9 @@ Success with 1 momentum [2d20 = 14]**<br />
 Success with 0 momentum [2d20 = 35]**<br />
 *Skig thinks today was not worth getting out of bed, and she should have used one of her 4,000 banked "sick days".*<br />
 **Captain Baras:** Ok, Murry gather everyone around the emitter. Zox, set up the shield emitter and stand by<br />
-**Skig:** Will this cover the entire population of the colony?<br />
-**Zox:** Well, hopefully pre-evactuation orders were actually obeyed<br />
-**Zox:** But we can only hope so.<br />
+![](../images/skig.png) **Skig:** Will this cover the entire population of the colony?<br />
+![](../images/zox.png) **Zox:** Well, hopefully pre-evactuation orders were actually obeyed<br />
+![](../images/zox.png) **Zox:** But we can only hope so.<br />
 **Anjek:** We'll have to gather everyone here in the courtyard, but we only have a hundred or so researchers. We should be able to fit, though it may be a bit tight<br />
 *Skig checks the dice rolls for the day, suspects everyone who was pre-evacuated is trapped in the transporter buffer and having a stream of ice cream based positrons shoved through their system and when they rematerialize they will look like Olaf from Frozen.*<br />
 **Captain Baras:** Ok, Zox activate the shield<br />
@@ -182,7 +182,7 @@ Success with 2 momentum [2d20 = 19]**<br />
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [d20 = 17]**<br />
 *Hailey Murry continues to sip her coffee, enjoying the lights of the vicious ion storm outside the field*<br />
-**Skig:** I'm pretty sure you should lick those ends to make the electrons flow faster through the spacing gap in the cladding.<br />
+![](../images/skig.png) **Skig:** I'm pretty sure you should lick those ends to make the electrons flow faster through the spacing gap in the cladding.<br />
 >Zox dives into the panel, rapidly rewiring the emitter circuits to collapse the broad-spectrum weather grid into a small sheild emitter centered on the away team<br />
 
 >As the grid retracts, the storm collapses in with it, until the away team is surrounded by the raging ionic storm mere meters away<br />
@@ -209,8 +209,8 @@ Success with 0 momentum [2d20 = 16]**<br />
 *Zox scoffs at weak, warm blooded creatures.*<br />
 **Captain Baras:** Anything we can do?<br />
 *Skig curls into fetal position and begins sleeping peacefully, dreaming of dice that roll under 15.*<br />
-**Zox:** Turn off all other systems besides the field!<br />
-**Zox:** Perhaps the whole planet is acting like a circuit<br />
+![](../images/zox.png) **Zox:** Turn off all other systems besides the field!<br />
+![](../images/zox.png) **Zox:** Perhaps the whole planet is acting like a circuit<br />
 **Captain Baras:** Do it Commander.<br />
 *Captain Baras faints as well, just after giving his order*<br />
 **Hailey Murry: [ FITNESS  (7) +  SCIENCE  (5)]
@@ -229,7 +229,7 @@ Success with 3 momentum [2d20 = 5]**<br />
 ![](../images/murry.png) **Hailey Murry:** It's recommended that everyone remain relatively low to the ground, just in case<br />
 *Anjek begins to panic*<br />
 ![](../images/murry.png) **Hailey Murry:** Chief Tactical Officer, you appear to be glowing<br />
-**Zox:** Quite strange.<br />
+![](../images/zox.png) **Zox:** Quite strange.<br />
 ![](../images/murry.png) **Hailey Murry:** What do you need for me to help? <br />
 **Anjek:** Everything you do makes it worse<br />
 *Skig begins dreaming of double mocha lattes.*<br />
@@ -269,7 +269,7 @@ Success with 0 momentum [2d20 = 20]**<br />
 **Zox: [ INSIGHT  (8) +  CONN  (2)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 18]**<br />
-**Zox:** Oh. Well how did we end up here?<br />
+![](../images/zox.png) **Zox:** Oh. Well how did we end up here?<br />
 *Skig looks for indications we are stuck in a holodeck.*<br />
 **Captain Baras:** The emergency transport?<br />
 **Hailey Murry: [ INSIGHT  (12) +  CONN  (3)]
@@ -287,17 +287,17 @@ Success with 1 momentum [2d20 = 20]**<br />
 *Skig taps her comm badge to hail the engineer on duty.*<br />
 *Zox observes.*<br />
 *Skig gets a prairie oyster out of the replicator.*<br />
-**Skig:** We are not where we think we are.<br />
-**Zox:** Hrm. Where are we then?<br />
-**Skig:** This is not the forward lounge.<br />
+![](../images/skig.png) **Skig:** We are not where we think we are.<br />
+![](../images/zox.png) **Zox:** Hrm. Where are we then?<br />
+![](../images/skig.png) **Skig:** This is not the forward lounge.<br />
 **Lt. Cmdr Viraseti:** It certainly seems to be Commander<br />
 *Hailey Murry pauses before taking a sip of her coffee*<br />
 ![](../images/murry.png) **Hailey Murry:** What is it?<br />
-**Skig:** Those four side panels should have scoring on them from when the forward lounge was opened to vacuum during the Battle of Betazad.  I insisted the scoring from the plasma marks not get removed during the refit.<br />
-**Skig:** We had been using the forward lounge as emergency triage for injured and thirty four crew we blown into space when the torpedo struck.<br />
-**Zox:** Interesting. I would never question your familiarity with the ship.<br />
+![](../images/skig.png) **Skig:** Those four side panels should have scoring on them from when the forward lounge was opened to vacuum during the Battle of Betazad.  I insisted the scoring from the plasma marks not get removed during the refit.<br />
+![](../images/skig.png) **Skig:** We had been using the forward lounge as emergency triage for injured and thirty four crew we blown into space when the torpedo struck.<br />
+![](../images/zox.png) **Zox:** Interesting. I would never question your familiarity with the ship.<br />
 ![](../images/murry.png) **Hailey Murry:** Was there another Constitution Class star ship? <br />
-**Skig:** Those replicators are half a meter out of position.<br />
+![](../images/skig.png) **Skig:** Those replicators are half a meter out of position.<br />
 **Captain Baras:** None in this sector Murry<br />
 **Lt. Cmdr Viraseti:** So.. Some sort of Temporal event?<br />
 *Zox checks for the presence of Anjek*<br />
@@ -305,9 +305,9 @@ Success with 1 momentum [2d20 = 20]**<br />
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 19]**<br />
 *Anjek is standing in the corner looking rather shaken and confused*<br />
-**Zox:** Hrm.<br />
+![](../images/zox.png) **Zox:** Hrm.<br />
 *Hailey Murry groans and puts her coffee down*<br />
-**Skig:** Also, if you check the bottom of those chairs, you will note they have gum stuck on them, because the old chief engineer at the time of the Battle of Betazed had an annoying habit of chewing bubble gum while playing cards and would annoyingly shove the used gum on the bottom of the chair.<br />
+![](../images/skig.png) **Skig:** Also, if you check the bottom of those chairs, you will note they have gum stuck on them, because the old chief engineer at the time of the Battle of Betazed had an annoying habit of chewing bubble gum while playing cards and would annoyingly shove the used gum on the bottom of the chair.<br />
 **Hailey Murry: [ INSIGHT  (12) +  MEDICINE  (3)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 24]**<br />
@@ -316,13 +316,13 @@ Success with 0 momentum [2d20 = 24]**<br />
 **Captain Baras:** Well, she's right<br />
 ![](../images/murry.png) **Hailey Murry:** The coffee smells fine, but I think it's probably safer not to drink until we're sure we're not in some sort of fungal replication or something <br />
 **Captain Baras:** That is disgusting. I certainly hope you replaced the bar stools in the refit<br />
-**Skig:** Those were blown out into space, but I noticed them when I woke up.<br />
+![](../images/skig.png) **Skig:** Those were blown out into space, but I noticed them when I woke up.<br />
 <font color="##005500">indarien (Skig): Any reponse to Skig's communicator to the engineer on duty?</font><br />
 >As the crew discuss their situation, the light suddenly come up to full brightness and a banner reading "Happy Birthday Lt. Skig" unfurls from above the windows. A dozen or so crew come rushing in through the lounge doors<br />
 
 **Chorus of Voices:** SURPRISE!<br />
-**Skig:** Oh dear.<br />
-**Skig:** THAT DAY.<br />
+![](../images/skig.png) **Skig:** Oh dear.<br />
+![](../images/skig.png) **Skig:** THAT DAY.<br />
 *Hailey Murry clutches at her eyes with the pain of the bright lights*<br />
 **Lt. Howard:** Now there's a look of true surprise gentlemen<br />
 **Lt. Howard:** I told you she would never see it coming<br />
@@ -330,7 +330,7 @@ Success with 0 momentum [2d20 = 24]**<br />
 >Two humans and a Vulcan walk up to the away team, looking at Skig<br />
 
 *Skig smiles widely.*<br />
-**Skig:** Oh thank you!<br />
+![](../images/skig.png) **Skig:** Oh thank you!<br />
 *Skig is clearly trying very hard to fake being happy about being surprised.*<br />
 **Tural:** I fail to see the purpose of expending such effort and so many crew resources simply to.. "surprise" the lieutenant<br />
 **Ensign Marks:** Because it's fun Tural<br />
@@ -339,15 +339,15 @@ Success with 0 momentum [2d20 = 24]**<br />
 Success with 1 momentum [2d20 = 19]**<br />
 <font color="##005500">bayushikazemi (Hailey Murry): Surprise me once, shame on you. Surprise me twice, shamke on me</font><br />
 *Skig gestures at Viraseti and points at an invisible chronometer on her wrist to indicate total agreement of, "Temporal Event" suggestion.*<br />
-**Zox:** I see. <br />
-**Skig:** Tural we must all take every chance to be surprised as an opportunity to learn about the need to never panic in adverse conditions.<br />
-**Zox:** If only there were a best selling book that assured its readers not to panic.<br />
+![](../images/zox.png) **Zox:** I see. <br />
+![](../images/skig.png) **Skig:** Tural we must all take every chance to be surprised as an opportunity to learn about the need to never panic in adverse conditions.<br />
+![](../images/zox.png) **Zox:** If only there were a best selling book that assured its readers not to panic.<br />
 **Tural:** Hmm. I cannot find fault in your logic. In that case... "Surprise", Lietenant<br />
 *Tural hands Skig a bottle of Romulan Ale with a bow on top*<br />
-**Skig:** And I appreciate all of you taking such time and energy to provide everyone with the opportunity to have fun and learn at the same time.<br />
+![](../images/skig.png) **Skig:** And I appreciate all of you taking such time and energy to provide everyone with the opportunity to have fun and learn at the same time.<br />
 *Skig takes the bottle of Romulan Ale generously.*<br />
 **Chief Botok:** That doesn't sound like the Skig I know<br />
-**Skig:** Thank you Tural, I will cherish this as I cherish your friendship and kindness.<br />
+![](../images/skig.png) **Skig:** Thank you Tural, I will cherish this as I cherish your friendship and kindness.<br />
 **Chief Botok:** Where's that detatched Tellerite aggression?<br />
 **Zox: [ INSIGHT  (8) +  SECURITY  (4)]
 [Successes: 1] [Complications: 0]
@@ -356,18 +356,18 @@ Success with 0 momentum [2d20 = 18]**<br />
 *Skig looks at Chief Botok.*<br />
 >An older Bolian man comes up from behind and shakes Skig's hand<br />
 
-**Skig:** Botok!<br />
+![](../images/skig.png) **Skig:** Botok!<br />
 *Skig shakes his hand.*<br />
-**Skig:** It is a pleasure to see you again. I believe it is my turn in our 3D chess game. Knight to A-4-9.<br />
+![](../images/skig.png) **Skig:** It is a pleasure to see you again. I believe it is my turn in our 3D chess game. Knight to A-4-9.<br />
 **Chief Botok:** I knew you'd eventually find your way to a starship Skig, from the first day of my "Applied Warp Field Dynamics" class<br />
 **Zox: [ INSIGHT  (8) +  COMMAND  (3)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 29]**<br />
-**Skig:** Ah yes, the day you pointed out, after arguing with me for thirty minutes, that my entire theory was flawed due to an inverted sign on the flow theory algorithm I was using.<br />
+![](../images/skig.png) **Skig:** Ah yes, the day you pointed out, after arguing with me for thirty minutes, that my entire theory was flawed due to an inverted sign on the flow theory algorithm I was using.<br />
 **Hailey Murry: [ INSIGHT  (12) +  CONN  (3)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 28]**<br />
-**Zox:** Captain, may I suggest mass-hallucination as the most likely explanation for this phenomenon. Perhaps the ionic storms are somehow inter-weaving our collective unconsciouness.<br />
+![](../images/zox.png) **Zox:** Captain, may I suggest mass-hallucination as the most likely explanation for this phenomenon. Perhaps the ionic storms are somehow inter-weaving our collective unconsciouness.<br />
 ![](../images/murry.png) **Hailey Murry:** This is not just a mass hallucination <br />
 **Captain Baras:** So we could be in Skig's mind? Having some sort of vivid hallucination?<br />
 *Hailey Murry picks up her coffee and takes a sip*<br />
@@ -375,14 +375,14 @@ Success with 0 momentum [2d20 = 28]**<br />
 ![](../images/murry.png) **Hailey Murry:** We're all sharing dreams, I think<br />
 **Chief Botok:** Your colleagues here told me they figure out your birthday. I suspect they may have violated some protocols accessing your personel records! But when they invited me, I knew I had to come<br />
 **Chief Botok:** I wanted to see what you're doing out here with this old war horse!<br />
-**Zox:** It could be that Skig had the most powerful mind and thus most powerful base electric activity.<br />
+![](../images/zox.png) **Zox:** It could be that Skig had the most powerful mind and thus most powerful base electric activity.<br />
 *Lt. Cmdr Viraseti scoffs at Zox's suggestion*<br />
 ![](../images/murry.png) **Hailey Murry:** She's also the first to fall asleep as well<br />
-**Skig:** I have a fondness for old ships and the history they bring, as well you know.<br />
+![](../images/skig.png) **Skig:** I have a fondness for old ships and the history they bring, as well you know.<br />
 **Zox: [ CONTROL  (11) +  ENGINEERING  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 10]**<br />
-**Skig:** They have personalities and quirks, much like the crew that inhabit them.<br />
+![](../images/skig.png) **Skig:** They have personalities and quirks, much like the crew that inhabit them.<br />
 >Zox runs out of the corner and kicks the chair out from under Tural. Tural falls on his ass and looks at Zox<br />
 
 *Skig blinks.*<br />
@@ -394,7 +394,7 @@ Success with 1 momentum [2d20 = 10]**<br />
 **Hailey Murry ***(mutters)*: They are highly logical once you have the right point of view<br />
 *Skig realizes it is hard to focus on both past and present at the same time.*<br />
 *Ensign Marks and Lt. Howard laugh at Tural and Zox*<br />
-**Zox:** Interesting.<br />
+![](../images/zox.png) **Zox:** Interesting.<br />
 ![](../images/murry.png) **Hailey Murry:** I wonder why we're being shown this, specifically<br />
 **Lt. Howard:** Now that's getting into the spirit of a party<br />
 *Hailey Murry pays close attention to the events of the scene, for future reference*<br />

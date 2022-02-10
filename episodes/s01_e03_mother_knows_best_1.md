@@ -26,12 +26,12 @@ Per his latest status report, his survey team has completed random inspections o
 Failed on DC: 1 [2d20 = 38]**<br />
 **Tumarara:** Are you satisfied yet Commander? As I explained on the surface, all of the dangerous tasks are handled by out unmanned drones. Now if you are done, we need to get back to work. We have a schedule to keep here.<br />
 <font color="##005500">Masakari (Zox): characters were unbelievably competent last episdode, limiting the drama. Clearly we need to be more imperfect for good drama.</font><br />
-**Zox:** I tend to distrust those who rush a good inspection.<br />
+![](../images/zox.png) **Zox:** I tend to distrust those who rush a good inspection.<br />
 <font color="##005500">indarien (Skig): Last week things went far too well, we had a ratings slump so we need more conflict and incompetence.</font><br />
 **Tumarara:** I tend to distrust inspectors, they are usually more interested in their next promotion than the truth<br />
 **Tumarara:** This facility has a spotless safety record<br />
 *Zox 's eye slits narrow on Tumarara*<br />
-**Zox:** Im taking my crew down these auxiliary shafts.<br />
+![](../images/zox.png) **Zox:** Im taking my crew down these auxiliary shafts.<br />
 **Kolea:** I sometimes ride auxiliary shafts.<br />
 **Hailey Murry: [ REASON  (9) +  ENGINEERING  (2)]
 [Focus: Bureaucracy ]
@@ -40,7 +40,7 @@ Failed on DC: 1 [2d20 = 27]**<br />
 *Tumarara scoffs*<br />
 **Tumarara:** Are you crazy?<br />
 **Tumarara:** There is a reason we don't send people down there<br />
-**Zox:** Yes.<br />
+![](../images/zox.png) **Zox:** Yes.<br />
 **Tumarara:** Well I'm not going down there, I am not an idiot<br />
 *Tumarara crosses his arms defiantly*<br />
 *Kolea looks at Tumarara, smiles pleasantly.*<br />
@@ -178,10 +178,10 @@ Success with 0 momentum [2d20 = 28]**<br />
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 27]**<br />
 **Kolea:** USS Lister, are you able to lock on to our signals in case we need emergency transport?<br />
-**Skig:** Yes<br />
+![](../images/skig.png) **Skig:** Yes<br />
 *Zox looks relieved on hearing this.*<br />
 **Kolea:** Great, and while I have your attention Skig, would rampant phaser fire in a mine filled with Dilitium Crystal dust trigger chemical reactions that could cause the collapse of the mine system?<br />
-**Skig:** Your call is very important to us, please hold for the next available operator.<br />
+![](../images/skig.png) **Skig:** Your call is very important to us, please hold for the next available operator.<br />
 **Commander Bachar:** Skig, don't even think about it<br />
 **Kolea:** Dammit!<br />
 *Skig raises eyebrow and Commander Bachar's remark. Skig will think about whatever the Hell Skig feels like thinking about.*<br />
@@ -204,7 +204,7 @@ Success with 1 momentum [2d20 = 23]**<br />
 ![](../images/murry.png) **Hailey Murry:** The hydrogen and flourine, on the other hand<br />
 **Kolea:** Umm... I meant, as in, "We have been firing phasers around and I would like to know what would cause the mine to collapse."<br />
 **Lt. Malat:** Which way is the exit? I can't see a damn thing<br />
-**Skig:** It's okay Kolea, I knew what you meant.<br />
+![](../images/skig.png) **Skig:** It's okay Kolea, I knew what you meant.<br />
 ![](../images/murry.png) **Hailey Murry:** I think it may be the worms<br />
 **Zox: [ FITNESS  (9) +  SECURITY  (4)]
 [Focus: Endurance ]
@@ -215,7 +215,7 @@ Success with 3 momentum [3d20 = 27]**<br />
 **Kolea: [ DARING  (9) +  MEDICINE  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 19]**<br />
-**Zox:** Vent the mineshaft before we are all dead! There has to be an emergency ventilation shaft access control here!<br />
+![](../images/zox.png) **Zox:** Vent the mineshaft before we are all dead! There has to be an emergency ventilation shaft access control here!<br />
 *Kolea looks for blinking red lights with warning labels affixed to it.*<br />
 *Skig and Crewman McAllister pull out their tricorders*<br />
 *Lt. Malat and Crewman McAllister pull out their tricorders*<br />
@@ -232,12 +232,12 @@ Success with 0 momentum [2d20 = 25]**<br />
 [Focus: Espionage ]
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 9]**<br />
-**Zox:** Drone, route ventilation to this shaft immediately, priority 1.<br />
+![](../images/zox.png) **Zox:** Drone, route ventilation to this shaft immediately, priority 1.<br />
 **Kolea:** What if they don't actually have OSHA implemented and there is no access control system?<br />
 **Drone:** Command override accepted, initiating venting procedure<br />
 **Kolea:** Or didn't bother to install fans and venting systems?<br />
 **Kolea:** I'm pretty sure that would need to be posthumously included in your report.<br />
-**Zox:** Correct.<br />
+![](../images/zox.png) **Zox:** Correct.<br />
 >The gas slowly begins to drain from the tunnel, and the away team can at least see again<br />
 
 **Hailey Murry:  [d20 = 2]**<br />
@@ -263,37 +263,37 @@ Success with 1 momentum [3d20 = 41]**<br />
 ![](../images/murry.png) **Hailey Murry:** Alright, so<br />
 ![](../images/murry.png) **Hailey Murry:** Commander Murry to Lister, we need two things<br />
 ![](../images/murry.png) **Hailey Murry:** We need to be beamed out<br />
-**Skig:** Okay, what can we do to help?<br />
+![](../images/skig.png) **Skig:** Okay, what can we do to help?<br />
 ![](../images/murry.png) **Hailey Murry:** And we should pretend this was a resounding success<br />
-**Skig:** Got it, straight to sick bay or to a normal transporter room?<br />
+![](../images/skig.png) **Skig:** Got it, straight to sick bay or to a normal transporter room?<br />
 *Zox is now convinved Kolea has a bigger crush on him than the SpaceSnek(TM)*<br />
 **Lt. Malat:** I agree with the counselor. Snitches get stiches<br />
 ![](../images/murry.png) **Hailey Murry:** Sick bay, please, we should probably all get a look over<br />
-**Skig:** I'm reporting this as a resounding success for testing out the transporters and the efficacy of the rebreathing equipment.<br />
+![](../images/skig.png) **Skig:** I'm reporting this as a resounding success for testing out the transporters and the efficacy of the rebreathing equipment.<br />
 *Crewman McAllister breathes a sign of relief that it was Kolea who got crushed by the rocks and not him, because he doubts Zox would have risked his life to save him*<br />
 *Skig activates the transporter to send the entire Away Team to a medical bay with quarantine features to prevent spread of airborne contaminants.*<br />
 >The transporters dematerialize the away team and they rematerialize in sickbay<br />
 
 >All except Zox, who is absent when the away team re-appear<br />
 
-**Skig:** Counselor, are you arrived and, I assume Lt. Commander Zox is...<br />
-**Skig:** Hmm....<br />
+![](../images/skig.png) **Skig:** Counselor, are you arrived and, I assume Lt. Commander Zox is...<br />
+![](../images/skig.png) **Skig:** Hmm....<br />
 ![](../images/murry.png) **Hailey Murry:** So, I suppose we should probably double check if that was intentional venting of --where is Zox?<br />
 *Dr. Zerra gets Kolea up onto a bed and... begins scanning her with his medical tricorder*<br />
-**Skig:** Lt. Commander Zox is being held in the transporter buffer as he is carrying some level of contaminant that is not identifiable or purgeable via transporter.<br />
+![](../images/skig.png) **Skig:** Lt. Commander Zox is being held in the transporter buffer as he is carrying some level of contaminant that is not identifiable or purgeable via transporter.<br />
 **Dr. Zerra:** I'll set up a level 4 containment field<br />
 *Dr. Zerra establishes a containment field around the diagnostic bay*<br />
 **Dr. Zerra:** We're ready here whenever you are commander<br />
-**Skig:** Thank you Doctor, I shall begin the transport now.<br />
+![](../images/skig.png) **Skig:** Thank you Doctor, I shall begin the transport now.<br />
 <font color="##005500">Masakari (Zox): oh no. SpaceSnek Fever.</font><br />
 <font color="##005500">indarien (Kolea): Fen - Planning this episode, The only person susceptible to this DNA-altering SpaceSnek poison would be Zox, how can I possibly convince Tack that Zox needs to get constricted and poisoned by one of these?.... 5 minutes into the episode... nevermind.</font><br />
 *Skig materializes Zox in the containment system.*<br />
 *Dr. Zerra orders another nurse to take care of Kolea and turns his attention to Zox*<br />
 **Dr. Zerra:** Interesting. There are no foreign organisms present, that must be why the transporter couldn't remove it. It looks like something is... rewriting the Commander's DNA<br />
 **Kolea ***(thrashes in her sleep)*: Yes master, whip me more, I really like it when you do that.<br />
-**Skig:** More herbivorous or carnivorous?<br />
+![](../images/skig.png) **Skig:** More herbivorous or carnivorous?<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): "Whip me herbivorously"</font><br />
-**Skig:** Just need to know if I should reprogram the food synthesizers.<br />
+![](../images/skig.png) **Skig:** Just need to know if I should reprogram the food synthesizers.<br />
 **Dr. Zerra:** Hard to say Commander, I can give him an injection of a cellular inhibitor for now, it should slow down the genetic damage.<br />
 *Dr. Zerra gives Zox two injections, and he starts to wake back up*<br />
 **Dr. Zerra:** I'll have to do some further research to come up with a treatment plan<br />
@@ -310,17 +310,17 @@ Directed By Clifford Ness<br />
 >After the credits, the Captain has come to sickbay to discuss the situation with his senior staff<br />
 
 **Captain Baras:** How are you feeling Commander?<br />
-**Zox:** Hissssterical. All squirmy.<br />
+![](../images/zox.png) **Zox:** Hissssterical. All squirmy.<br />
 **Captain Baras:** Dr, is he fit for duty?<br />
 ![](../images/murry.png) **Hailey Murry:** I can't tell if he's feeling normal or if he's actually feeling different<br />
 **Dr. Zerra:** Impossible to say, normal for Zox is hard to pin down<br />
 **Dr. Zerra:** As for his fitness for duty, if he is feeling up to it, I would not object. But I would insist that he wear a bio-monitor<br />
 **Dr. Zerra:** I need to be able to monitor his condition<br />
-**Zox:** Can you explain this condition?<br />
+![](../images/zox.png) **Zox:** Can you explain this condition?<br />
 *Dr. Zerra pulls up a monitor and swivels it over so Zox can see, then sits down at his bedside*<br />
 <font color="##005500">indarien (Kolea): Well, see, your normal cells are the green ones, the blue ones are the infected cells, and the red ones are where the blinky thing next to the light relay system needed extra contrast.</font><br />
 **Dr. Zerra:** This is your genetic fingerprint that we have on file from your last physical, and this is your DNA sequences now. As you can see, something in the venom from that creature began the process of rewriting your base pairs. <br />
-**Zox:** While I know the technology has been banned since the Eugenics wars of Terra, can't you just over-write the re-wiriting since you have it all on file?<br />
+![](../images/zox.png) **Zox:** While I know the technology has been banned since the Eugenics wars of Terra, can't you just over-write the re-wiriting since you have it all on file?<br />
 **Dr. Zerra:** We've filtered out the venom, but the process appears to be self-sustaining now<br />
 **Dr. Zerra:** That is my hope, but our systems cannot sythesize viable Voth DNA<br />
 **Dr. Zerra:** I have one hope for a treatment: a live donor<br />
@@ -330,6 +330,6 @@ Directed By Clifford Ness<br />
 >♫♫♫Lighthearted Music Sting♫♫♫<br />
 
 <font color="##005500">Masakari: ♫♫♫Lighthearted Music Sting♫♫♫</font><br />
-**Zox:** If this is the approved treatment, there is no choice.<br />
+![](../images/zox.png) **Zox:** If this is the approved treatment, there is no choice.<br />
 >♫♫♫Ominous Music Sting♫♫♫<br />
 

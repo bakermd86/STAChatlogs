@@ -28,19 +28,19 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 **Loris Vaah:** No more than I do, and I won't let you rescue a single Northern Front soldier if my men are not rescued<br />
 *Hailey Murry sits down between the two of them, steepling her fingers*<br />
 ![](../images/murry.png) **Hailey Murry:** Ideally we're able to rescue them all, but we may need to consult with our engineers<br />
-**Skig:** I propose we rig an inversion transporter that sling-shots people through the Fluxnazit Hydroprophalytic converter that moves them from their current location on the planet surface of the pocket dimension to the exact same physical location (accounting for variances in constructed structures) in the actual physical version of the planet.<br />
+![](../images/skig.png) **Skig:** I propose we rig an inversion transporter that sling-shots people through the Fluxnazit Hydroprophalytic converter that moves them from their current location on the planet surface of the pocket dimension to the exact same physical location (accounting for variances in constructed structures) in the actual physical version of the planet.<br />
 ![](../images/murry.png) **Hailey Murry:** What she said. Fortunately, the valley the two of you occupy here has been UNoccupied on the mainworld for a long time, so there is plenty of space for you there where there isn't much here.<br />
 **Loris Vaah:** I... didn't understand a word of that, and I'm not sure it was even words<br />
-**Skig:** Amended of course for what is actually possible given the variances of Galactic Common and the need to cycle through the Alchemical Bifram Defibrilator Oxygenization Matrix.<br />
+![](../images/skig.png) **Skig:** Amended of course for what is actually possible given the variances of Galactic Common and the need to cycle through the Alchemical Bifram Defibrilator Oxygenization Matrix.<br />
 **Loris Vaah:** But are you saying you can take us back to our planet?<br />
-**Skig:** That would be the plan, yes.<br />
+![](../images/skig.png) **Skig:** That would be the plan, yes.<br />
 **Loris Vaah:** Using your... teleportation machine?<br />
-**Skig:** My desire to move the process along causes the tl'dr; response of, "Yes."<br />
+![](../images/skig.png) **Skig:** My desire to move the process along causes the tl'dr; response of, "Yes."<br />
 **Korok Avera:** How do I know I can trust you?<br />
 **Korok Avera:** For all I know, you could teleport my people into space. Or into the center of the planet<br />
 **Loris Vaah:** Now there's an idea<br />
 ![](../images/murry.png) **Hailey Murry:** Well, you have a large number of our people in your mix, do you not? <br />
-**Skig:** We could send a representative sampling of our own people through first, while you observe the operation, then transport groups of your people pending the maximum transit capacity based on power as well as the monodigylceride content of your fat cells.<br />
+![](../images/skig.png) **Skig:** We could send a representative sampling of our own people through first, while you observe the operation, then transport groups of your people pending the maximum transit capacity based on power as well as the monodigylceride content of your fat cells.<br />
 ![](../images/murry.png) **Hailey Murry:** This will, ideally, rescue everyone. Even if our crew weren't planetside, we'd still be working to return you to the planet proper. We were in the process of helping your peoples when this whole thing happened. <br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
 [Successes: 1] [Complications: 0]
@@ -79,18 +79,18 @@ Failed on DC: 1 [2d20 = 35]**<br />
 **Korok Avera:** I am still not sure I believe in this plan of yours<br />
 <font color="##005500">indarien (Skig): I'm actually impressed they worked out they were not in a real version of the planet.</font><br />
 ![](../images/murry.png) **Hailey Murry:** That's why I'm asking. Things are going to change dramatically for you, and your return could bring together both of your peoples. <br />
-**Skig:** You would also have a considerable amount of catching up to do on everything else that has happened.<br />
+![](../images/skig.png) **Skig:** You would also have a considerable amount of catching up to do on everything else that has happened.<br />
 ![](../images/murry.png) **Hailey Murry:** This is a chance to bring your peoples from active warfare to a period of peace and prosperity that many literally have never imagined. <br />
 *Skig slow claps at Murry's words.*<br />
 **Hailey Murry: [ REASON  (9) +  SECURITY  (2)]
 [Focus: Bureaucracy ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 26]**<br />
-**Skig:** Plus your advanced technology to create giant moving apartment buildings might be very well received.<br />
+![](../images/skig.png) **Skig:** Plus your advanced technology to create giant moving apartment buildings might be very well received.<br />
 **Skig: [ PRESENCE  (8) +  ENGINEERING  (5)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [d20 = 10]**<br />
-**Skig:** You make a compelling point little furry lady. Perhaps I can.. show you around, when this is all over?<br />
+![](../images/skig.png) **Skig:** You make a compelling point little furry lady. Perhaps I can.. show you around, when this is all over?<br />
 **Skig:  [2d20 = 7]**<br />
 **Loris Vaah:** You make a compelling point little furry lady. Perhaps I can.. show you around, when this is all over?<br />
 <font color="##005500">Masakari (Zox): ;D</font><br />
@@ -108,18 +108,18 @@ Success with 0 momentum [2d20 = 18]**<br />
 
 **Commander Bachar:** We need an escape route now. Zox, do you think you could punch through with the phaser array? Anyone have any other suggestions?<br />
 **Lt. Cmdrs 11 and 10:** A high-energy warp field from our own warp core may be able to destructively interfere with the bubble. It would require significant energy be rerouted from other systems, and would be delicate to properly modulate. But it would give us a way to chart a course out.<br />
-**Zox:** I am not sure how to modulate our phasers to breach a warp bubble without a specific frequency. I would need Skig to calculate this.<br />
-**Skig:** Given the collapse of the warp field, and the fact it is a subspace dimension, I would posit we should be able to basically invert the entire thing through careful modulation of the warp core and cause it to basically shift everyone and everything to the spot it currently is on in reality.<br />
+![](../images/zox.png) **Zox:** I am not sure how to modulate our phasers to breach a warp bubble without a specific frequency. I would need Skig to calculate this.<br />
+![](../images/skig.png) **Skig:** Given the collapse of the warp field, and the fact it is a subspace dimension, I would posit we should be able to basically invert the entire thing through careful modulation of the warp core and cause it to basically shift everyone and everything to the spot it currently is on in reality.<br />
 *Zox appears to more aggre with Skig and the Bynars.*<br />
 **Lt. Malat:** I don't care how much this Traveller knows about subspace, no warp field is perfectly isolated from normal space. If we shut down our warp engines and ride the subspace eddies at low-power, the natural subspace current will guide us to a funnel back to normal space.<br />
-**Skig:** I believe that would be true Malat, if we were also not trying to get everyone else on the planet out also.<br />
+![](../images/skig.png) **Skig:** I believe that would be true Malat, if we were also not trying to get everyone else on the planet out also.<br />
 **Dr. Zerra:** Perhaps we are thinking about this the wrong way. The Traveller is a biological organism after all, and this region of subspace seems to be part of his body. Perhaps if we make the Lister's warp signature unpalatable to him, his version of an immune system might try to expel us on its own. Like sneezing out viral cells.<br />
 **Lt. Malat:** That shouldn't be a problem Commander, we can hold their patterns in the transporter pattern buffer long enough to rid it out<br />
 *Skig thinks that is a very interesting idea, not sure how feasible, but would provide a better understanding of the Traveller species if it turned out to be true.*<br />
-**Skig:** True, we could load them all into the transporter buffer and ride out the situation through the eddies.<br />
+![](../images/skig.png) **Skig:** True, we could load them all into the transporter buffer and ride out the situation through the eddies.<br />
 **Commander Bachar:** Ok, so we're in agreement about the warp field inversion. But how do we get through once the door is open? Plot a course directly through subspace?<br />
 **Lt. Cmdrs 11 and 10:** The sattelites which Zox and Skig collected earlier should still be sitting in orbit around Osala. We should be able to lock-on to their own warp-fields and use that to plot an escape course.<br />
-**Skig:** Ideally the warp field inversion will cause a collapse that pulls us through the satellite relays, as the Bynar suggest.<br />
+![](../images/skig.png) **Skig:** Ideally the warp field inversion will cause a collapse that pulls us through the satellite relays, as the Bynar suggest.<br />
 **Lt. Malat:** Plotting a course may not be necessary at all. With the field weakened, we should just need to obtain sufficient sub-slight velocity to punch through. The bubble is too small to get up to speed in a straight line, but a slighshot maneuver should work.<br />
 **Commander Bachar:** Ok, we're settled then. Skig and the twins, set up the warp field<br />
 **Commander Bachar:** Zox, stand by to lock on to the sattelite signals as soon as you can detect them<br />
@@ -169,12 +169,12 @@ Success with 5 momentum [3d20 = 22]**<br />
 **Lt. Cmdrs 11 and 10:** If we remodulate the the shields to match the subspace field frequence, it might aleviate the pressure holding us in place.<br />
 **Lt. Malat:** We may be able to use a tractor beam to exert additional force on the bubble directly, it might be enough to push us free.<br />
 *Skig is imagining the Traveller with some seriously clenched buttocks running to the restroom of the bar he is currently in, desperately hoping all the stalls are not taken because he feels a starship-sized bowel purge coming on.*<br />
-**Skig:** Malat is there a directional force behind what is holding us? For instance, are we being pinched from a specific direction that would suggest a spot we could focus the beam on?<br />
+![](../images/skig.png) **Skig:** Malat is there a directional force behind what is holding us? For instance, are we being pinched from a specific direction that would suggest a spot we could focus the beam on?<br />
 **Lt. Malat:** It seems to be pushing us straight back. I'm at full impulse, and we are slipping back in<br />
 **Lt. Malat:** Whatever you want to try Commanders, it had better be quick<br />
 <font color="##005500">Masakari (Zox): Late Night Infomercials on the Traveller's planet sell rememdies for irritable bubble syndrome.</font><br />
 **Commander Bachar:** Zox, tractor beam. As much power as you can give it<br />
-**Zox:** You got it!<br />
+![](../images/zox.png) **Zox:** You got it!<br />
 **Zox: [ CONTROL  (11) +  SECURITY  (4)]
 [Focus: Shipboard Tactical Systems ]
 [Successes: 2] [Complications: 0]
@@ -184,7 +184,7 @@ Success with 1 momentum [2d20 = 20]**<br />
 **Skig:  [d6 = 2]**<br />
 **Hailey Murry:  [d6 = 4]**<br />
 **Hailey Murry:  [d6 = 5]**<br />
-**Skig:** Keola<br />
+![](../images/skig.png) **Skig:** Keola<br />
 **Skig:  [d6 = 2]**<br />
 **Skig:  [d6 = 1]**<br />
 **Skig:  [d6 = 1]**<br />
@@ -197,7 +197,7 @@ Success with 1 momentum [2d20 = 20]**<br />
 *Kolea is insensate and dreaming of large men.*<br />
 **Lt. Malat:** I am.. honestly surprised we lived<br />
 **Commander Bachar:** Zox, rematerialize everyone from the buffers<br />
-**Zox:** Yes Commander!<br />
+![](../images/zox.png) **Zox:** Yes Commander!<br />
 **Zox: [ CONTROL  (11) +  ENGINEERING  (3)]
 [Focus: Shipboard Tactical Systems ]
 [Successes: 2] [Complications: 0]
@@ -222,11 +222,11 @@ Success with 1 momentum [2d20 = 19]**<br />
 *Kolea monopolizes the Holodeck to recover from injuries by setting an infinite loop on the Risian Massage Parlor.*<br />
 **Commander Bachar:** I certainly hope not<br />
 **Commander Bachar:** Skig, how was your first taste of command?<br />
-**Skig:** Possibly, if nothing else I hope he realizes that we were not trying to imprison him and only assist in a peaceful resolution to the problem.<br />
+![](../images/skig.png) **Skig:** Possibly, if nothing else I hope he realizes that we were not trying to imprison him and only assist in a peaceful resolution to the problem.<br />
 *Skig looks at Bachar.*<br />
-**Skig:** I much prefer being in Engineering.<br />
+![](../images/skig.png) **Skig:** I much prefer being in Engineering.<br />
 **Commander Bachar:** You handled a difficult situation well<br />
-**Skig:** I believe I did well enough to prevent additional casualties and with significant help from the remaining command staff was able to achieve a satisfactory result.<br />
+![](../images/skig.png) **Skig:** I believe I did well enough to prevent additional casualties and with significant help from the remaining command staff was able to achieve a satisfactory result.<br />
 **Lt. Malat:** And Murry somehow got those lugheads to go along with our plan<br />
 *Zox makes loud crunching noises as he eats the beverage glasses.*<br />
 **Lt. Malat:** I would have spaced them and sorted it out with their people later<br />
@@ -234,11 +234,11 @@ Success with 1 momentum [2d20 = 19]**<br />
 
 *Commander Bachar Appears to be losing the game to Skig, possibly because she is terrible at chess*<br />
 **Lt. Malat:** Zox, at least you have to agree that those two would have deserved it<br />
-**Skig:** Right, it was through coordinated effort from multiple disciplines to solve the problem properly.<br />
+![](../images/skig.png) **Skig:** Right, it was through coordinated effort from multiple disciplines to solve the problem properly.<br />
 **Commander Bachar:** I agree completely, but there is one important thing you should learn from this experience Commander<br />
 *Zox asks the bar keeper why it's called whiskey on the rocks, if there are no rocks in it, clearly dissapointed. *<br />
 *Commander Bachar moves her king into an obvious trap, setting up a checkmate for Skig*<br />
-**Skig:** And what is that, Commander?<br />
+![](../images/skig.png) **Skig:** And what is that, Commander?<br />
 *Commander Bachar takes out a phaser before Skig can complete the checkmate and vaporizes the chess board*<br />
 **Commander Bachar:** Sometimes winning at any cost, isn't worth the cost<br />
 *Commander Bachar turns and leaves*<br />
