@@ -17,16 +17,16 @@ The hallway is lit only by the dim glow of the red alert indicators and the puls
 <font color="##005500">Masakari (Rhuk): function to use number of controlled characters to auto assign colors with the most possible color distance to their dice sets = IDEA.</font><br />
 *Caiveka decapitates the creature.*<br />
 **Caiveka:** RARGH!<br />
-![](../images/murry.png)**Hailey Murry:** Caiveka, what's the fastest way up to the bridge? <br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Caiveka, what's the fastest way up to the bridge? <br />
 **Caiveka:** FOR THE GLORY OF THE EMPIRE!<br />
-![](../images/murry.png)**Hailey Murry:** Ideally a way where we can block off the way behind --oh god, you got it all over my pants<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Ideally a way where we can block off the way behind --oh god, you got it all over my pants<br />
 **Caiveka:  [Damage: 8] [Effects: 5] [7dChallenge = 8]**<br />
 <font color="##005500">Masakari (Rhuk): VAPED.</font><br />
 <font color="##005500">Masakari (Rhuk): 'what is vicious'</font><br />
 <font color="##005500">indarien (Caiveka): Throw the Klingon in and wait for the screaming to stop.</font><br />
 *Caiveka runs forward with her Bat'leth.*<br />
 **Caiveka:** And they said there would be no exciting challenges during this time on the officer exchange program!<br />
-![](../images/murry.png)**Hailey Murry:** Caiveka! This way, we need your courage to lead the way up to the bridge<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Caiveka! This way, we need your courage to lead the way up to the bridge<br />
 *Caiveka chops through the creatures, hacking through its limbs and severing all visible body parts.*<br />
 **Rhuk: [ FITNESS  (7) +  SECURITY  (1)]
 [Successes: 0] [Complications: 0]
@@ -42,7 +42,7 @@ Success with 0 momentum [2d20 = 17]**<br />
 
 **Caiveka:** You shall die with honour scaly reptilian woman!<br />
 **Caiveka:** But why didn't you grab one of the other weapons from my quarters first?<br />
-![](../images/murry.png)**Hailey Murry:** Caiveka! Get it's back knee so it can't brace!<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Caiveka! Get it's back knee so it can't brace!<br />
 **Hailey Murry: [ INSIGHT  (12) +  COMMAND  (1)]
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 27]**<br />
@@ -54,12 +54,12 @@ Success with 0 momentum [2d20 = 27]**<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): She is innocent</font><br />
 <font color="##005500">BayushiKazemi (Hailey Murry): This is an innocent, if convenient, mistake</font><br />
 **Caiveka:** Err... which "It"?  You were not specific and there were four knees to choose from?<br />
-![](../images/murry.png)**Hailey Murry:** You struck her head?!<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** You struck her head?!<br />
 >Caiveka takes a big swing at the creature attacking Rhuk, but misses. Her bat'leth bounces off the door frame and cracks into Rhuk's head hard<br />
 
 **Caiveka:** Also, I sensed some animosity towards your mother-in-law, so I thought maybe you meant both of them?<br />
 **Caiveka:** These Federation Door Frames are not well sized for wide swinging weapons.<br />
-![](../images/murry.png)**Hailey Murry:** No! Hostility or no, she's a diplomatic guest upon this vessel and our honor is dependent on her survival<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** No! Hostility or no, she's a diplomatic guest upon this vessel and our honor is dependent on her survival<br />
 **Caiveka:** I see, I guess I missed that part of the briefing.<br />
 >Another of the creatures comes out of the holodeck and drags Rhuk back towards the holodeck, several more come slinking out of the doors and head towards Murry and Caiveka<br />
 
@@ -87,7 +87,7 @@ Failed on DC: 1 [2d20 = 29]**<br />
 *Rhuk stares in repitle at Caiveka *<br />
 *Caiveka points at Murry.*<br />
 **Caiveka:** She doesn't like you and was non-specific.<br />
-![](../images/murry.png)**Hailey Murry:** Caiveka, Rhuk, we're performing a fighting retreat! We need to get back to warn Zox and the commander ASAP, there's going to be too many of these for us to take all at once with our current equipment<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Caiveka, Rhuk, we're performing a fighting retreat! We need to get back to warn Zox and the commander ASAP, there's going to be too many of these for us to take all at once with our current equipment<br />
 **Hailey Murry: [ INSIGHT  (12) +  MEDICINE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [3d20 = 40]**<br />
@@ -108,7 +108,7 @@ Success with 0 momentum [2d20 = 25]**<br />
 
 **Caiveka:** RARRGHH!!! FOR THE EMPIRE!!!<br />
 **Caiveka:** Oh, is that what my lungs look like? Hmm, that does look delicious.<br />
-![](../images/skig.png)**Skig:** Excuse me, I am opposed to any plan that involves endangering the structural integrity of the Lister.<br />
+<img align="left" src="../images/skig.png" >**Skig:** Excuse me, I am opposed to any plan that involves endangering the structural integrity of the Lister.<br />
 **Rhuk:** but we can fix the Lister easier than we can fix it's crew =D<br />
 <br />
 
@@ -119,7 +119,7 @@ Success with 0 momentum [3d20 = 45]**<br />
 **Hailey Murry:  [d20 = 12]**<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): leaps toward one of the supply closets, opening up the door and rummaging through to try and find SOMETHING useful</font><br />
 *Hailey Murry leaps toward one of the supply closets, opening up the door and rummaging through to try and find SOMETHING useful*<br />
-![](../images/murry.png)**Hailey Murry:** (delete first)<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** (delete first)<br />
 >Murry searches the nearest storage closet and finds a maintenance closet full of EPS power system spare parts<br />
 
 **Rhuk: [ FITNESS  (7) +  CONN  (4)]
@@ -128,7 +128,7 @@ Success with 0 momentum [2d20 = 22]**<br />
 >Rhuk is able to get the door closed just as the creatures slam into it, denting it but leaving her and Murry safe, for the moment<br />
 
 **Rhuk:** Let's get out of here?<br />
-![](../images/murry.png)**Hailey Murry:** Absolutely, but first...how steady are your hands? Because we cannot drop these<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Absolutely, but first...how steady are your hands? Because we cannot drop these<br />
 **Rhuk:** As steady as you need<br />
 **Skig: [ DARING  (9) +  CONN  (2)]
 [Successes: 0] [Complications: 0]
@@ -138,21 +138,21 @@ Failed on DC: 1 [2d20 = 35]**<br />
 [Focus: Espionage ]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 10]**<br />
-![](../images/murry.png)**Hailey Murry:** Here, take these over to the window there. Set them against the window in the room across the hall<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** Here, take these over to the window there. Set them against the window in the room across the hall<br />
 **Rhuk: [ CONTROL  (10) +  ENGINEERING  (2)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 16]**<br />
-![](../images/murry.png)**Hailey Murry:** If we can vent the room here, it will hopefully prevent these creatures from getting through<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** If we can vent the room here, it will hopefully prevent these creatures from getting through<br />
 **Hailey Murry:  [d20 = 11]**<br />
 **Hailey Murry:  [d6 = 6]**<br />
-![](../images/zox.png)**Zox:** Strange readings are eminating from deck 4 - shall we investigate or head to the shuttle, Skig?<br />
-![](../images/zox.png)**Zox:** I feel the faster we cleanse the Lister, the better.<br />
+<img align="left" src="../images/zox.png" >**Zox:** Strange readings are eminating from deck 4 - shall we investigate or head to the shuttle, Skig?<br />
+<img align="left" src="../images/zox.png" >**Zox:** I feel the faster we cleanse the Lister, the better.<br />
 **Hailey Murry: [ DARING  (11) +  ENGINEERING  (2)]
 [Focus: Demolitions ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 31]**<br />
-![](../images/skig.png)**Skig:** I doubt that anything you are getting from readings are entirely trustworthy, so I doubt we should tarry further.<br />
-![](../images/zox.png)**Zox:** Ah. I appreciate your steady and reasonable command.<br />
+<img align="left" src="../images/skig.png" >**Skig:** I doubt that anything you are getting from readings are entirely trustworthy, so I doubt we should tarry further.<br />
+<img align="left" src="../images/zox.png" >**Zox:** Ah. I appreciate your steady and reasonable command.<br />
 **Rhuk: [ CONTROL  (10) +  ENGINEERING  (2)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 24]**<br />
@@ -161,14 +161,14 @@ Success with 0 momentum [2d20 = 24]**<br />
 
 >A massive fireball erupts from the side of the lister<br />
 
-![](../images/skig.png)**Skig:** WHAT THE HELL?<br />
+<img align="left" src="../images/skig.png" >**Skig:** WHAT THE HELL?<br />
 **Hailey Murry:  [6d20 = 79]**<br />
 **Hailey Murry:  [d6 = 4]**<br />
-![](../images/zox.png)**Zox:** Hrm. We have a much bigger problem than strange signals<br />
+<img align="left" src="../images/zox.png" >**Zox:** Hrm. We have a much bigger problem than strange signals<br />
 **Rhuk: [ FITNESS  (7) +  SECURITY  (1)]
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 29]**<br />
-![](../images/skig.png)**Skig:** No kidding, it is like some psychotic pregnant woman is destroying my ship for revenge against her failure to use prophalyctics.<br />
+<img align="left" src="../images/skig.png" >**Skig:** No kidding, it is like some psychotic pregnant woman is destroying my ship for revenge against her failure to use prophalyctics.<br />
 **Hailey Murry: [ REASON  (9) +  CONN  (3)]
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 28]**<br />
@@ -190,7 +190,7 @@ Success with 1 momentum [2d20 = 18]**<br />
 **Zox:  [d20 = 1]**<br />
 >The voth/snek bites onto Murry's thigh, and begins wrapping its neck around her leg<br />
 
-![](../images/murry.png)**Hailey Murry:** ARGH! <br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** ARGH! <br />
 **Rhuk: [ DARING  (10) +  MEDICINE  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 24]**<br />
@@ -204,7 +204,7 @@ Success with 1 momentum [2d20 = 24]**<br />
 Success with 2 momentum [3d20 = 33]**<br />
 >Skig begins to reprogram the environmental systems to release Nuerazine gas throughout the entire deck. The life support system whirs to life and begins to flood the deck with invisible gas<br />
 
-![](../images/skig.png)**Skig:** All right, now let's check the damage to the ship.<br />
+<img align="left" src="../images/skig.png" >**Skig:** All right, now let's check the damage to the ship.<br />
 **Hailey Murry: [ FITNESS  (7) +  MEDICINE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 7]**<br />
@@ -246,17 +246,17 @@ Success with 1 momentum [2d20 = 17]**<br />
 
 >Murry starts to feel unwell (why aren't there more bathrooms on this ship?). Rhuk cries out in excrutiating pain and collapses on the deck.<br />
 
-![](../images/zox.png)**Zox:** Oh no! Mother Rhuk! What has occured!<br />
+<img align="left" src="../images/zox.png" >**Zox:** Oh no! Mother Rhuk! What has occured!<br />
 *Rhuk barfs*<br />
-![](../images/murry.png)**Hailey Murry:** The holodeck<br />
-![](../images/murry.png)**Hailey Murry:** They're duplicating in there<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** The holodeck<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** They're duplicating in there<br />
 *Lt. Cmdr Viraseti pulls out a tricorder and skans Rhuk*<br />
 *Zox appears to think for a moment.*<br />
-![](../images/zox.png)**Zox:** Override the safety and turn the holodeck into an unlivable hell!<br />
-![](../images/skig.png)**Skig:** So, Murry's living quarters?<br />
-![](../images/murry.png)**Hailey Murry:** We can't, the power's out<br />
+<img align="left" src="../images/zox.png" >**Zox:** Override the safety and turn the holodeck into an unlivable hell!<br />
+<img align="left" src="../images/skig.png" >**Skig:** So, Murry's living quarters?<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** We can't, the power's out<br />
 **Lt. Cmdr Viraseti:** The eggs... I'm not sure how to say this, but they appear to be hatching<br />
-![](../images/murry.png)**Hailey Murry:** It wouldn't respond when I tried to shut it down<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** It wouldn't respond when I tried to shut it down<br />
 *Skig pokes Viraseti to see scan and see if Murry is "hatching" also.*<br />
-![](../images/murry.png)**Hailey Murry:** They're not my living quarters, though the Holodeck can make some pretty cozy scenarios<br />
-![](../images/zox.png)**Zox:** Unleash the mongoose program!<br />
+<img align="left" src="../images/murry.png" >**Hailey Murry:** They're not my living quarters, though the Holodeck can make some pretty cozy scenarios<br />
+<img align="left" src="../images/zox.png" >**Zox:** Unleash the mongoose program!<br />
