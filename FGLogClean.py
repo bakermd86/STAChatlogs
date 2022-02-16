@@ -28,6 +28,17 @@ BACKUP_DIR = join(OUT_DIR, "backups")
 SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
 MOOD_PATTERN = re.compile("([^(]+)(\([^:]+)(.+)", re.DOTALL)
 
+SPEAKER_IMAGE_MAP = {
+    "hailey murry": "![](../images/murry.png)",
+    "zox": "![](../images/zox.png)",
+    "skig": "![](../images/skig.png)",
+    "baras": "![](../images/baras.png)",
+    "bachar": "![](../images/bachar.png)",
+    "11 and 10": "![](../images/twins.png)",
+    "viraseti": "![](../images/viraseti.png)",
+    "zerra": "![](../images/zerra.png)",
+    "malat": "![](../images/malat.png)",
+}
 
 class LineTypes(Enum):
     WHISPER_AND_NPC_ROLL = 1,
@@ -140,17 +151,28 @@ class ChatFormatter:
             return LineTypes.UNKNOWN
 
     @staticmethod
+    def add_speaker_image(speaker):
+        image_link = ""
+        for k, v in SPEAKER_IMAGE_MAP.items():
+            if k in speaker.lower():
+                image_link = v
+                break
+        return image_link + "**%s**" % speaker
+
+    @staticmethod
     def bold_speaker(line):
         m = SPEAKER_PATTERN.match(line)
         if m and m.groups():
-            return ChatFormatter.break_line("**%s**" % m.group(1) + m.group(2))
+            speaker = ChatFormatter.add_speaker_image(m.group(1))
+            return ChatFormatter.break_line(speaker + m.group(2))
         return ChatFormatter.break_line(line)
 
     @staticmethod
     def format_mood(line):
         m = MOOD_PATTERN.match(line)
         if m and m.groups():
-            return ChatFormatter.break_line("**%s**" % m.group(1) + "*%s*" % m.group(2) + m.group(3))
+            speaker = ChatFormatter.add_speaker_image(m.group(1))
+            return ChatFormatter.break_line(speaker + " *%s*" % m.group(2) + m.group(3))
         return ChatFormatter.break_line(line)
 
     @staticmethod
@@ -193,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "test", "test")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Mother Knows Best (Part 5)", "s01_e03_mother_knows_best_5")
     formatter.parse_chatlog()
     delete_old_log()
