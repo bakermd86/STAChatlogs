@@ -8,14 +8,14 @@ from bs4 import BeautifulSoup
 from bs4.element import NavigableString, Tag
 
 
-WHISPER_FONT = '##660066'
-ROLL_FONT = '##660067'
-CHAT_FONT = '##261A12'
-NARRATOR_FONT = '##261A13'
-NPC_CHAT_FONT = '##000066'
-OOC_FONT = '##005500'
-EMOTE_FONT = '##880000'
-MOOD_FONT = '##000000'
+WHISPER_FONT = '#660066'
+ROLL_FONT = '#660067'
+CHAT_FONT = '#261A12'
+NARRATOR_FONT = '#261A13'
+NPC_CHAT_FONT = '#000066'
+OOC_FONT = '#005500'
+EMOTE_FONT = '#880000'
+MOOD_FONT = '#000000'
 
 FEN_EXT_NAME = "Fen's StarTrekAdventures Ruleset"
 
@@ -215,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Mother Knows Best (Part 7)", "s01_e03_mother_knows_best_7")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Mother Knows Best (Part 8)", "s01_e03_mother_knows_best_8")
     formatter.parse_chatlog()
     delete_old_log()
