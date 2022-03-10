@@ -6,41 +6,9 @@ docs:
 
   - title: Episodes
     children:
-      - title: "Just War (Part 1)"
-        url: /episodes/s01_e01_just_war_part_1
-      - title: "Just War (Part 2)"
-        url: /episodes/s01_e01_just_war_part_2
-      - title: "Just War (Part 3)"
-        url: /episodes/s01_e01_just_war_part_3
-      - title: "Just War (Part 4)"
-        url: /episodes/s01_e01_just_war_part_4
-      - title: "Just War (Part 5)"
-        url: /episodes/s01_e01_just_war_part_5
-      - title: "Just War (Part 6)"
-        url: /episodes/s01_e01_just_war_part_6
-      - title: "Nothing but Blue Skies (Part 1)"
-        url: /episodes/s01_e02_blue_skies_part_1
-      - title: "Nothing but Blue Skies (Part 2)"
-        url: /episodes/s01_e02_blue_skies_part_2
-      - title: "Nothing but Blue Skies (Part 3)"
-        url: /episodes/s01_e02_blue_skies_part_3
-      - title: "Nothing but Blue Skies (Part 4)"
-        url: /episodes/s01_e02_blue_skies_part_4
-      - title: "Nothing but Blue Skies (Part 5)"
-        url: /episodes/s01_e02_blue_skies_part_5
-      - title: "Nothing but Blue Skies (Part 6)"
-        url: /episodes/s01_e02_blue_skies_part_6
-      - title: "Mother Knows Best (Part 1)"
-        url: /episodes/s01_e03_mother_knows_best_1
-      - title: "Mother Knows Best (Part 2)"
-        url: /episodes/s01_e03_mother_knows_best_2
-      - title: "Mother Knows Best (Part 3)"
-        url: /episodes/s01_e03_mother_knows_best_3
-      - title: "Mother Knows Best (Part 4)"
-        url: /episodes/s01_e03_mother_knows_best_4
-      - title: "Mother Knows Best (Part 5)"
-        url: /episodes/s01_e03_mother_knows_best_5
-      - title: "Mother Knows Best (Part 6)"
-        url: /episodes/s01_e03_mother_knows_best_6
-      - title: "Mother Knows Best (Part 7)"
-        url: /episodes/s01_e03_mother_knows_best_7
+      - title: "Just War"
+        url: /episodes/s01_e01_just_war_part
+      - title: "Nothing but Blue Skies"
+        url: /episodes/s01_e02_blue_skies
+      - title: "Mother Knows Best"
+        url: /episodes/s01_e03_mother_knows_best
