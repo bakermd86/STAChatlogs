@@ -7,7 +7,7 @@ docs:
   - title: Episodes
     children:
       - title: "Just War"
-        url: /episodes/s01_e01_just_war_part
+        url: /episodes/s01_e01_just_war
       - title: "Nothing but Blue Skies"
         url: /episodes/s01_e02_blue_skies
       - title: "Mother Knows Best"
