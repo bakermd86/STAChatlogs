@@ -85,7 +85,7 @@ class ChatFormatter:
     def get_pc_names(self):
         with open(join(self.campaign_dir, DB_FILE), 'r') as db_in:
             soup = BeautifulSoup(db_in.read(), 'lxml')
-        return [c.find("name", recursive=False).text for c in soup.find("body").find("root").find("charsheet").find_all(recursive=False)]
+        return [c.find("name", recursive=False).text for c in soup.find("body").find("root").find("charsheet").find_all(recursive=False) if c.find("name", recursive=False)]
 
     def get_chat_soup(self):
         with open(join(self.campaign_dir, CHATLOG_FILE), 'r') as chatlog_in:
@@ -215,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Mens Rea (Part 1)", "s01_e04_mens_rea_1")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Mens Rea (Part 2)", "s01_e04_mens_rea_2")
     formatter.parse_chatlog()
     delete_old_log()
