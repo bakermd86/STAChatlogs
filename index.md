@@ -4,3 +4,4 @@
 - [S01-E02 - Nothing but Blue Skies](episodes/s01_e02_blue_skies)
 - [S01-E03 - Mother Knows Best](episodes/s01_e03_mother_knows_best)
 - [S01-E04 - Mens Rea (Part 1)](episodes/s01_e04_mens_rea_1)
+- [S01-E04 - Mens Rea (Part 2)](episodes/s01_e04_mens_rea_2)
