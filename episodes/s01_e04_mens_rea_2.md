@@ -10,6 +10,7 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 *Fen's STA House Rules (v1.0) *<br />
 *Skig runs to the window to see if shooting Commander Bachar a second time is an option.*<br />
 <font color="#005500">indarien (Skig): The Fire Suppression System is currently undergoing maintenance, being handled by New Jersey Skilled Trades Workers, it will be brought back online in the square root of 3d84 days, rounded up to the nearest 6.</font><br />
+
 >INTERIOR - Chemisty Lab: As Commander Bachar dives out the window, a massive fire erupts, engulfing the lab in flames. The away team recoil from the heat.<br />
 
 *Skig runs to the window to see if shooting Commander Bachar a second time is an option.*<br />
