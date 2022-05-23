@@ -8,3 +8,4 @@
 - [S01-E04 - Mens Rea (Part 3)](episodes/s01_e04_mens_rea_3)
 - [S01-E04 - Mens Rea (Part 4)](episodes/s01_e04_mens_rea_4)
 - [S01-E04 - Mens Rea (Part 5)](episodes/s01_e04_mens_rea_5)
+- [S01-E04 - Mens Rea (Part 6)](episodes/s01_e04_mens_rea_6)
