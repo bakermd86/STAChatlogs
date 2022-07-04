@@ -12,15 +12,5 @@ docs:
         url: /episodes/s01_e02_blue_skies
       - title: "Mother Knows Best"
         url: /episodes/s01_e03_mother_knows_best
-      - title: "Mens Rea (Part 1)"
-        url: /episodes/s01_e04_mens_rea_1
-      - title: "Mens Rea (Part 2)"
-        url: /episodes/s01_e04_mens_rea_2
-      - title: "Mens Rea (Part 3)"
-        url: /episodes/s01_e04_mens_rea_3
-      - title: "Mens Rea (Part 4)"
-        url: /episodes/s01_e04_mens_rea_4
-      - title: "Mens Rea (Part 5)"
-        url: /episodes/s01_e04_mens_rea_5
-      - title: "Mens Rea (Part 6)"
-        url: /episodes/s01_e04_mens_rea_6
+      - title: "Mens Rea"
+        url: /episodes/s01_e04_mens_rea
