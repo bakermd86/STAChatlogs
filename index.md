@@ -6,3 +6,4 @@
 - [S01-E04 - Mens Rea](episodes/s01_e04_mens_rea)
 - [S01-E05 - The Dark of Night (Part 1)](episodes/s01_e05_the_dark_of_night_1)
 - [S01-E05 - The Dark of Night (Part 2)](episodes/s01_e05_the_dark_of_night_2)
+- [S01-E05 - The Dark of Night (Part 3)](episodes/s01_e05_the_dark_of_night_3)
