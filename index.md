@@ -8,3 +8,4 @@
 - [S01-E05 - The Dark of Night (Part 2)](episodes/s01_e05_the_dark_of_night_2)
 - [S01-E05 - The Dark of Night (Part 3)](episodes/s01_e05_the_dark_of_night_3)
 - [S01-E05 - The Dark of Night (Part 4)](episodes/s01_e05_the_dark_of_night_4)
+- [S01-E05 - The Dark of Night (Part 5)](episodes/s01_e05_the_dark_of_night_5)
