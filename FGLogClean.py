@@ -22,7 +22,7 @@ FEN_EXT_NAME = "Fen's StarTrekAdventures Ruleset"
 CAMPAIGN_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds\campaigns\Far Beyond the Stars'
 CHATLOG_FILE = 'chatlog.html'
 DB_FILE = "db.xml"
-OUT_DIR = r'D:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
+OUT_DIR = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
 BACKUP_DIR = join(OUT_DIR, "backups")
 
 SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
@@ -215,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "The Dark of Night (Part 5)", "s01_e05_the_dark_of_night_5")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "The Dark of Night (Part 6)", "s01_e05_the_dark_of_night_6")
     formatter.parse_chatlog()
     delete_old_log()

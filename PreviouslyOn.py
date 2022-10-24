@@ -55,6 +55,6 @@ class PreviouslyOnMaker:
 
 
 if __name__ == '__main__':
-    maker = PreviouslyOnMaker(r'D:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\backups\chatlog_2022_04_20.html',
-                              r'D:\__Temporary Logs\4-25-22')
+    maker = PreviouslyOnMaker(r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\backups\chatlog_2022_04_20.html',
+                              r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\PrevOn\10-24-2022')
     maker.make_previously_on()
