@@ -618,10 +618,3 @@ Success with 0 momentum [2d20 = 26]**<br />
 >As Dr. Zerra begins to scan J'Davir, Murry and Elin his eyes widen. All three begin convulsing and the monitoring equipment starts to wildly beep and flash.<br />
 
 ![](../images/zerra.png)**Dr. Zerra:** They're going into some sort of neurological arrest! We're losing them!<br />
-*Fen's StarTrekAdventures Ruleset (v1.1.1) *<br />
-*[Prioritized Source: File; Other Sources: Vault]*<br />
-*Core RPG ruleset (2022-11-15) for Fantasy Grounds
-Copyright 2022 Smiteworks USA, LLC*<br />
-*Fen's NPC Portrait Workaround v2.2.2*<br />
-*[Prioritized Source: File; Other Sources: Vault]*<br />
-*Fen's STA House Rules (v1.0.1) *<br />
