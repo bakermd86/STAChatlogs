@@ -6,3 +6,4 @@
 - [S01-E04 - Mens Rea](episodes/s01_e04_mens_rea)
 - [S01-E05 - The Dark of Night](episodes/s01_e05_the_dark_of_night)
 - [S01-E06 - High Ground (Part 1)](episodes/s01_e06_high_ground_1)
+- [S01-E06 - High Ground (Part 2)](episodes/s01_e06_high_ground_2)
