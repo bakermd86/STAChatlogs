@@ -8,3 +8,5 @@
 - [S01-E06 - High Ground (Part 1)](episodes/s01_e06_high_ground_1)
 - [S01-E06 - High Ground (Part 2)](episodes/s01_e06_high_ground_2)
 - [S01-E06 - High Ground (Part 3)](episodes/s01_e06_high_ground_3)
+- [S01-E06 - High Ground (Part 4)](episodes/s01_e06_high_ground_4)
+
