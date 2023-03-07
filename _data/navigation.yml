@@ -16,13 +16,5 @@ docs:
         url: /episodes/s01_e04_mens_rea
       - title: "The Dark of Night"
         url: /episodes/s01_e05_the_dark_of_night
-      - title: "High Ground (Part 1)"
-        url: /episodes/s01_e06_high_ground_1
-      - title: "High Ground (Part 2)"
-        url: /episodes/s01_e06_high_ground_2
-      - title: "High Ground (Part 3)"
-        url: /episodes/s01_e06_high_ground_3
-      - title: "High Ground (Part 4)"
-        url: /episodes/s01_e06_high_ground_4
-      - title: "High Ground (Part 5)"
-        url: /episodes/s01_e06_high_ground_5
+      - title: "High Ground"
+        url: /episodes/s01_e06_high_ground
