@@ -8,3 +8,4 @@
 - [S01-E06 - High Ground](episodes/s01_e06_high_ground)
 - [S01-E07 - Market Forces (Part 1)](episodes/s01_e07_market_forces_1)
 - [S01-E07 - Market Forces (Part 2)](episodes/s01_e07_market_forces_2)
+- [S01-E07 - Market Forces (Part 3)](episodes/s01_e07_market_forces_3)
