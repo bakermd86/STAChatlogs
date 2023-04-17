@@ -10,3 +10,4 @@
 - [S01-E07 - Market Forces (Part 2)](episodes/s01_e07_market_forces_2)
 - [S01-E07 - Market Forces (Part 3)](episodes/s01_e07_market_forces_3)
 - [S01-E07 - Market Forces (Part 4)](episodes/s01_e07_market_forces_4)
+- [S01-E07 - Market Forces (Part 5)](episodes/s01_e07_market_forces_5)
