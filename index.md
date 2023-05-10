@@ -7,3 +7,4 @@
 - [S01-E05 - The Dark of Night](episodes/s01_e05_the_dark_of_night)
 - [S01-E06 - High Ground](episodes/s01_e06_high_ground)
 - [S01-E07 - Market Forces](episodes/s01_e07_market_forces)
+- [S01-E08 - Out of the Flying Pan, Into the Flames](episodes/s01_e08_flying_pan_1)
