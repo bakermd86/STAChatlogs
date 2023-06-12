@@ -10,4 +10,5 @@
 - [S01-E08 - Out of the Flying Pan, Into the Flames (Part 1)](episodes/s01_e08_flying_pan_1)
 - [S01-E08 - Out of the Flying Pan, Into the Flames (Part 2)](episodes/s01_e08_flying_pan_2)
 - [S01-E08 - Out of the Flying Pan, Into the Flames (Part 3)](episodes/s01_e08_flying_pan_3)
+- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 4)](episodes/s01_e08_flying_pan_4)
 
