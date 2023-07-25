@@ -13,7 +13,7 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 <font color="##005500">Masakari (Zox): High-five! There's a reason we aren't on the Enterprise!</font><br />
 <font color="##005500">indarien (Skig): Evidently, we have a horrible propensity for shooting ourselves in the mouth between episodes.</font><br />
 <font color="##005500">indarien: Test</font><br />
->Captain's log, stardate 61131.7: Our mission to the Malari system to review their petition for Federation membership is nearing completion. The planet meets Federation standards for equality, liberty, good governance, and techonological sufficiency. The only out-standing report is the assessment of working conditions, which Commander Zox is spearheading.
+>Captain's log, stardate 61221.7: Our mission to the Malari system to review their petition for Federation membership is nearing completion. The planet meets Federation standards for equality, liberty, good governance, and techonological sufficiency. The only out-standing report is the assessment of working conditions, which Commander Zox is spearheading.
 
 Per his latest status report, his survey team has completed random inspections of several Malari facilities, but there is one other facility he selected to inspect: a dilitium mine. I worry that Zox is perhaps being overly susicious of the Malari, but I suppose that is to be expected. Regardless, once his inspection is complete we should be ready to break orbit and submit our recommendation to Starfleet Command regarding the Malari membership petition.<br />
 

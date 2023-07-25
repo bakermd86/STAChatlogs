@@ -17,7 +17,7 @@ Success with 4 momentum [6d20 = 56]**<br />
 **Zox:  [2d20 = 25]**<br />
 **Skig:  [2d20 = 33]**<br />
 **Zox:  [2d20 = 25]**<br />
->Captain's log, stardate 61206.7. Our mission to the Kalandra nebula was thankfully uneventful. None of the senior staff have been fatally wounded nor destroyed any major portions of the ship. We are now en route to Starbase 310 for our next assignment. In the meantime, Commander Bachar has suggested that we use the time to evaluate the senior staff in a readiness excercise.<br />
+>Captain's log, stardate 61356.7. Our mission to the Kalandra nebula was thankfully uneventful. None of the senior staff have been fatally wounded nor destroyed any major portions of the ship. We are now en route to Starbase 310 for our next assignment. In the meantime, Commander Bachar has suggested that we use the time to evaluate the senior staff in a readiness excercise.<br />
 
 >INTERIOR - Bridge: Commander Bachar is in command, and the senior staff are passing time while en route to Starbase 310. Situation: uneventful<br />
 

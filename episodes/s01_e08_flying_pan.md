@@ -14,7 +14,7 @@ Copyright 2023 Smiteworks USA, LLC*<br />
 *[Prioritized Source: File; Other Sources: Vault]*<br />
 *FG Browser v1.2.3*<br />
 *[Prioritized Source: File; Other Sources: Vault]*<br />
->Captains log, Stardate 61314.4. Due to delays in the Lister's repairs, our planetary survey of the Taratan Theta system is very far behind schedule. We are using our main sensor array to conduct the stellar survey and catalogue the innermost planets, but we have had to deploy shuttlecraft to perform orbital surveys of the system's other primary satellites.
+>Captains log, Stardate 61554.4. Due to delays in the Lister's repairs, our planetary survey of the Taratan Theta system is very far behind schedule. We are using our main sensor array to conduct the stellar survey and catalogue the innermost planets, but we have had to deploy shuttlecraft to perform orbital surveys of the system's other primary satellites.
 
 To help get back on schedule, I even approved Skig's request to utilize Old Faithless. She insists it is "spaceworthy" and "not a deathtrap." Regardless, I ordered her to lead the survey team using it, just in case she was overstating its level of readiness. We expect all shuttlecraft to complete their surveys and return no later than 2100 hours tomorrow. Assuming we are able to keep to that schedule, we should be back on track for our rendezvous with the USS Kinshasa.<br />
 

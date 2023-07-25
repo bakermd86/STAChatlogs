@@ -21,7 +21,7 @@ Copyright 2021 Smiteworks USA, LLC*<br />
 **Zox:  [2d20 = 26]**<br />
 <font color="##005500">Masakari (Zox): I see now why Wesley didn't last long on the Enterprise.</font><br />
 <font color="##005500">indarien (Skig): Yeah, Wil Wheaton clearly plays way more Pathfinder than 2d20 and kept rolling 19+ on his reputation roll.</font><br />
->Captains log, stardate 61062.5. We were en-route to the Aldiri system to conduct trade negotiations when we received a distress call from a Kelorian colony near the Tzenkethi border.
+>Captains log, stardate 61158.2. We were en-route to the Aldiri system to conduct trade negotiations when we received a distress call from a Kelorian colony near the Tzenkethi border.
 The colony is experiencing severe malfunctions in their weather control grid, and have requested Federation assistance to repair it.The planet is beset with naturally occurring ion storms, and with the grid offline, the entire colony is in grave danger.
 I managed to convince Amondi to let me lead the away team myself. But only if I took Zox with me. Dr. Viraseti and Commander Skig are leading the repair efforts, and Murry and I are coordinating with the colony in case an evacuation is needed. Hopefully it doesn't come to that.<br />
 

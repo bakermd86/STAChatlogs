@@ -26,7 +26,7 @@ Success with 1 momentum [2d20 = 10]**<br />
 **Hailey Murry: [ REASON  (9) +  SCIENCE  (5)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 7]**<br />
->Captain's log, Stardate 61240.9: We have diverted from our diplomatic mission to Sulani IV at the request of Lt. Cmdr Viraseti. She asked me to call a briefing of the senior staff so she can explain what this is all about. She says it is urgent, so I have approved her request to divert even though I don't yet know what this is all about. I hope she isn't wasting my time, I would like to imagine a starfleet officer would never do that, but with this crew you can never be too sure...<br />
+>Captain's log, Stardate 61420.9: We have diverted from our diplomatic mission to Sulani IV at the request of Lt. Cmdr Viraseti. She asked me to call a briefing of the senior staff so she can explain what this is all about. She says it is urgent, so I have approved her request to divert even though I don't yet know what this is all about. I hope she isn't wasting my time, I would like to imagine a starfleet officer would never do that, but with this crew you can never be too sure...<br />
 
 >INTERIOR - Briefing Room: Lt. Cmdr Viraseti connects her PADD to the briefing room monitor and pulls up a diagram view of a globular cluster at a fourier transform.<br />
 

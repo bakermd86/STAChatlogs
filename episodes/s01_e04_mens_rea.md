@@ -9,7 +9,7 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 *Fen's NPC Portrait Workaround v2.2.1*<br />
 *Fen's STA House Rules (v1.0) *<br />
 
->Captain's Log, Stardate 61165.8: Due to extensive, unexplained hull breaches on deck 8 after the Lister's infestation, we have had to divert to the nearest Federation dry-dock facility on Skana-IV to repair the damage.
+>Captain's Log, Stardate 61285.8: Due to extensive, unexplained hull breaches on deck 8 after the Lister's infestation, we have had to divert to the nearest Federation dry-dock facility on Skana-IV to repair the damage.
 While the repairs are performed, I have ordered the crew to take some shore leave in the planet's equatorial area.
 Most of the crew were happy for the time off, but Commander Skig was... shall we say passionate about overseeing the repairs. I asked Zox to keep an eye on her and make sure she doesn't sneak back onto the Lister to work during her leave.<br />
 
