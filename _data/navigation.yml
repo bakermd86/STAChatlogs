@@ -20,17 +20,5 @@ docs:
         url: /episodes/s01_e06_high_ground
       - title: "Market Forces"
         url: /episodes/s01_e07_market_forces
-      - title: "Out of the Flying Pan, Into the Flames (Part 1)"
-        url: /episodes/s01_e08_flying_pan_1
-      - title: "Out of the Flying Pan, Into the Flames (Part 2)"
-        url: /episodes/s01_e08_flying_pan_2
-      - title: "Out of the Flying Pan, Into the Flames (Part 3)"
-        url: /episodes/s01_e08_flying_pan_3
-      - title: "Out of the Flying Pan, Into the Flames (Part 4)"
-        url: /episodes/s01_e08_flying_pan_4
-      - title: "Out of the Flying Pan, Into the Flames (Part 5)"
-        url: /episodes/s01_e08_flying_pan_5
-      - title: "Out of the Flying Pan, Into the Flames (Part 6)"
-        url: /episodes/s01_e08_flying_pan_6
-      - title: "Out of the Flying Pan, Into the Flames (Part 7)"
-        url: /episodes/s01_e08_flying_pan_7
+      - title: "Out of the Flying Pan, Into the Flames"
+        url: /episodes/s01_e08_flying_pan

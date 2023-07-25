@@ -7,11 +7,5 @@
 - [S01-E05 - The Dark of Night](episodes/s01_e05_the_dark_of_night)
 - [S01-E06 - High Ground](episodes/s01_e06_high_ground)
 - [S01-E07 - Market Forces](episodes/s01_e07_market_forces)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 1)](episodes/s01_e08_flying_pan_1)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 2)](episodes/s01_e08_flying_pan_2)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 3)](episodes/s01_e08_flying_pan_3)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 4)](episodes/s01_e08_flying_pan_4)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 5)](episodes/s01_e08_flying_pan_5)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 6)](episodes/s01_e08_flying_pan_6)
-- [S01-E08 - Out of the Flying Pan, Into the Flames (Part 7)](episodes/s01_e08_flying_pan_7)
+- [S01-E08 - Out of the Flying Pan, Into the Flames](episodes/s01_e08_flying_pan)
 
