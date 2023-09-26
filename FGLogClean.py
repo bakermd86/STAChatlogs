@@ -215,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "11&10s 1011 (Part 2)", "s01_e09_1110s1011_2")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "11&10s 1011 (Part 3)", "s01_e09_1110s1011_3")
     formatter.parse_chatlog()
     delete_old_log()
