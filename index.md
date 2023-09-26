@@ -10,3 +10,4 @@
 - [S01-E08 - Out of the Flying Pan, Into the Flames](episodes/s01_e08_flying_pan)
 - [S01-E09 - 11 & 10s 1011 (Part 1)](episodes/s01_e09_1110s1011_1)
 - [S01-E09 - 11 & 10s 1011 (Part 2)](episodes/s01_e09_1110s1011_2)
+- [S01-E09 - 11 & 10s 1011 (Part 3)](episodes/s01_e09_1110s1011_3)
