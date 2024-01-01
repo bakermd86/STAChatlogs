@@ -14,4 +14,6 @@
 - [S01-E10 - Children of the Beast that Dodged the Abortion (Part 3)](episodes/s01_e10_children_beast_3)
 - [S01-E10 - Children of the Beast that Dodged the Abortion (Part 4)](episodes/s01_e10_children_beast_4)
 - [S01-E10 - Children of the Beast that Dodged the Abortion (Part 5)](episodes/s01_e10_children_beast_5)
+- [S01-E10 - Children of the Beast that Dodged the Abortion (Part 6)](episodes/s01_e10_children_beast_6)
+
 
