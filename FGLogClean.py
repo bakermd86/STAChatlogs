@@ -215,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Children of the Beast that Dodged the Abortion (Part 6)", "s01_e10_children_beast_6")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Children of the Beast that Dodged the Abortion (Part 7)", "s01_e10_children_beast_7")
     formatter.parse_chatlog()
     delete_old_log()
