@@ -10,3 +10,4 @@
 - [S01-E08 - Out of the Flying Pan, Into the Flames](episodes/s01_e08_flying_pan)
 - [S01-E09 - 11 & 10s 1011](episodes/s01_e09_1110s1011)
 - [S01-E10 - Children of the Beast that Dodged the Abortion](episodes/s01_e10_children_beast)
+- [S01-E11 - Love in the Time of Morphophagia (Part 1)](episodes/s01_e11_love_in_time_1)
