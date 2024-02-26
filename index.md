@@ -12,3 +12,4 @@
 - [S01-E10 - Children of the Beast that Dodged the Abortion](episodes/s01_e10_children_beast)
 - [S01-E11 - Love in the Time of Morphophagia (Part 1)](episodes/s01_e11_love_in_time_1)
 - [S01-E11 - Love in the Time of Morphophagia (Part 2)](episodes/s01_e11_love_in_time_2)
+- [S01-E11 - Love in the Time of Morphophagia (Part 3)](episodes/s01_e11_love_in_time_3)
