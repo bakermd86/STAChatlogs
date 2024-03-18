@@ -215,6 +215,6 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Love in the Time of Morphophagia (Part 4)", "s01_e11_love_in_time_4")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Love in the Time of Morphophagia (Part 5)", "s01_e11_love_in_time_5")
     formatter.parse_chatlog()
     delete_old_log()
