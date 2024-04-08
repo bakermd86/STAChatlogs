@@ -16,3 +16,4 @@
 - [S01-E11 - Love in the Time of Morphophagia (Part 4)](episodes/s01_e11_love_in_time_4)
 - [S01-E11 - Love in the Time of Morphophagia (Part 5)](episodes/s01_e11_love_in_time_5)
 - [S01-E11 - Love in the Time of Morphophagia (Part 6)](episodes/s01_e11_love_in_time_6)
+- [S01-E11 - Love in the Time of Morphophagia (Part 7)](episodes/s01_e11_love_in_time_7)
