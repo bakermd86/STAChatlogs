@@ -11,3 +11,4 @@
 - [S01-E09 - 11 & 10s 1011](episodes/s01_e09_1110s1011)
 - [S01-E10 - Children of the Beast that Dodged the Abortion](episodes/s01_e10_children_beast)
 - [S01-E11 - Love in the Time of Morphophagia](episodes/s01_e11_love_in_time)
+- [S01-E12 - Identity Crisis (Part 1)](episodes/s01_e12_identity_crisis_1)
