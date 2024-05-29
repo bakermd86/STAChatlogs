@@ -9,69 +9,6 @@
 *Core RPG ruleset (2024-05-07) for Fantasy Grounds
 Copyright 2024 Smiteworks USA, LLC*<br />
 
-![](../images/bachar.png)**Commander Bachar:** Four hours ago, Federation sensors detected a Romulan vessel in the Antov Gap: 170 light years from the Neutral Zone. Based on the sensor logs they sent us, this is an odd one.<br />
-![](../images/bachar.png)**Commander Bachar:** The ship was not detected crossing the border, or travelling through any of the surrounding sectors. At the moment, Starfleet isn't sure whether this is a sensor glitch, or an actual incursion into Federation territory.<br />
-![](../images/skig.png)**Skig:** Commander, if this is an incursion from a ship that is capable of significant cloaking abilities and modernized in any capacity, what are our orders?<br />
-![](../images/skig.png)**Skig:** Because the Lister is not going to fare well if we have to engage in combat against a Romulan Warbird.<br />
-![](../images/bachar.png)**Commander Bachar:** For now, our orders are to confirm if this is even a real incursion into Federation space<br />
-![](../images/bachar.png)**Commander Bachar:** And ask them nicely to leave<br />
-![](../images/murry.png)**Hailey Murry:** Though the fact that the ship wasn't seen coming into the system is quite strange<br />
-![](../images/murry.png)**Hailey Murry:** Do we have any theories?<br />
-![](../images/twins.png)**Lt. Cmdrs 11 and 10:** Based on these sensor logs, it simply appeared at its present location<br />
-![](../images/twins.png)**Lt. Cmdrs 11 and 10:** No warp signature, no cloaking distortion detected. Highly unusual.<br />
-![](../images/murry.png)**Hailey Murry:** How long has it been sitting there?<br />
-![](../images/bachar.png)**Commander Bachar:** Whatever it is, we'll know soon enough. ETA is just a few minutes out. Captain, should we return to our stations?<br />
-![](../images/baras.png)**Captain Baras:** Oh yes, of course<br />
->As the viewscreen comes to life, the vessel that appears is clearly not a Romulan Warbird. It is much smaller in size, and lacking any apparent weaponry.<br />
-
->The vessel has no running lights visible, no sign of power, and is slowly tumbling through space nose-over-tail.<br />
-
-![](../images/skig.png)**Skig:** If they are tumbling without power, have they lost gravity? What are the bio-signs of the crew?<br />
-![](../images/zox.png)**Zox:** 8 Romulan bio-signatures.<br />
-![](../images/zox.png)**Zox:** Emergency systems are active, reading gravity normal.<br />
-![](../images/skig.png)**Skig:** I recommend we stop its movement and rotation with a tractor and beam over an away team to ascertain the situation.<br />
-![](../images/baras.png)**Captain Baras:** Oh yes, of course. You'd better put together an away team.<br />
-![](../images/bachar.png)**Commander Bachar:** Remember: we are theoretically still at peace with the Romulans, so let's not do anything crazy.<br />
-![](../images/bachar.png)**Commander Bachar:** Energize<br />
->The away team materialized on the Romulan ship and looks around, a number of Romulans are busy working on maintenance panels and consoles. They stop and turn when the hear the transporter, and regard the away team with suspiscion<br />
-
-![](../images/zox.png)**Zox:** You seem to be having some trouble out here, any chance you all need some help?<br />
-![](../images/zox.png)**Zox:** Viraseti, what the hell is going on<br />
-![](../images/skig.png)**Skig:** I am not... wait, do I have a beard?<br />
-![](../images/viraseti.png)**Lt. Cmdr Viraseti:** <strained human wootling><br />
-![](../images/bachar.png)**Commander Bachar:** Well then<br />
-![](../images/viraseti.png)**Lt. Cmdr Viraseti:** We come in peace; your vessel appears to be in distress and we offer the Federations best engineers to hep!<br />
-**Subcommander Tekal:** I an Subcommander Tekal, I am the commander of this vessel<br />
-![](../images/murry.png)**Hailey Murry:** Subcommander, what seems to be the issue?<br />
-**Subcommander Tekal:** You appear to be in the wrong bodies<br />
-![](../images/murry.png)**Hailey Murry:** Yes, that is our problem, but what is the technical problem with your vessel?<br />
-**Subcommander Tekal:** That is difficult to explain simply<br />
-**Subcommander Tekal:** We were conducting a survey in Romulan space when we detected some odd gravitational readings. Our computer flagged them as possibly related to a previously documented but as-yet unstudied anomoly known as "Mek'an's Folly"<br />
-**Subcommander Tekal:** We proceeded to investigate and take scans of the phenomenon, but the phenomenon began to affect the ship and things deteriorated rapidly<br />
-![](../images/viraseti.png)**Lt. Cmdr Viraseti:** Have the mysterious readings dissapated at all?<br />
-**Dr. V'Lora:** They come and go. Hi, I'm Dr. V'Lora, research lead here on the Chatara<br />
-**Dr. V'Lora:** It was absolutely fascinating, the objects appear without warning in space. They undergo continous compositional and topological flux, and are so far unidentified<br />
-**Dr. V'Lora:** But then one of them hit the singularity core and seemed to get stuck on its spacial curvature<br />
-![](../images/murry.png)**Hailey Murry:** Excellent. In any case... did you lose power when the signularity struck the curvature or when the Chatara exited from the singularity into Federation space?<br />
-**Dr. V'Lora:** Oh, it was incredible. One of the objects appeared in engineering around the singularity, all of a sudden the ship was thrown violently through space. Our sensor readings were gibberish, no stellar fix, no nav data, nothing.<br />
-**Dr. V'Lora:** We had no idea where we were, and the more we tried to go to warp the worse it got. I cut all the power feeds and then we came to a stop.<br />
-![](../images/viraseti.png)**Lt. Cmdr Viraseti:** May we....see this anomaly?<br />
-![](../images/skig.png)**Skig:** I'd like to take a look at this thing as well<br />
->In engineering, Dr. V’Lora opens the hatch to the singularity drive core, instead of the hot white glow of antimatter falling into the singularity, you see a large pulsating mass of brownish-gray matter. It’s shape and size are fluctuating from one moment to the next, occasionally a second or third small object will appear near the first, rapidly fluctuate in shape and size, and either merge into the main one or dissapear<br />
-
-**Dr. V'Lora:** It's physical properties are in a constant state of flux.<br />
-![](../images/zox.png)**Zox:** I need to go brief the captain, let him know our situation. Skig, see what you can do here.<br />
-![](../images/murry.png)**Hailey Murry:** Yes ma'am<br />
-![](../images/murry.png)**Hailey Murry:** Okay, Viraseti and Murry, whichever of you is which body, work with Dr V'lora to determine what we can about the Singularity. If needed patch into the Lister's Modular Laboratories, configured for Quantum Gravitational Theory, and provide analysis back to the teams on the Lister.<br />
-![](../images/zox.png)**Zox:** I lost comms with the Captain<br />
-![](../images/murry.png)**Hailey Murry:** I lost connection to the Lister entirely.<br />
-![](../images/viraseti.png)**Lt. Cmdr Viraseti:** Oh no!<br />
->On the screen, you can see the Lister hanging in space nearby. Suddenly, she turns off her tractor beam, turns and jumps to warp.<br />
-
->♫♫♫Ominous Music Sting♫♫♫<br />
-
->And now, the continuation...<br />
-
 >INTERIOR - Transporter Room 3: T'Kor is on his hands and knees and knees under the transporter pad, engrossed in his thourough diagnostic, when he feels the ship jump to warp. Throk does not seem to notice as he is busy tearing the panels off the conduit channels to give T'Kor clear access.<br />
 
 **Gra'lan:** So tell me, can you weld with those fingers of yours? Sounds darn convenient<br />
