@@ -16,3 +16,4 @@
 - [S01-E12 - Identity Crisis (Part 3)](episodes/s01_e12_identity_crisis_3)
 - [S01-E12 - Identity Crisis (Part 4)](episodes/s01_e12_identity_crisis_4)
 - [S01-E12 - Identity Crisis (Part 5)](episodes/s01_e12_identity_crisis_5)
+- [S01-E12 - Identity Crisis (Part 6)](episodes/s01_e12_identity_crisis_6)
