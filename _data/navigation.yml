@@ -28,17 +28,5 @@ docs:
         url: /episodes/s01_e10_children_beast
       - title: "Love in the Time of Morphophagia"
         url: /episodes/s01_e11_love_in_time
-      - title: "Identity Crisis (Part 1)"
-        url: /episodes/s01_e12_identity_crisis_1
-      - title: "Identity Crisis (Part 2)"
-        url: /episodes/s01_e12_identity_crisis_2
-      - title: "Identity Crisis (Part 3)"
-        url: /episodes/s01_e12_identity_crisis_3
-      - title: "Identity Crisis (Part 4)"
-        url: /episodes/s01_e12_identity_crisis_4
-      - title: "Identity Crisis (Part 5)"
-        url: /episodes/s01_e12_identity_crisis_5
-      - title: "Identity Crisis (Part 6)"
-        url: /episodes/s01_e12_identity_crisis_6
-      - title: "Identity Crisis (Part 7)"
-        url: /episodes/s01_e12_identity_crisis_7
+      - title: "Identity Crisis"
+        url: /episodes/s01_e12_identity_crisis
