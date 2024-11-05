@@ -14,3 +14,5 @@
 - [S01-E12 - Identity Crisis](episodes/s01_e12_identity_crisis)
 - [S02-E01 - Oh Doctor, Where Art Thou (Part 1)](episodes/s02_e01_oh_doctor_1)
 - [S02-E01 - Oh Doctor, Where Art Thou (Part 2)](episodes/s02_e01_oh_doctor_2)
+- [S02-E01 - Oh Doctor, Where Art Thou (Part 3)](episodes/s02_e01_oh_doctor_3)
+
