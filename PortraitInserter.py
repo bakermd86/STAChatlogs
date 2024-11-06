@@ -89,7 +89,8 @@ def main():
                 name = clean_line.split("**")[1].split(":")[0].strip()
                 image = id_parser.get_image(name)
                 if image:
-                    out_line = "![](../images/auto/%s | width=50)" % basename(image) + clean_line
+                    out_line = '<img src="../images/auto/%s" alt="%s" width="50" height="50">' % (basename(image), name)\
+                               + clean_line
             test_chat_out.write(out_line)
 
 
