@@ -13,6 +13,7 @@ Copyright 2024 Smiteworks USA, LLC*<br />
 *Fen's STA House Rules (v1.0.1) *<br />
 *FG Browser v1.2.3*<br />
 *[Prioritized Source: File; Other Sources: Vault]*<br />
+
 >INTERIOR - Ol' Faithless: Ghex pilots the dubiously space-worthy shuttle out of of orbit, taking care not to incinerate the now dubiously air-worthy shuttle in the transition to atmospheric flight. Skig, Zox and Oakadan man the shuttle's other stations as they begin search operations over North Africa<br />
 
 <img src="../images/auto/Ghex.png" alt="Ensign Ghex" width="50" height="50">**Ensign Ghex:** Wow, this shuttle has a lot more warning lights illuminated than I am used to. Is it going to explode? I am not really comfortable with vessels I am piloting exploding. It's never happened before.<br />
@@ -424,7 +425,6 @@ Success with 0 momentum [2d20 = 23]**<br />
 [Focus: Great Heights ]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 21]**<br />
->♫♫♫Dramatic Music String♫♫♫<br />
 
 >♫♫♫Heroic Music Sting♫♫♫<br />
 
