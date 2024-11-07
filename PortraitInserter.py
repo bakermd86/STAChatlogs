@@ -36,11 +36,21 @@ class IdentityParser:
     def parse_character(self, character: Tag):
         char_id = character.name
         char_name = character.find("name", recursive=False)
-        if not(char_name and char_name.text and char_id): return
+        if not(char_name and char_name.text and char_id):
+            return
         src_portrait = join(CAMPAIGN_PORTRAITS, char_id)
         dst_portrait = join(TEST_OUT, "%s.png" % char_name.text.replace(" ", "_"))
         copy(src_portrait, dst_portrait)
         self._identities[char_name.text] = dst_portrait
+
+    def store_token(self, name_tag: Tag, token_path):
+        token_dst = join(TEST_OUT, basename(token_path))
+        if name_tag and name_tag.text and token_path:
+            try:
+                copy(token_path, token_dst)
+                self._identities[name_tag.text] = token_dst
+            except FileNotFoundError:
+                return
 
     def parse_identity(self, identity: Tag):
         token_val = identity.find("token")
@@ -51,13 +61,9 @@ class IdentityParser:
         else:
             token_path = join(FG_BASE_DIR, token_val.text)
         identity_name = identity.find("name", recursive=False)
-        if identity_name and identity_name.text and token_path:
-            token_dst = join(TEST_OUT, basename(token_path))
-            try:
-                copy(token_path, token_dst)
-                self._identities[identity_name.text] = token_dst
-            except FileNotFoundError:
-                return
+        non_identity_name = identity.find("nonid_name", recursive=False)
+        self.store_token(identity_name, token_path)
+        self.store_token(non_identity_name, token_path)
 
 
 def get_children(tag: Tag):
@@ -79,7 +85,7 @@ def parse_identities_init():
 
 
 def main():
-    # parse_identities_init()
+    parse_identities_init()
     id_parser = IdentityParser(load_identities=True)
     with open(TEST_FILE, "r") as test_chat_in, open(join(TEST_OUT_LOGS, basename(TEST_FILE)), "w") as test_chat_out:
         for line in test_chat_in:
