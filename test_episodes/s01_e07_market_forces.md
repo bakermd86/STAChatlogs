@@ -1,6 +1,6 @@
 # Market Forces <br />
 
->Captain's log, Stardate 61489.4: With the Lister back in spacedock for another rebuild, I've been summoned to a tribunal to review my "command competence." Apparently two major structural rebuilds in as many months is considered "substandard command performance." 
+>Captain's log, Stardate 61489.4: With the Lister back in spacedock for another rebuild, I've been summoned to a tribunal to review my "command competence." Apparently two major structural rebuilds in as many months is considered "substandard command performance."
 
 >I am slightly offended by the suggestion, but I will simply have to present my case to the admiralty. In the meantime, I am wary of another repeat of what happened the last time the Lister was out of commission.
 

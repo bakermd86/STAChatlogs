@@ -2757,7 +2757,7 @@ Success with 2 momentum [2d20 = 14]**<br />
 *Skig hands Captain Baras a plate of food.*<br />
 >INTERIOR - Orion Transporter Room: After being unable to tell the fake Murry from the real one, the twins silently interfaced with the control circuitry in Zox’s suit and blast both Murrys with the disruptor. Both attempt to dive out of the way, but are still hit.
 
- One falls to the deck near the door, and the other falls behind the control console.<br />
+One falls to the deck near the door, and the other falls behind the control console.<br />
 
 >[TURN] T'kor<br />
 

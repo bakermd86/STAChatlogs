@@ -16,7 +16,7 @@ Copyright 2024 Smiteworks USA, LLC*<br />
 
 >Captains Log, Stardate 61857.6: It still feels strange to be recording these... We are still awaiting our next assignment at Starbase 34. Murry is heading up the investigation in the meantime. Our situation is currently.. complicated.
 
-> Nurse Krepeka's body is in the brig, under the control of a crazed Vulcan bio-terrorist. Her mind is stuck in Dr. Zerra's body, who is still MIA. The Twins launched themselves towards Earth in a Type-8 probe, without permission or explanation. 
+> Nurse Krepeka's body is in the brig, under the control of a crazed Vulcan bio-terrorist. Her mind is stuck in Dr. Zerra's body, who is still MIA. The Twins launched themselves towards Earth in a Type-8 probe, without permission or explanation.
 
 > I guess it would be too much to ask for to take it easy in my first week as a starship captain. Hopefully Murry and her team find a thread we can pull on, I don't want to spend any longer docked at the Starbase than necessary.<br />
 

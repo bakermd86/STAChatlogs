@@ -1645,7 +1645,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 <img src="../images/auto/Ishemok.png" alt="Ishemok" width="50" height="50">**Ishemok:** Not quite a regal as a Hermes, but you will do as a god, Dr. Zerra.<br />
 **Villagers:** In the name of the Keepers!<br />
 >♫♫♫Lighthearted Music Sting♫♫♫<br />
-> 
+>
 *Throk looks for torches and pitchforks and assembly of Crusader equipment.*<br />
 *Dr. Zerra buries his face in his hands*<br />
 

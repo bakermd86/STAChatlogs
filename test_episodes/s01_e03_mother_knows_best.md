@@ -26,12 +26,12 @@ Per his latest status report, his survey team has completed random inspections o
 Failed on DC: 1 [2d20 = 38]**<br />
 **Tumarara:** Are you satisfied yet Commander? As I explained on the surface, all of the dangerous tasks are handled by out unmanned drones. Now if you are done, we need to get back to work. We have a schedule to keep here.<br />
 <font color="##005500">Masakari (Zox): characters were unbelievably competent last episdode, limiting the drama. Clearly we need to be more imperfect for good drama.</font><br />
- **Zox:** I tend to distrust those who rush a good inspection.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I tend to distrust those who rush a good inspection.<br />
 <font color="##005500">indarien (Skig): Last week things went far too well, we had a ratings slump so we need more conflict and incompetence.</font><br />
 **Tumarara:** I tend to distrust inspectors, they are usually more interested in their next promotion than the truth<br />
 **Tumarara:** This facility has a spotless safety record<br />
 *Zox 's eye slits narrow on Tumarara*<br />
- **Zox:** Im taking my crew down these auxiliary shafts.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Im taking my crew down these auxiliary shafts.<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I sometimes ride auxiliary shafts.<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ REASON  (9) +  ENGINEERING  (2)]
 [Focus: Bureaucracy ]
@@ -40,7 +40,7 @@ Failed on DC: 1 [2d20 = 27]**<br />
 *Tumarara scoffs*<br />
 **Tumarara:** Are you crazy?<br />
 **Tumarara:** There is a reason we don't send people down there<br />
- **Zox:** Yes.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Yes.<br />
 **Tumarara:** Well I'm not going down there, I am not an idiot<br />
 *Tumarara crosses his arms defiantly*<br />
 *Kolea looks at Tumarara, smiles pleasantly.*<br />
@@ -58,9 +58,9 @@ Success with 3 momentum [2d20 = 2]**<br />
 Success with 1 momentum [2d20 = 22]**<br />
 >Zox slips down the shaft silently, like a swift wind<br />
 
- **Hailey Murry:** Well, on the plus side we really don't need to inspect down there if people aren't usually down there. Unless there's something suspicious being hidden down there...wait, where did Zox go? <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Well, on the plus side we really don't need to inspect down there if people aren't usually down there. Unless there's something suspicious being hidden down there...wait, where did Zox go? <br />
 *Hailey Murry looks at the pair of boots to her right*<br />
- **Hailey Murry:** What?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** What?<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea: [ INSIGHT  (11) +  MEDICINE  (4)]
 [Focus: Xeno-biology ]
 [Successes: 1] [Complications: 0]
@@ -69,7 +69,7 @@ Success with 0 momentum [2d20 = 24]**<br />
 
 >As he proceeds deeper down the shaft, there is no evidence of the life signs he detected from the main chamber<br />
 
- **Hailey Murry:** Oh goodness<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh goodness<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Should we follow the commander?<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I'm trying to end up with any MORE insubordination charges, but that seems... reckless. And stupid<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ CONTROL  (11) +  SECURITY  (4)]
@@ -79,7 +79,7 @@ Success with 1 momentum [2d20 = 16]**<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Well, to start with I would recommend we all use this N99 respiration system masks that I conveniently keep in my backpack.<br />
 *Kolea hands out medical masks to the rest of the group.*<br />
 **Crewman McAllister:** Good thinking nurse. Better safe than sorry, that's what I always say<br />
- **Hailey Murry:** Thank goodness, thank you Kolea. Let's see if we can get our commander one as well. <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Thank goodness, thank you Kolea. Let's see if we can get our commander one as well. <br />
 **Crewman McAllister:** I plan to live until I'm 120 and die in bed<br />
 *Crewman McAllister puts on his mask*<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ CONTROL  (11) +  COMMAND  (3)]
@@ -90,16 +90,16 @@ Success with 1 momentum [2d20 = 5]**<br />
 <font color="##005500">Masakari (Zox): those companies know how to move product.</font><br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I shall happy see you dead in bed.<br />
 *Lt. Malat puts on her Verizon(tm) breather aparatus*<br />
- **Hailey Murry:** Commander Zox? Can you read me? If you could inform us on the direction you went, that would be fantastic<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Commander Zox? Can you read me? If you could inform us on the direction you went, that would be fantastic<br />
 *Kolea gives MacAllister a wink.*<br />
 *Lt. Malat pulls out her tricorder*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I'm reading his life signs 200 meters this way Counselor<br />
- **Hailey Murry:** Fantastic, let's head over that way. Are there any other life signs down here as well or is it just his?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Fantastic, let's head over that way. Are there any other life signs down here as well or is it just his?<br />
 *Kolea follows dutifully along, scanning for life signs and particulate matter or dangerous effects.*<br />
 <font color="##005500">Masakari (Zox): Oof. </font><br />
 >The away team soon rounds a corner to find Commander Zox wrapped up by a large snake-like creature emerging from a hole in the shaft wall. Approximately 7 meters of snake are visible, but its tail is still inside the wall<br />
 
- **Hailey Murry:** Oh goodness! Commander Zox!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh goodness! Commander Zox!<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I've have fantasies about things like this!<br />
 >The snake-creature continues to crush Zox in its grasp, but Zox is stronk<br />
 
@@ -138,9 +138,9 @@ Success with 1 momentum [2d20 = 32]**<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea: [ REASON  (9) +  MEDICINE  (4)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 27]**<br />
- **Hailey Murry:** Oh no<br />
- **Hailey Murry:** There are a lot of them<br />
- **Hailey Murry:** We gotta move, Kolea get Zox his mask. Watch out for incoming holes<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh no<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** There are a lot of them<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** We gotta move, Kolea get Zox his mask. Watch out for incoming holes<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:  [d20 = 1]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:  [d20 = 15]**<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:  [d20 = 13]**<br />
@@ -161,7 +161,7 @@ Success with 0 momentum [2d20 = 21]**<br />
 >Murry and Kolea estimate that the creature was at least 10 meters in length<br />
 
 <font color="##005500">indarien (Skig): I forgot, Kolea should get a +2 dice for determing length of snake-like objects.</font><br />
- **Hailey Murry:** Does anybody know what those are?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Does anybody know what those are?<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Wow, that must have been at least 18m long, based on Crewman Thompson informing me exactly what 6" is!<br />
 *Zox takes a defensive position.*<br />
 *Lt. Malat sets her phaser to the maximum setting and fires into the hole that the creature dissapeared down*<br />
@@ -172,16 +172,16 @@ Success with 0 momentum [2d20 = 21]**<br />
 [Focus: Demolitions ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 28]**<br />
- **Hailey Murry:** Incoming collapse, not controlled!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Incoming collapse, not controlled!<br />
 *Kolea follows McAllister and Zox, checks to see if the away team can be safely transported out in case of emergency.*<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ DARING  (9) +  ENGINEERING  (5)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 27]**<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** USS Lister, are you able to lock on to our signals in case we need emergency transport?<br />
- **Skig:** Yes<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Yes<br />
 *Zox looks relieved on hearing this.*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Great, and while I have your attention Skig, would rampant phaser fire in a mine filled with Dilitium Crystal dust trigger chemical reactions that could cause the collapse of the mine system?<br />
- **Skig:** Your call is very important to us, please hold for the next available operator.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Your call is very important to us, please hold for the next available operator.<br />
 **Commander Bachar:** Skig, don't even think about it<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Dammit!<br />
 *Skig raises eyebrow and Commander Bachar's remark. Skig will think about whatever the Hell Skig feels like thinking about.*<br />
@@ -200,12 +200,12 @@ Success with 0 momentum [2d20 = 21]**<br />
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 23]**<br />
 *Hailey Murry I am rolling like garbage, but I'm rolling like garbage with a 17 to hit and it's actually working*<br />
- **Hailey Murry:** Dilitium crystal dust? That's fine, nah, that stuff won't explode without proper priming<br />
- **Hailey Murry:** The hydrogen and flourine, on the other hand<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Dilitium crystal dust? That's fine, nah, that stuff won't explode without proper priming<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** The hydrogen and flourine, on the other hand<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Umm... I meant, as in, "We have been firing phasers around and I would like to know what would cause the mine to collapse."<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Which way is the exit? I can't see a damn thing<br />
- **Skig:** It's okay Kolea, I knew what you meant.<br />
- **Hailey Murry:** I think it may be the worms<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** It's okay Kolea, I knew what you meant.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I think it may be the worms<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ FITNESS  (9) +  SECURITY  (4)]
 [Focus: Endurance ]
 [Successes: 4] [Complications: 0]
@@ -215,7 +215,7 @@ Success with 3 momentum [3d20 = 27]**<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea: [ DARING  (9) +  MEDICINE  (4)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 19]**<br />
- **Zox:** Vent the mineshaft before we are all dead! There has to be an emergency ventilation shaft access control here!<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Vent the mineshaft before we are all dead! There has to be an emergency ventilation shaft access control here!<br />
 *Kolea looks for blinking red lights with warning labels affixed to it.*<br />
 *Skig and Crewman McAllister pull out their tricorders*<br />
 *Lt. Malat and Crewman McAllister pull out their tricorders*<br />
@@ -223,28 +223,28 @@ Success with 1 momentum [2d20 = 19]**<br />
 **Crewman McAllister:** Sir, I'm reading one of those drones. 15 meters that way<br />
 *Crewman McAllister points in a direction, hard to discern with all of the gas*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I'm can't even read the display on my tricoder in all this gas<br />
- **Hailey Murry:** I've got it!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I've got it!<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ DARING  (11) +  ENGINEERING  (2)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 25]**<br />
- **Hailey Murry:** It's locked! Who wants to give it a try to bypass the screen?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** It's locked! Who wants to give it a try to bypass the screen?<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ DARING  (11) +  SECURITY  (4)]
 [Focus: Espionage ]
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 9]**<br />
- **Zox:** Drone, route ventilation to this shaft immediately, priority 1.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Drone, route ventilation to this shaft immediately, priority 1.<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** What if they don't actually have OSHA implemented and there is no access control system?<br />
 **Drone:** Command override accepted, initiating venting procedure<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Or didn't bother to install fans and venting systems?<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I'm pretty sure that would need to be posthumously included in your report.<br />
- **Zox:** Correct.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Correct.<br />
 >The gas slowly begins to drain from the tunnel, and the away team can at least see again<br />
 
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:  [d20 = 2]**<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:  [d20 = 17]**<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:  [d20 = 15]**<br />
- **Hailey Murry:** Well then, that seems a bit odd<br />
- **Hailey Murry:** Are the vents supposed to stop like that? <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Well then, that seems a bit odd<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Are the vents supposed to stop like that? <br />
 >A crumbling sound is heard, and the ceiling caves in over Kolea's head, dumping a massive pile of rocks on her fragile form<br />
 
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** What seems odd Counselor?  That we've had this much dialogue with me making a pun about my experience with shafts?<br />
@@ -260,40 +260,40 @@ Success with 1 momentum [3d20 = 41]**<br />
 >He is able to push them both far enough aside that they are not crushed to death instantly, and instead share the 9 damage between them. But both are knocked unconscious.<br />
 
 *Kolea cuddle hugs Zox and begins licking his scaly hide in her sleep.*<br />
- **Hailey Murry:** Alright, so<br />
- **Hailey Murry:** Commander Murry to Lister, we need two things<br />
- **Hailey Murry:** We need to be beamed out<br />
- **Skig:** Okay, what can we do to help?<br />
- **Hailey Murry:** And we should pretend this was a resounding success<br />
- **Skig:** Got it, straight to sick bay or to a normal transporter room?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Alright, so<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Commander Murry to Lister, we need two things<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** We need to be beamed out<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Okay, what can we do to help?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** And we should pretend this was a resounding success<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Got it, straight to sick bay or to a normal transporter room?<br />
 *Zox is now convinved Kolea has a bigger crush on him than the SpaceSnek(TM)*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I agree with the counselor. Snitches get stiches<br />
- **Hailey Murry:** Sick bay, please, we should probably all get a look over<br />
- **Skig:** I'm reporting this as a resounding success for testing out the transporters and the efficacy of the rebreathing equipment.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Sick bay, please, we should probably all get a look over<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I'm reporting this as a resounding success for testing out the transporters and the efficacy of the rebreathing equipment.<br />
 *Crewman McAllister breathes a sign of relief that it was Kolea who got crushed by the rocks and not him, because he doubts Zox would have risked his life to save him*<br />
 *Skig activates the transporter to send the entire Away Team to a medical bay with quarantine features to prevent spread of airborne contaminants.*<br />
 >The transporters dematerialize the away team and they rematerialize in sickbay<br />
 
 >All except Zox, who is absent when the away team re-appear<br />
 
- **Skig:** Counselor, are you arrived and, I assume Lt. Commander Zox is...<br />
- **Skig:** Hmm....<br />
- **Hailey Murry:** So, I suppose we should probably double check if that was intentional venting of --where is Zox?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Counselor, are you arrived and, I assume Lt. Commander Zox is...<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Hmm....<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** So, I suppose we should probably double check if that was intentional venting of --where is Zox?<br />
 *Dr. Zerra gets Kolea up onto a bed and... begins scanning her with his medical tricorder*<br />
- **Skig:** Lt. Commander Zox is being held in the transporter buffer as he is carrying some level of contaminant that is not identifiable or purgeable via transporter.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Lt. Commander Zox is being held in the transporter buffer as he is carrying some level of contaminant that is not identifiable or purgeable via transporter.<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I'll set up a level 4 containment field<br />
 *Dr. Zerra establishes a containment field around the diagnostic bay*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** We're ready here whenever you are commander<br />
- **Skig:** Thank you Doctor, I shall begin the transport now.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Thank you Doctor, I shall begin the transport now.<br />
 <font color="##005500">Masakari (Zox): oh no. SpaceSnek Fever.</font><br />
 <font color="##005500">indarien (Kolea): Fen - Planning this episode, The only person susceptible to this DNA-altering SpaceSnek poison would be Zox, how can I possibly convince Tack that Zox needs to get constricted and poisoned by one of these?.... 5 minutes into the episode... nevermind.</font><br />
 *Skig materializes Zox in the containment system.*<br />
 *Dr. Zerra orders another nurse to take care of Kolea and turns his attention to Zox*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Interesting. There are no foreign organisms present, that must be why the transporter couldn't remove it. It looks like something is... rewriting the Commander's DNA<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea ***(thrashes in her sleep)*: Yes master, whip me more, I really like it when you do that.<br />
- **Skig:** More herbivorous or carnivorous?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** More herbivorous or carnivorous?<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): "Whip me herbivorously"</font><br />
- **Skig:** Just need to know if I should reprogram the food synthesizers.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Just need to know if I should reprogram the food synthesizers.<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Hard to say Commander, I can give him an injection of a cellular inhibitor for now, it should slow down the genetic damage.<br />
 *Dr. Zerra gives Zox two injections, and he starts to wake back up*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I'll have to do some further research to come up with a treatment plan<br />
@@ -310,17 +310,17 @@ Directed By Clifford Ness<br />
 >After the credits, the Captain has come to sickbay to discuss the situation with his senior staff<br />
 
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** How are you feeling Commander?<br />
- **Zox:** Hissssterical. All squirmy.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Hissssterical. All squirmy.<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Dr, is he fit for duty?<br />
- **Hailey Murry:** I can't tell if he's feeling normal or if he's actually feeling different<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I can't tell if he's feeling normal or if he's actually feeling different<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Impossible to say, normal for Zox is hard to pin down<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** As for his fitness for duty, if he is feeling up to it, I would not object. But I would insist that he wear a bio-monitor<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I need to be able to monitor his condition<br />
- **Zox:** Can you explain this condition?<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Can you explain this condition?<br />
 *Dr. Zerra pulls up a monitor and swivels it over so Zox can see, then sits down at his bedside*<br />
 <font color="##005500">indarien (Kolea): Well, see, your normal cells are the green ones, the blue ones are the infected cells, and the red ones are where the blinky thing next to the light relay system needed extra contrast.</font><br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** This is your genetic fingerprint that we have on file from your last physical, and this is your DNA sequences now. As you can see, something in the venom from that creature began the process of rewriting your base pairs. <br />
- **Zox:** While I know the technology has been banned since the Eugenics wars of Terra, can't you just over-write the re-wiriting since you have it all on file?<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** While I know the technology has been banned since the Eugenics wars of Terra, can't you just over-write the re-wiriting since you have it all on file?<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** We've filtered out the venom, but the process appears to be self-sustaining now<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** That is my hope, but our systems cannot sythesize viable Voth DNA<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I have one hope for a treatment: a live donor<br />
@@ -330,7 +330,7 @@ Directed By Clifford Ness<br />
 >♫♫♫Lighthearted Music Sting♫♫♫<br />
 
 <font color="##005500">Masakari: ♫♫♫Lighthearted Music Sting♫♫♫</font><br />
- **Zox:** If this is the approved treatment, there is no choice.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** If this is the approved treatment, there is no choice.<br />
 >♫♫♫Ominous Music Sting♫♫♫<br />
 
 # Mother Knows Best (Part 2)<br />
@@ -355,29 +355,29 @@ Copyright 2021 Smiteworks USA, LLC</font><br />
 [Focus: Endurance ]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 14]**<br />
- **Skig:** Mining Location A347.17 showed an excessive amount of dust on all their flame suppression units, indicating an absence of proper testing of the failover and suppression systems. Also, their women's restroom had an expired air freshener. However, I believe those are not exclusionary from Federation Membership.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Mining Location A347.17 showed an excessive amount of dust on all their flame suppression units, indicating an absence of proper testing of the failover and suppression systems. Also, their women's restroom had an expired air freshener. However, I believe those are not exclusionary from Federation Membership.<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ CONTROL  (8) +  COMMAND  (1)]
 [Successes: 3] [Complications: 0]
 Success with 2 momentum [2d20 = 10]**<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Ummm.. Yes, I agree. I don't think we would be within protocol to reject their petition on those grounds<br />
- **Zox:** I feel we should only approve if they are able to prove they take care of their workers' health; I feel as if they'd need better COBRA coverage.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I feel we should only approve if they are able to prove they take care of their workers' health; I feel as if they'd need better COBRA coverage.<br />
 <font color="##005500">indarien (Skig): Yo Joe!</font><br />
 <font color="##005500">indarien (Skig): Red lasers to victory!</font><br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I am not sure I fully understand what Zox is saying, but their medical database is very sparse. They don't have any record of treatments for this genetic damage that those snake-creatures cause<br />
- **Zox:** That's sort of a problem if they intend to continue to work down there.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** That's sort of a problem if they intend to continue to work down there.<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I don't see why we are even considering their petition, they are barely even warp capable<br />
- **Hailey Murry:** From what I can find in the records, it looks like that was about what was expected. No sign of any sabotage with the ventillation nor sending those worm-things at us. So I have no objections. <br />
- **Skig:** COBRA is only used during severance, and the snakes do not sever limbs, I think they need to show proper STGD coverage. Which is Short-Term Genetic Dismemberment, available from the Ferengi Bureau of Employee Transactional Coverage.<br />
- **Zox:** Well shucks, they think of everything.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** From what I can find in the records, it looks like that was about what was expected. No sign of any sabotage with the ventillation nor sending those worm-things at us. So I have no objections. <br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** COBRA is only used during severance, and the snakes do not sever limbs, I think they need to show proper STGD coverage. Which is Short-Term Genetic Dismemberment, available from the Ferengi Bureau of Employee Transactional Coverage.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Well shucks, they think of everything.<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ FITNESS  (9) +  SCIENCE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 6]**<br />
 <img src="../images/auto/Twins.png" alt="Lt. Cmdrs 11 and 10" width="50" height="50">**Lt. Cmdrs 11 and 10:** We see no basis to object, their computer systems are all within Federation standards<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** In that case, barring any last-minute objections or addendums to the reports, I will prepare my report to starfleet.<br />
- **Skig:** I agree with Malat, their propulsion and transwarp systems are very rudimentary. However, their proper handling of environmental systems and distant stellar location has likely curtailed development of more robust systems. Their computer and engineering standards are quite robust. Although I did manage to procure a number of these really awesome vaccum tubes from one of their scientists. I plan to add it to my music box.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I agree with Malat, their propulsion and transwarp systems are very rudimentary. However, their proper handling of environmental systems and distant stellar location has likely curtailed development of more robust systems. Their computer and engineering standards are quite robust. Although I did manage to procure a number of these really awesome vaccum tubes from one of their scientists. I plan to add it to my music box.<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Before we adjourn, Commander Zox, are there any cultural norms we should be aware of before welcoming your mother aboard?<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** The Federation database has almost nothing about Voth cultural norms or traditions<br />
- **Zox:** I would caution wearing the color green.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I would caution wearing the color green.<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): Plot twist: Zox's mother is red/green colorblind</font><br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Very well, dismissed<br />
 *Captain Baras stands up and leaves the briefing room with Commander Bachar and the twins*<br />
@@ -387,38 +387,38 @@ Success with 1 momentum [2d20 = 6]**<br />
 <font color="##005500">indarien (Skig): Umm... "eat" but with Keola... who knows?</font><br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I hope she has baby pictures<br />
 <font color="##005500">Masakari (Zox): Oh, and most Voth have not been around distilled beverages; we find them far too tasty due to their similary to rotten, delicious foiliage. I would keep her away from ten forward.</font><br />
- **Zox:** Oh, and most Voth have not been around distilled beverages; we find them far too tasty due to their similary to rotten, delicious foiliage. I would keep her away from ten forward.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Oh, and most Voth have not been around distilled beverages; we find them far too tasty due to their similary to rotten, delicious foiliage. I would keep her away from ten forward.<br />
 *Lt. Malat chuckles*<br />
- **Skig:** I think baby pictures of Zox would be hilarious.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I think baby pictures of Zox would be hilarious.<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ FITNESS  (9) +  SCIENCE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 13]**<br />
- **Hailey Murry:** We just need the DNA for Zox's treatment, yes? <br />
- **Hailey Murry:** Zox, are you on good terms with your mother? <br />
- **Zox:** I must....go to sick bay.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** We just need the DNA for Zox's treatment, yes? <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Zox, are you on good terms with your mother? <br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I must....go to sick bay.<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ REASON  (9) +  MEDICINE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 14]**<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Well we will need a substantial number of her stem cells for the retroviral therapy to be effective<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** What's wrong commander?<br />
 *Dr. Zerra turns to Zox at his mention of going to sickbay*<br />
- **Zox:** I....feel a little lightheaded and weak. Like I want to sleep on a heat rock, but more than normal.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I....feel a little lightheaded and weak. Like I want to sleep on a heat rock, but more than normal.<br />
 *Dr. Zerra opens up his medkit and goes to scan Zox with his medical tricorder*<br />
- **Zox:** I had no idea alien worm-snakes from beyond would have such an ability.<br />
- **Skig:** The universe is full of strange and unusual wonders. Sometimes they are inimical to us.<br />
- **Zox:** Stem cells should be an easy thing to get. <br />
- **Hailey Murry:** You did mention that your mother did not want you to join. Do you think this is going to cause any unforeseen issues? <br />
- **Zox:** If that's all you need to re-encode damaged areas.<br />
- **Zox:** Probably not, but you never know. <br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I had no idea alien worm-snakes from beyond would have such an ability.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** The universe is full of strange and unusual wonders. Sometimes they are inimical to us.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Stem cells should be an easy thing to get. <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** You did mention that your mother did not want you to join. Do you think this is going to cause any unforeseen issues? <br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** If that's all you need to re-encode damaged areas.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Probably not, but you never know. <br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** This is... your lungs appear to be secreting something...<br />
 *Dr. Zerra looks puzzled*<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): Hailey Murry reacts to surprises with karate chops</font><br />
 *Dr. Zerra Zox starts coughing and an eruption of gas begins to spew from his mouth*<br />
 >Zox starts coughing and an eruption of gas begins to spew from his mouth<br />
 
- **Skig:** I think that would depend on the level of damage to the DNA helices brought about by the infarcted triple nucleotide displacement.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I think that would depend on the level of damage to the DNA helices brought about by the infarcted triple nucleotide displacement.<br />
 <font color="##005500">indarien (Skig): (in response to Zox's comment before the lung secretion thing started)</font><br />
- **Zox:** Brwaarrrrrrghhrrrrf<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Brwaarrrrrrghhrrrrf<br />
 *Dr. Zerra gets a face full of gas and starts coughing and blindly flailing his arms around*<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ DARING  (9) +  ENGINEERING  (5)]
 [Successes: 1] [Complications: 0]
@@ -430,7 +430,7 @@ Failed on DC: 1 [2d20 = 38]**<br />
 
 *Skig activates an emergency, non-permeable forcefield around Zox to prevent the gas from escaping and possibly infecting others.*<br />
 *Skig blinks at the pile of Zerra, Murry, and Zox inside the forcefield.*<br />
- **Skig:** Hailey, you were supposed to pull away, not towards.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Hailey, you were supposed to pull away, not towards.<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:  [d6 = 6]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ FITNESS  (7) +  CONN  (3)]
 [Successes: 1] [Complications: 0]
@@ -438,9 +438,9 @@ Success with 0 momentum [2d20 = 24]**<br />
 *Lt. Malat is able to grab the Dr. and pull him out of the gas just before the force field goes up*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Where is Murry?<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Is she still in there?<br />
- **Skig:** Yes. Which means your anger training class at 1500 today is probably postponed. Shall I interest you in some fisticuffs to burn off aggression followed by drinking at the bar?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Yes. Which means your anger training class at 1500 today is probably postponed. Shall I interest you in some fisticuffs to burn off aggression followed by drinking at the bar?<br />
 *Hailey Murry gesticulates that it will not necessarily be postponed, because she does not like having things delayed and kicked out of schedule*<br />
- **Skig:** Obviously after the current crisis situation is averted.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Obviously after the current crisis situation is averted.<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Maybe after we get her out of there, I don't want to end under investigation for another officer's death<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): Also because the bomb diffusal gear is air-tight</font><br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ FITNESS  (7) +  CONN  (3)]
@@ -456,7 +456,7 @@ Failed on DC: 1 [2d20 = 32]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ FITNESS  (7) +  CONN  (3)]
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 27]**<br />
- **Skig:** I forgot, after the refit, this corridor does not cross into the Room 3 without first passing through the hydroponics lab. What idiot at Starfleet thought that was a great idea?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I forgot, after the refit, this corridor does not cross into the Room 3 without first passing through the hydroponics lab. What idiot at Starfleet thought that was a great idea?<br />
 *Skig checks her "speed of plot" indicator for a different route.*<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ DARING  (9) +  ENGINEERING  (5)]
 [Successes: 2] [Complications: 0]
@@ -466,37 +466,37 @@ Success with 1 momentum [2d20 = 15]**<br />
 Failed on DC: 1 [2d20 = 26]**<br />
 *Skig presses various buttons on the transporter and reroutes the forcefield containment so pull Murry out without letting the gas disperse.*<br />
 *Hailey Murry gasps for breath, leaning back against the wall*<br />
- **Hailey Murry:** Thank you, Skig<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Thank you, Skig<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Zox, are you OK in there?<br />
 *Lt. Malat takes out her tricorder*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** The atmostphere in there reads as highly toxic, but your life signs are stable<br />
 *Skig transports Murry into a containment field inside Med Bay that has been prepared to contain any possible contaminants or infection she might have acquired from Zox's new physiology.*<br />
- **Zox:** Correct. Thanks to the genetic prosthesis i currently have, these gases do not present a threat to me in the slightest.<br />
- **Zox:** However, I would also caution that these gasses must be vented for they carry an explosion risk<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Correct. Thanks to the genetic prosthesis i currently have, these gases do not present a threat to me in the slightest.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** However, I would also caution that these gasses must be vented for they carry an explosion risk<br />
 *Dr. Zerra comes back from setting up the containment field for Skig and begins scanning Zox with his medical tricorder*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** That might be unwise Commander, I don't think your lungs can process Oxygen anymore<br />
 *Skig is defending her ship from biological lifeforms gone berserk.*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Your alveoli appear to be binding with the flourine in the gas<br />
- **Zox:** Interesting.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Interesting.<br />
 *Skig returns back to where Zox, Malat, and Zerra are.*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** We need to get you to sickbay so I can run a full scan<br />
 *Hailey Murry chills in her containment field, listening into the discussion via her comms*<br />
- **Skig:** This could be an interesting adaptation that, if reversible, would be helpful for survival in some environments.<br />
- **Skig:** We could try it on Hailey to see if it works on humans.<br />
- **Zox:** Particularly those enivironments without fire.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** This could be an interesting adaptation that, if reversible, would be helpful for survival in some environments.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** We could try it on Hailey to see if it works on humans.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Particularly those enivironments without fire.<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I don't think the captain would approve of that Commander<br />
- **Skig:** Yes, or risk of electirical explosion.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Yes, or risk of electirical explosion.<br />
 <font color="##005500">indarien (Skig): (electrical)</font><br />
- **Hailey Murry:** I'd rather not be the guinea pig for this, thank you. It seems like quite a bother for standard operations.<br />
- **Skig:** Well, obviously we would need Hailey's approval, I am not suggesting we involuntarily use the ship's counselor as a lab rat for a science experiment.<br />
- **Zox:** Well this entire experience is leaving me rattled. <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I'd rather not be the guinea pig for this, thank you. It seems like quite a bother for standard operations.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Well, obviously we would need Hailey's approval, I am not suggesting we involuntarily use the ship's counselor as a lab rat for a science experiment.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Well this entire experience is leaving me rattled. <br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** We can't leave the chief of security in a containment field indefinitely.<br />
- **Skig:** Dr. Zerra, can you arrange to have everything setup in Med Bay for Zox? I can transport him there in the same manner as Hailey.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Dr. Zerra, can you arrange to have everything setup in Med Bay for Zox? I can transport him there in the same manner as Hailey.<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** We need some way to stop him spewing explosive, toxic gas out of his mouth<br />
- **Zox:** Can you engineer me a rebreathing apparatus, Skig?<br />
- **Hailey Murry:** We might want a full-body containment suit, just in case<br />
- **Skig:** Certainly, but if Dr. Zerra agrees, I think moving you to a containment field in Med Bay first might be the best option.<br />
- **Zox:** Very well.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Can you engineer me a rebreathing apparatus, Skig?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** We might want a full-body containment suit, just in case<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Certainly, but if Dr. Zerra agrees, I think moving you to a containment field in Med Bay first might be the best option.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Very well.<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): Also, the idea of Zox's suit inflating like a balloon is pretty amusing</font><br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** It would be easier to examine him if we can stop him belching this stuff<br />
 *Zox stews in his own toxic breath.*<br />
@@ -518,18 +518,18 @@ Success with 1 momentum [2d20 = 13]**<br />
 >Skig beams Zox to Sickbay but due to a failure to clear the targetting buffer, she also accidentally beamed Murry from her containment field to another containment field. From Murry's perspective, she dematerialized and rematerialized a few feet away from Zox.<br />
 
 *Skig is working on ideas while walking into the tooling workshop on her way from Transporter Room 3, oblivious to anything caused by her inattention to detail. Which happens when SQUIRREL!!!  OMG!*<br />
- **Hailey Murry:** Uh, hello Zox<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Uh, hello Zox<br />
 *Hailey Murry pulls out a notebook*<br />
- **Hailey Murry:** Did you want to bump your appointment up? <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Did you want to bump your appointment up? <br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 18]**<br />
 *Dr. Zerra enters sickbay and heads over to his patients*<br />
- **Zox:** Um. <br />
- **Zox:** I'm not sure what I want.<br />
- **Zox:** I feel like this room is too open.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Um. <br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I'm not sure what I want.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I feel like this room is too open.<br />
 *Dr. Zerra begins scanning Zox and Murry*<br />
- **Hailey Murry:** Do you mean the room or the containment field? <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Do you mean the room or the containment field? <br />
 <font color="##005500">indarien (Skig): Murry is pregnant with Zox's child, which was beamed into her.</font><br />
 <font color="##005500">Masakari (Zox): Hailey is part Voth now, or has a tail, etc.</font><br />
 <font color="##005500">BayushiKazemi (Hailey Murry): I really do not want to be a snake person D:</font><br />
@@ -538,14 +538,14 @@ Success with 1 momentum [2d20 = 18]**<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Commander Murry I have some good new and some... odd news<br />
 <font color="##005500">indarien (Skig): Maybe someone should suggest putting Zox into stasis?</font><br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** The good news is that you don't seem to have any genetic damage <br />
- **Hailey Murry:** Excellent!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Excellent!<br />
 <font color="##005500">indarien (Skig): Skig would if she was there.</font><br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** The bad news is... well it's probably easier if I show you<br />
 *Dr. Zerra pulls up a scan of a clutch of eggs in Commander Murry's abdomen*<br />
 *Hailey Murry steps up to look through the field in horror*<br />
- **Hailey Murry:** NO<br />
- **Zox:** Congratulations!<br />
- **Hailey Murry:** Not again<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** NO<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Congratulations!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Not again<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Mazel Tov!<br />
 >Just then, Captain Baras enters Sickbay with an older Voth female<br />
 
@@ -578,7 +578,7 @@ Success with 1 momentum [2d20 = 18]**<br />
 <font color="##005500">indarien (Skig): Dr. Zerra dives behind a lead shield...</font><br />
 *Zox finds it odd that Starfleet has such limited data considering both our species come from Earth.*<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: Hailey Murry has used a point of Determination to add a natural one to the dice pool.**<br />
- **Hailey Murry:** I think that complication needs to be looked into in a lot more detail before we go into it, since we need to research it first, but if it does have any bearing on this current case we'll provide the relevant details <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I think that complication needs to be looked into in a lot more detail before we go into it, since we need to research it first, but if it does have any bearing on this current case we'll provide the relevant details <br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ PRESENCE  (8) +  MEDICINE  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 31]**<br />
@@ -596,90 +596,90 @@ Success with 2 momentum [2d20 = 18]**<br />
 *Lt. Malat walks over to a replicator*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Popcorn. Butter and salt.<br />
 <font color="##005500">indarien (Skig): Dr. Zerra to Skig... "I need emergency transport for myself and Captain Baras from Med Bay!"</font><br />
- **Hailey Murry:** I'm not hiding anything, really, I just don't want you to worry about things that we don't have to worry about<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I'm not hiding anything, really, I just don't want you to worry about things that we don't have to worry about<br />
 *Skig walks into the room with a rebreather suit built out for Zox.*<br />
- **Skig:** Malat, that popcorn smells delicious.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Malat, that popcorn smells delicious.<br />
 *Lt. Malat offers Skig some popcorn*<br />
- **Skig:** Zox, I have a rebreather suit built for you which should filter and allow for normal transit around the ship.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Zox, I have a rebreather suit built for you which should filter and allow for normal transit around the ship.<br />
 *Skig notices Rhuk.*<br />
 *Lt. Malat shushes Skig.*<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Hello small furry mammal, thank you for attending to the needs of my offspring<br />
- **Skig:** Hello. Chief Engineer Skig, USS Lister. It is a pleasure to meet you.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Hello. Chief Engineer Skig, USS Lister. It is a pleasure to meet you.<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** It's just getting to the good part, I want to see how Murry explains the Voth eggs in her belly<br />
 *Skig looks at Malat.*<br />
 *Skig shrugs.*<br />
- **Skig:** Who am I to question what the Counselor and Chief Engineer do in their "free" time?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Who am I to question what the Counselor and Chief Engineer do in their "free" time?<br />
 *Hailey Murry mouths the words "Malat, why?" while Rhuk's turned away*<br />
- **Skig:** Who am I to question what the Counselor and Chief of Security do in their "free" time?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Who am I to question what the Counselor and Chief of Security do in their "free" time?<br />
 <font color="##005500">indarien (Skig): (DELETE FIRST)</font><br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:  [d20 = 5]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:  [d20 = 5]**<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** What what? Voth eggs in that small creature?<br />
 *Skig gets the rebreather suit inside the containment field for Zox, walks over to where Malat is and shares popcorn.*<br />
 <font color="##005500">Masakari (Rhuk): Darth Vox</font><br />
- **Zox:** Ah I can move again. So much better<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Ah I can move again. So much better<br />
 *Zox Zox Charges Rhuk *<br />
- **Hailey Murry:** It literally just happened, a mishap with the transporters<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** It literally just happened, a mishap with the transporters<br />
 *Rhuk butts heads with Zox*<br />
- **Zox:** Ah, thank you for coming mother<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Ah, thank you for coming mother<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig ***(speaking with Malat)*: So how long do you think Murry and Zox were dating before they decided to feather their nest?<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** I had no idea they were a thing, they must have been very secretive about it<br />
 *Hailey Murry leans against the field, hands on it as she looks at Skig*<br />
- **Hailey Murry:** Skig, this is your doing<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Skig, this is your doing<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Explain? Did Skig set you two up?<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** You must explain Zox what is going on. I do not know which is more absurd; thinking a flimsy human a worthy nest matriarch, or having genetic damage from worms.<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig ***(speaking with Malat)*: No kidding, they definitely kept it under wraps. By the way, which popcorn setting did you use? This is a great butter salt mixture?<br />
- **Zox:** It is only the latter of those two, really!<br />
- **Hailey Murry:** It was via the transporters. It has to have been. Again, I'm not sure they're even viable with the transportation, and with the genetic situation Zox is in I'd really like to make sure they don't take any creative liberties<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** It is only the latter of those two, really!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** It was via the transporters. It has to have been. Again, I'm not sure they're even viable with the transportation, and with the genetic situation Zox is in I'd really like to make sure they don't take any creative liberties<br />
 *Rhuk Looks at Hailey Murry.*<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Transporterss?<br />
 *Dr. Zerra raises an eyebrow at the suggestion the transporter is to blame, and runs another scan*<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Iss that what they are calling it now?<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I didn't think to check the first time, I just assumed... But these eggs don't seem to contain any of the Counselor's DNA<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** So perhaps there IS a technological explanation rather than a physical on<br />
- **Skig:** That would make sense though, doesn't she need to lay those to get them properly fertilized?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** That would make sense though, doesn't she need to lay those to get them properly fertilized?<br />
 *Skig eats another handful of popcorn.*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** You're asking me? I don't even know which sex of Voth make the eggs<br />
- **Skig:** I don't remember humans generally being egg-laying though.<br />
- **Hailey Murry:** That's because we aren't<br />
- **Hailey Murry:** This is highly unusual<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I don't remember humans generally being egg-laying though.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** That's because we aren't<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** This is highly unusual<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Certainly a first for me<br />
- **Skig:** Oh, then why do you have unfertilized Voth eggs?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Oh, then why do you have unfertilized Voth eggs?<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Oh no Commander, they are definitely fertilized<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Just not with the Counselor'd DNA<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Just not with the Counselor's DNA<br />
- **Zox:** Weren't you just saying we need gametes about 10 minutes ago? Can't we just transport them out and use them to cure this dreaded snake disease?<br />
- **Hailey Murry:** Oh no<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Weren't you just saying we need gametes about 10 minutes ago? Can't we just transport them out and use them to cure this dreaded snake disease?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh no<br />
 *Skig shudders at the implication of having Zox shove un-fertilized Voth eggs into warm gushy parts as part of some strange mating ritual.*<br />
- **Hailey Murry:** I need to sit down<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I need to sit down<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Wait, then who?<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Actually mild to moderate excercise is generally recommended during the first 2 trimesters of human pregnancy<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Tell me Dr. Zerra?<br />
 *Hailey Murry takes a seat on the patient bench*<br />
 *Skig looks at Malat.*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** It matches Zox for sure. But it also contains markers of the genetic signature of those snake creatures<br />
- **Zox:** Well that's a twist.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Well that's a twist.<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I wonder if this is what the genetic damage was attempting to do<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** This could be their form of procreation, fascinating<br />
- **Hailey Murry:** Oh nooooo<br />
- **Skig:** Zox, you are the mother of an entire new species that is a hybrid of Voth and snake-creature that gestates inside humanity.<br />
- **Zox:** I...I am not sure the words to react that exist in either of our native languages Skig<br />
- **Zox:** But this suit is great work<br />
- **Skig:** Thanks, I am glad it is working for you.<br />
- **Zox:** Dr. Zerra, if all you need is unfertilized eggs to repair Zox, that is an easy matter. <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh nooooo<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Zox, you are the mother of an entire new species that is a hybrid of Voth and snake-creature that gestates inside humanity.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I...I am not sure the words to react that exist in either of our native languages Skig<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** But this suit is great work<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Thanks, I am glad it is working for you.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Dr. Zerra, if all you need is unfertilized eggs to repair Zox, that is an easy matter. <br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Dr. Zerra, if all you need is unfertilized eggs to repair Zox, that is an easy matter. <br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** Yes, yes. Of course. I forgot about that<br />
- **Hailey Murry:** Pardon?<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Pardon?<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I got a little distracted by the current situation<br />
 *Dr. Zerra grabs a sample container and gives it to Rhuk*<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** If you can give me a few eggs in here, I can use that to get started on the treatment for Zox<br />
- **Zox:** Yes, simply run a holodeck program to simulate the right season and that should get you a set really quickly.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Yes, simply run a holodeck program to simulate the right season and that should get you a set really quickly.<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** For the counselor... I think I need to discuss the options with Zox and Murry alone<br />
- **Skig:** I think in the future I might need to adjust the controls a little so they are easier for you to reach with your peculiar hands. I did not properly account for those in the design. My apologies for thinking somewhat humanoid mammalian in my thinking.<br />
- **Skig:** I think in the future I might need to adjust the controls a little so they are easier for you to reach with your peculiar hands. I did not properly account for those in the design. My apologies for being somewhat humanoid mammalian in my thinking.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I think in the future I might need to adjust the controls a little so they are easier for you to reach with your peculiar hands. I did not properly account for those in the design. My apologies for thinking somewhat humanoid mammalian in my thinking.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I think in the future I might need to adjust the controls a little so they are easier for you to reach with your peculiar hands. I did not properly account for those in the design. My apologies for being somewhat humanoid mammalian in my thinking.<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I think they need a little privacy to discuss their options<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** One does not drag me across space to exclude me from conversations.<br />
- **Skig:** Meanwhile, Malat, Kolea, and I will work on the baby shower plans!<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Meanwhile, Malat, Kolea, and I will work on the baby shower plans!<br />
 *Rhuk looks stoically at Dr. Zerra*<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Ma'am, the Federation has robust patient privacy regulations. I think it would be best if we honored Zox and Murry's privacy in this case.<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Zox has nothing he wouldn't share with hhis brood.<br />
@@ -706,25 +706,25 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 
 >♫♫♫ Mysterious Music ♫♫♫<br />
 
- **Zox:** Im taking my crew down these auxiliary shafts.<br />
- **Hailey Murry:** Well, on the plus side we really don't need to inspect down there…wait, where did Zox go?<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Im taking my crew down these auxiliary shafts.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Well, on the plus side we really don't need to inspect down there…wait, where did Zox go?<br />
 >The away team soon rounds a corner to find Commander Zox wrapped up by a large snake-like creature emerging from a hole in the shaft wall.<br />
 
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I've had fantasies about things like this!<br />
 >Zox bashes the snake against the rocks, tearing open its flesh and releasing still more gas<br />
 
- **Hailey Murry:** Commander Murry to Lister, we need two things. We need to be beamed out. And we should pretend this was a resounding success.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Commander Murry to Lister, we need two things. We need to be beamed out. And we should pretend this was a resounding success.<br />
 >Skig materializes Zox in the containment system.<br />
 
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** It looks like something is… rewriting the Commander's DNA<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I have one hope for a treatment: a live donor. According to your personel file, your Mother lives on a colony less than 12 light years from here<br />
- **Zox:** I...feel a little lightheaded and weak. Like I want to sleep on a heat rock, but more than normal.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I...feel a little lightheaded and weak. Like I want to sleep on a heat rock, but more than normal.<br />
 >Zox starts coughing and an eruption of gas begins to spew from his mouth<br />
 
- **Zox:** Brwaarrrrrrghhrrrrf<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Brwaarrrrrrghhrrrrf<br />
 >Murry tries to pull Dr. Zerra to safety, but gets her arm tangled in Zox's belt and all three of them fall to the ground in a pile<br />
 
- **Skig:** Hailey, you were supposed to pull away, not towards.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Hailey, you were supposed to pull away, not towards.<br />
 >Skig transports Murry out of the forcefield, setting it for a full infection scan to make sure she is not infected with the same thing Zox has.<br />
 
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Zox, are you OK in there? The atmostphere in there reads as highly toxic, but your life signs are stable.<br />
@@ -736,16 +736,16 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 
 >Hailey Murry steps up to look through the field in horror<br />
 
- **Zox:** Congratulations!<br />
- **Hailey Murry:** Not again<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Congratulations!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Not again<br />
 >Just then, Captain Baras enters Sickbay with an older Voth female<br />
 
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** What are you hiding from me?<br />
- **Hailey Murry:** I'm not hiding anything, really, I just don't want you to worry about things that we don't have to worry about<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I'm not hiding anything, really, I just don't want you to worry about things that we don't have to worry about<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** It's just getting to the good part, I want to see how Murry explains the Voth eggs in her belly<br />
- **Skig:** Who am I to question what the Counselor and Chief of Security do in their “free” time?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Who am I to question what the Counselor and Chief of Security do in their “free” time?<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** What what? Voth eggs in that small creature?<br />
- **Hailey Murry:** It was via the transporters. It has to have been.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** It was via the transporters. It has to have been.<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Iss that what they are calling it now?<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I didn't think to check the first time, I just assumed… But these eggs don't seem to contain any of the Counselor's DNA<br />
 <img src="../images/auto/Zerra.png" alt="Dr. Zerra" width="50" height="50">**Dr. Zerra:** I think they need a little privacy to discuss their options<br />
@@ -754,7 +754,7 @@ Copyright 2022 Smiteworks USA, LLC*<br />
 >♫♫♫Dramatic Music String♫♫♫<br />
 
 >Captains Log, supplemental: Murry and Zox are both in stable condition for now. Dr. Zerra is continue Zox's treatment, but is still investigating a safe procedure to remove the... lifeforms from Counselor Murry. In the meantime, I ordered both of them to take some time off. Zox has been spending some time with his mother, and Counselor Murry seems to be hiding from her in Holodeck 4.
- Just to be on the safe side, I've ordered the transporters shut down until we understand what happened. Skig is leading the investigation in transporter room 2.<br />
+Just to be on the safe side, I've ordered the transporters shut down until we understand what happened. Skig is leading the investigation in transporter room 2.<br />
 
 >INTERIOR - Transporter Room 2: Skig has torn the transporter pad down to its frame looking for the cause of the malfunction that definitely couldn't have possibly been user error in any way and MUST have absolutely been a malfunction, 100%. She's not projecting, you're projecting.<br />
 
@@ -767,46 +767,46 @@ Success with 2 momentum [2d20 = 15]**<br />
 [Successes: 0] [Complications: 1]
 Failed on DC: 1 [2d20 = 30]**<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Wait, do huumans really do...that through their noses?<br />
- **Zox:** Apparently yes. I had no idea really!<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Apparently yes. I had no idea really!<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** No, I don't think that is possible<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** I am still fairly certain that the transporter is responsible and not any ordinary biological contamination<br />
 *Zox makes confused reptile noises.*<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** I'll have to second that<br />
- **Zox:** Then...can't we just reverse this problem?<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Then...can't we just reverse this problem?<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Wouldn't that cause her to make you pregnant? <br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Dr. Zerra is still working on it, we aren't sure how to remove the eggs just yet<br />
- **Skig:** Beam the eggs out of Murry and into you? I think there is some sort of ethical discussion that needs to happen by people who care about biological processes.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Beam the eggs out of Murry and into you? I think there is some sort of ethical discussion that needs to happen by people who care about biological processes.<br />
 *Rhuk is confused and not really sure if her son had a fling or not.*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Also, the eggs are mostly alien DNA. I don't know that would be wise<br />
- **Zox:** Do we not have some sort of incubator? Can we not Engineer one?<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Do we not have some sort of incubator? Can we not Engineer one?<br />
 *Skig shows Viraseti some data she found.*<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Hmmm, we may want to get one ready just in case<br />
- **Zox:** It can't be safe for those to be in a person.<br />
- **Skig:** I think there was some sort of residual biological material trapped in the transporter filter and it might have mixed with Murry's DNA during the emergency transport.<br />
- **Skig:** This would not happen normally, as it should have been cycled into the normal transporter process for review prior to materialization.<br />
- **Skig:** At least, that's my current hypothesis.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** It can't be safe for those to be in a person.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** I think there was some sort of residual biological material trapped in the transporter filter and it might have mixed with Murry's DNA during the emergency transport.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** This would not happen normally, as it should have been cycled into the normal transporter process for review prior to materialization.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** At least, that's my current hypothesis.<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Yes, the transporter biofilter safeties should have prevented that<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** If this contaminant evaded the biofilter, it may not be safe to use the transporter until we can ensure it is completely eradicated<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Is there something currently trapped in the transporter's biofilter? <br />
- **Skig:** This reminds me of the prank that Ensign Peterson pulled where he had every female who used the transporter on odd numbered days and even numbered hours to suddenly develop "D Cups".<br />
- **Zox:** Hrm...Would it be possible to use a shuttle's transporter bay?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** This reminds me of the prank that Ensign Peterson pulled where he had every female who used the transporter on odd numbered days and even numbered hours to suddenly develop "D Cups".<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Hrm...Would it be possible to use a shuttle's transporter bay?<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Good thinking, the shuttle systems are isolated from the Lister<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** They shouldn't have been infected<br />
- **Skig:** But I agree, Lt Cmdr, until we can be certain that somehow this is not replicating to everyone who has used the transporter, we should not use them until we can run a full diagnostic.<br />
- **Skig:** Yes, the shuttles run a separate transporter grid.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** But I agree, Lt Cmdr, until we can be certain that somehow this is not replicating to everyone who has used the transporter, we should not use them until we can run a full diagnostic.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Yes, the shuttles run a separate transporter grid.<br />
 <font color="##005500">BayushiKazemi (Oakadan): Oh no, is the Lister pregnant as well? </font><br />
 *Skig pulls up a list of everyone who has gone through the transporter since Murry's "accident".*<br />
- **Zox:** No time to waste! A standard bio-reactor should be close enough for those eggs.<br />
- **Skig:** Hmm... we should check to see if Rhuk is pregnant with these eggs also.<br />
- **Zox:** Skig, would you lend me a hand on this real quick?<br />
- **Skig:** Oh sure.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** No time to waste! A standard bio-reactor should be close enough for those eggs.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Hmm... we should check to see if Rhuk is pregnant with these eggs also.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Skig, would you lend me a hand on this real quick?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Oh sure.<br />
 *Lt. Cmdr Viraseti pulls out her tricorder*<br />
 *Skig looks at replicator.*<br />
- **Skig:** "A hand for Zox, extra long, no claws."<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** "A hand for Zox, extra long, no claws."<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk:** Why are you looking at me like that?<br />
 *Lt. Cmdr Viraseti scans Rhuk*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** No need to worry, just being extra cautious.<br />
- **Skig:** Just making sure things don't get really awkward here, esteemed visitor.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Just making sure things don't get really awkward here, esteemed visitor.<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk: [ PRESENCE  (11) +  MEDICINE  (4)]
 [Focus: Debate ]
 [Successes: 1] [Complications: 0]
@@ -823,7 +823,7 @@ Success with 1 momentum [2d20 = 21]**<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ REASON  (10) +  ENGINEERING  (5)]
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [d20 = 16]**<br />
- **Skig:** That is unusual.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** That is unusual.<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Does he want to speak with Skig or should we just check out the comms system? <br />
 *Skig taps her comms badge.*<br />
 >Zox punches in the plans for a suitable incubator in the transporter room replicator. As he hits the button an egg materializes on the replicator pad<br />
@@ -831,22 +831,22 @@ Failed on DC: 1 [d20 = 16]**<br />
 *Skig blinks.*<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** We've been getting unusual power fluctuations up on the bridge<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Oh no<br />
- **Skig:** Umm....<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Umm....<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Did you... make an egg?<br />
- **Zox:** No. Not at all actually.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** No. Not at all actually.<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Not that it's my place to criticize sir, but... seems pretty reckless<br />
- **Skig:** The ship just got.... herpes.<br />
- **Zox:** is it more like Eggzema?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** The ship just got.... herpes.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** is it more like Eggzema?<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Perhaps the contamination is worse than we thought<br />
- **Skig:** Yes, yes it is.<br />
- **Skig:** "Steak dinner for one, please."<br />
- **Skig:** Viraseti, can that to see if the replicator has the same instance of biocontaminant.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Yes, yes it is.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** "Steak dinner for one, please."<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Viraseti, can that to see if the replicator has the same instance of biocontaminant.<br />
 <font color="##005500">indarien (Skig): "scan" not "can"</font><br />
- **Zox:** Well, I think we are going to have to use a shuttle to beam everyone through a custom biofilter and remove eggs from 90% of the crew.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Well, I think we are going to have to use a shuttle to beam everyone through a custom biofilter and remove eggs from 90% of the crew.<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** We may want to do a scan of the crew to see if it's spread. I don't think anybody's actually used the transporters, but they've definitely used the incubaters.<br />
 >The replicator whirs to life and produces another egg, this one superimposed over the first . As the replicator struggles to materialize two objects in the same space, it starts to make a groaning sound and the eegs both explode, showering the transporter room in a pale yellow goop<br />
 
- **Skig:** If it is in the replication system, then anyone who has eaten in the past couple weeks is infected.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** If it is in the replication system, then anyone who has eaten in the past couple weeks is infected.<br />
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ DARING  (9) +  SECURITY  (3)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 21]**<br />
@@ -867,7 +867,7 @@ Success with 0 momentum [2d20 = 24]**<br />
 *Lt. Malat rolls out the door into the hall to avoid the goop*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Well, that was exciting Commander<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Well, at least we don't need an incubator for those eggs<br />
- **Zox:** I got this. No need to panic.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I got this. No need to panic.<br />
 *Zox orders another steak.*<br />
 *Oakadan backs out of the room and drags Skig with him*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** But not entirely fruitless, your hunch seems to have been correct Commander. I detected a power surge from the bioneural gel pack when the egg was materialized<br />
@@ -879,16 +879,16 @@ Success with 0 momentum [2d20 = 24]**<br />
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 34]**<br />
 <img src="../images/auto/LtMalat.PNG" alt="Lt. Malat" width="50" height="50">**Lt. Malat:** Sir, might I suggest that we do not need any MORE of those?<br />
- **Zox:** Argh! My tricorder has eggs apparently; can someone scan this egg to prepare a biofilter algorithm discriminator?<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Argh! My tricorder has eggs apparently; can someone scan this egg to prepare a biofilter algorithm discriminator?<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** I can have a look<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan:** Here, some goggles for you<br />
 *Oakadan gives the Lt Cmdr some goggles*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** The eggs have a similar biosignature to the ones we detected in yourself and Counselor Murry, I think this plan of yours might work<br />
- **Zox:** If you have captured it, I'd suggest bringin the tricorder to a shuttle and work from there.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** If you have captured it, I'd suggest bringin the tricorder to a shuttle and work from there.<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Assuming that the shuttle systems haven't been infected<br />
- **Zox:** There's no computer on board..correct!<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** There's no computer on board..correct!<br />
 *Oakadan pulls out his own tricorder and checks out the goop to see if it's dangerous or appears otherwise infectious*<br />
- **Skig:** Even if they have, we can isolate and purge from the shuttle without having to disable major ship's systems.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Even if they have, we can isolate and purge from the shuttle without having to disable major ship's systems.<br />
 <img src="../images/auto/Oakadan.png" alt="Oakadan" width="50" height="50">**Oakadan: [ REASON  (11) +  MEDICINE  (3)]
 [Focus: Infectious Diseases ]
 [Successes: 1] [Complications: 0]
@@ -900,20 +900,20 @@ Success with 0 momentum [2d20 = 28]**<br />
 
 >Moments later, the emergency lighting kicks in and bathes the turbolift in a dim blue light<br />
 
- **Skig:** Whew, at least it has not switched to "spooky red light mode"<br />
- **Zox:** Anyway out of here that doesn't involve crawling through maintenance tubes?<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Whew, at least it has not switched to "spooky red light mode"<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Anyway out of here that doesn't involve crawling through maintenance tubes?<br />
 *Skig pulls the access panel off the side and looks for access to the maintenance tubes.*<br />
- **Zox:** I guess that answers that.<br />
- **Skig:** Quite curious.<br />
- **Skig:** We shall need to go up to reach the access point.<br />
- **Skig:** Unless you want to try and pry the doors open and hope whatever is causing this doesn't activate the emergency release and plummet us to whatever it thinks the next lower level is.<br />
- **Zox:** I think we need to be to the bridge asap and not risk more.<br />
- **Zox:** Up we go<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I guess that answers that.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Quite curious.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** We shall need to go up to reach the access point.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Unless you want to try and pry the doors open and hope whatever is causing this doesn't activate the emergency release and plummet us to whatever it thinks the next lower level is.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** I think we need to be to the bridge asap and not risk more.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Up we go<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** 14 decks is a long way to climb<br />
- **Skig:** It is better than 30.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** It is better than 30.<br />
 *Skig climbs up the 14 decks to reach the bridge.*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** The bright side to serving on a Constituion and not a Sovereign?<br />
- **Zox:** Some of us never left the trees, human.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Some of us never left the trees, human.<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox: [ FITNESS  (9) +  SECURITY  (4)]
 [Focus: Espionage ]
 [Successes: 1] [Complications: 0]
@@ -933,12 +933,12 @@ Success with 1 momentum [2d20 = 12]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ INSIGHT  (12) +  SECURITY  (2)]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 24]**<br />
- **Skig:** Captain, I have good news and bad news.<br />
- **Hailey Murry:** Zox? <br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Captain, I have good news and bad news.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Zox? <br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** I hope so, I could use some good news<br />
- **Zox:** Hello!<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Hello!<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:  [d6 = 5]**<br />
- **Skig:** The bad news is, a shipwide manifestation of a corrupted biolfilter has resulted in whatever is infecting Zox and Murry to have also infected all of the shipwide systems and corrupted a massive number of systems, basically everything that is dependent on replicator and transporter technology. As a result, various ship systems are failing and a large number of crew members might be infected with eggs.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** The bad news is, a shipwide manifestation of a corrupted biolfilter has resulted in whatever is infecting Zox and Murry to have also infected all of the shipwide systems and corrupted a massive number of systems, basically everything that is dependent on replicator and transporter technology. As a result, various ship systems are failing and a large number of crew members might be infected with eggs.<br />
 <font color="##005500">BayushiKazemi (Hailey Murry): To find a phaser</font><br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ REASON  (9) +  SECURITY  (2)]
 [Successes: 0] [Complications: 0]
@@ -954,35 +954,35 @@ Success with 1 momentum [2d20 = 19]**<br />
 [Focus: Evasive Action ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 31]**<br />
- **Skig:** The good news Captain is the turbolifts being down and the replicators having issues means we have an opportunity to improve crew health AND make better use of the shipboard hydroponics.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** The good news Captain is the turbolifts being down and the replicators having issues means we have an opportunity to improve crew health AND make better use of the shipboard hydroponics.<br />
 *Hailey Murry gestures in a panic toward the holodeck*<br />
 *Rhuk is Shushed. but she does not know the meaning of this ritual*<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** I am struggling to see the positive side Commander<br />
- **Zox:** He's making a bad yolk. I mean, we are making a bad yolk.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** He's making a bad yolk. I mean, we are making a bad yolk.<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** We need comms and power back, any suggestions?<br />
- **Zox:** Yes. Skig knows how to provided we can get to the shuttle bay.<br />
- **Skig:** Captain, the added health benefits of having to climb up and down all the turbolifts and eating organically grown food should not be underestimated.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Yes. Skig knows how to provided we can get to the shuttle bay.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Captain, the added health benefits of having to climb up and down all the turbolifts and eating organically grown food should not be underestimated.<br />
 *Hailey Murry backs away from the door and looks around for a weapon*<br />
 >As Murry and Rhuk look on towards the holodeck, the snout begins to come further out from the door, and they can see it is attached to a strange bipedal reptile. Not entirely Voth, nor entirely snake. But with legs below it and a very long neck<br />
 
 *Rhuk begins to lick Hailey Murry's finger. clearly she is trying to communitcate that tasty food is to be found down the corridor.*<br />
- **Skig:** But yes, we have an idea of how to purge the system, we are going to validate it by going all the way to the opposite side of the ship in a very manual and time taking process. Then we are going to test this out.<br />
- **Skig:** However, in the meantime, I highly recommend not using the replicators.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** But yes, we have an idea of how to purge the system, we are going to validate it by going all the way to the opposite side of the ship in a very manual and time taking process. Then we are going to test this out.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** However, in the meantime, I highly recommend not using the replicators.<br />
 *Zox Nods enthusiastically.*<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Yes, very much so<br />
 *Zox Skig has told me the details of the plan and it is sound tactically.*<br />
- **Zox:** Skig has told me the details of the plan and it is sound tactically.<br />
+<img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox:** Skig has told me the details of the plan and it is sound tactically.<br />
 <img src="../images/auto/CaptainBaras.PNG" alt="Captain Baras" width="50" height="50">**Captain Baras:** Understood, wherever you need to go to get main power restored, get on it<br />
- **Skig:** Right away Captain. I apologize that the Lister is misbehaving in this way, we will need to figure out how to update our biofilters to prevent this in the future.<br />
+<img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig:** Right away Captain. I apologize that the Lister is misbehaving in this way, we will need to figure out how to update our biofilters to prevent this in the future.<br />
 *Hailey Murry recoils from Rhuk's actions, already caught off guard by the thing in front of them*<br />
 *Skig heads back down the turbolift shaft, taking the shortest and most efficient route back to the ship.*<br />
- **Hailey Murry:** Stop that! <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Stop that! <br />
 *Hailey Murry opens up the nearest door to grab an improvised weapon*<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:  [d6 = 4]**<br />
 <img src="../images/auto/Caiveka.png" alt="Caiveka" width="50" height="50">**Caiveka:** Counselor, how good it is to see you!<br />
 >Murry and Rhuk barge into the nearest door, which happens to be a crew quarters, just as the beast hisses loudly and starts barelling towards them<br />
 
- **Hailey Murry:** Oh thank goodness get a weapon! Rhuk, this way!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh thank goodness get a weapon! Rhuk, this way!<br />
 *Rhuk follows the noble Federation Officer's orders.*<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ DARING  (11) +  SECURITY  (2)]
 [Successes: 1] [Complications: 0]
@@ -1003,7 +1003,7 @@ Success with 0 momentum [2d20 = 31]**<br />
 [Successes: 0] [Complications: 0]
 Failed on DC: 1 [2d20 = 31]**<br />
 *Hailey Murry grabs the model of the Galaxy Class starship*<br />
- **Hailey Murry:** I really wish this was pointier<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** I really wish this was pointier<br />
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk: [ DARING  (10) +  SECURITY  (1)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 9]**<br />
@@ -1026,7 +1026,7 @@ Success with 0 momentum [2d20 = 27]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ DARING  (11) +  SECURITY  (2)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 19]**<br />
- **Hailey Murry:** Oh jeez! Tail!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh jeez! Tail!<br />
 >Murry lunges at the creature but it swats her aside <br />
 
 <img src="../images/auto/Rhuk.png" alt="Rhuk" width="50" height="50">**Rhuk: [ DARING  (10) +  SECURITY  (1)]
@@ -1046,7 +1046,7 @@ Success with 1 momentum [2d20 = 23]**<br />
 >The creature sinks its teeth into Caiveka, and begins to coil its body around her<br />
 
 *Rhuk does not quite comprehend how the Federation ever withstood the Kingon Empire.*<br />
- **Hailey Murry:** Oh no you don't!<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Oh no you don't!<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ DARING  (11) +  SECURITY  (2)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 12]**<br />

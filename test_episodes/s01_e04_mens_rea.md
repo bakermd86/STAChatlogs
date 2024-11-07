@@ -134,7 +134,7 @@ Success with 1 momentum [2d20 = 5]**<br />
 ♫♫♫Opening Theme♫♫♫<br />
 
 >Episode 4 - Mens Rea
-Written By Natali Baum 
+Written By Natali Baum
 Directed By Diana Abrams<br />
 
 <img src="../images/auto/Skig.png" alt="Skig" width="50" height="50">**Skig: [ CONTROL  (11) +  ENGINEERING  (5)]

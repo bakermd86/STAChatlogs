@@ -846,7 +846,7 @@ Success with 0 momentum [2d20 = 25]**<br />
 The Twins leave the crew lounge and return to their quarters on deck 8.<br />
 
 >00:17
- Captain Baras leaves his ready room and returns to his quarters on deck 4.<br />
+Captain Baras leaves his ready room and returns to his quarters on deck 4.<br />
 
 <img src="../images/auto/T'kor.png" alt="T'kor" width="50" height="50">**T'kor: [ CONTROL  (11) +  ENGINEERING  (4)]
 [Successes: 2] [Complications: 0]
@@ -857,16 +857,16 @@ Success with 1 momentum [2d20 = 24]**<br />
 >Night Shift - Day 1...<br />
 
 >04:13
- Captain Baras moves around his room for a while before returning to bed<br />
+Captain Baras moves around his room for a while before returning to bed<br />
 
 >06:22
 Dr. Zerra moves around his room for some time before he departs and heads to the crew lounge.<br />
 
 >07:00
- The Twins begin to move around their quarters.<br />
+The Twins begin to move around their quarters.<br />
 
 >08:00
- The Twins leave their quarters and go to the high-G gym<br />
+The Twins leave their quarters and go to the high-G gym<br />
 
 >08:40
 The Twins return to their quarters<br />
@@ -1817,7 +1817,7 @@ Copyright 2024 Smiteworks USA, LLC*<br />
 
 >And as if that wasn't bad enough:
 
->Viraseti has modified a laser welding drone into a hair removal robot to trim Skig's beard as it grows in real-time, which seems highly dangerous; 
+>Viraseti has modified a laser welding drone into a hair removal robot to trim Skig's beard as it grows in real-time, which seems highly dangerous;
 > Murry is... well, let's call that one a private problem;
 > And Zox somehow lost Viraseti's uniform pants;
 
