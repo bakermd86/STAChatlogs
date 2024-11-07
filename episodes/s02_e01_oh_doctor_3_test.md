@@ -295,15 +295,15 @@ Success with 1 momentum [2d20 = 27]**<br />
 <img src="../images/auto/Viraseti.png" alt="Lt. Cmdr Viraseti" width="50" height="50">**Lt. Cmdr Viraseti:** Geret approaches a Trill woman who is spraying a checmical agent into the medical storage locket. She wheels as Geret approaches, then turns back to her task<br />
 >Geret approaches a Trill woman who is spraying a checmical agent into the medical storage locket. She wheels as Geret approaches, then turns back to her task<br />
 
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** What the hell are you doing here Sam?<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** What the hell are you doing here Sam?<br />
 <img src="../images/auto/Geret.png" alt="Geret" width="50" height="50">**Geret:** I like to see people doing what they do best<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** You're supposed to be en route to Antin IV<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** You're supposed to be en route to Antin IV<br />
 *Trill Female rolls her eyes*<br />
 <img src="../images/auto/Geret.png" alt="Geret" width="50" height="50">**Geret:** Plans changed a bit.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** How so?<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** How so?<br />
 <img src="../images/auto/Geret.png" alt="Geret" width="50" height="50">**Geret:** Extra shore leave, had it piling up.<br />
 *Kolea looks at Murry.*<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** What? What the hell are you talking about?<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** What? What the hell are you talking about?<br />
 *Kolea mouths the words, "Big trouble".*<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ REASON  (9) +  CONN  (3)]
 [Successes: 1] [Complications: 0]
@@ -311,10 +311,10 @@ Success with 0 momentum [2d20 = 30]**<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea: [ INSIGHT  (11) +  CONN  (1)]
 [Successes: 1] [Complications: 1]
 Success with 0 momentum [2d20 = 25]**<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Sam, this is under control here, get the hell out of here and stop screwing around<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Sam, this is under control here, get the hell out of here and stop screwing around<br />
 <img src="../images/auto/Geret.png" alt="Geret" width="50" height="50">**Geret:** Argh. Sometimes I just like the thrill of a caper....<br />
 *Trill Female pulls out an old-fashioned chemical-powered firearm and points it at Geret*<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Ok, I don't know what is going on here, but there is no way you are Sam<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Ok, I don't know what is going on here, but there is no way you are Sam<br />
 <img src="../images/auto/Geret.png" alt="Geret" width="50" height="50">**Geret: [ FITNESS  (10) +  SECURITY  (2)]
 [Focus: Starfleet Protocols ]
 [Successes: 1] [Complications: 0]
@@ -328,16 +328,16 @@ Success with 0 momentum [3d20 = 40]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry: [ DARING  (10) +  CONN  (3)]
 [Successes: 2] [Complications: 0]
 Success with 1 momentum [2d20 = 15]**<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Fortunately for you, this is Starfleet medical. So if I was you, I'd get out of here quickly and head to the A&E. Floor 41<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Fortunately for you, this is Starfleet medical. So if I was you, I'd get out of here quickly and head to the A&E. Floor 41<br />
 >Murry dramatically pops around the corner and presses the fire button on her phaser. Nothing happens, but the Trill turns and look at her<br />
 
 *Kolea notices a beautiful bracelet on the Trill female that completely matches her earrings, wonders how Geret was paying attention to the armband while being shot.*<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry:** Blast it<br />
 *Trill Female holds up her ancient firearm*<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Yeah, this isn't exactly my preferred weapon. But at least it works in a dampening field<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Well, congratulations you caught me a bit unawares here<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** But I'm the one with the working weapon and one of your shapeshifters is bleeding out on the deck<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** So you lot go get in the closet and I'll be on my way<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Yeah, this isn't exactly my preferred weapon. But at least it works in a dampening field<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Well, congratulations you caught me a bit unawares here<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** But I'm the one with the working weapon and one of your shapeshifters is bleeding out on the deck<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** So you lot go get in the closet and I'll be on my way<br />
 <img src="../images/auto/Geret.png" alt="Geret" width="50" height="50">**Geret: [ FITNESS  (10) +  SCIENCE  (5)]
 [Focus: Starfleet Protocols ]
 [Successes: 2] [Complications: 0]
@@ -357,8 +357,8 @@ Failed on DC: 1 [2d20 = 37]**<br />
 Failed on DC: 1 [2d20 = 31]**<br />
 >Geret lobs a nearby cooler at the Trill, but she rolls out of the way and pops back onto her feet<br />
 
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Well, it's been a lot of fun but I think I am done here<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** For what it's worth: I hope you make it<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Well, it's been a lot of fun but I think I am done here<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** For what it's worth: I hope you make it<br />
 *Trill Female ducks behind a nearby medical bed and taps the control on her wrist. The small device that she had thrown at the wall a moment ago explodes, blasting a huge hole in the wall, flooding the dark floor with the bright daylight of San Francisco*<br />
 *Kolea sighs.*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Can we talk about this?<br />
@@ -371,16 +371,16 @@ Success with 3 momentum [2d20 = 3]**<br />
 *Kolea walks forward slowly.*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** If you don't mind, I would like to stabilize the errant shapeshifter and we can compare notes in a nonconfronational manner?<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** We might be after the same things.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Look, you seem like decent officers. And I don't want your blood on my hands. So take my advice, get your teammate to the A&E, and drop this.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** I'm not looking to put any of you in the morgue, but this thing doesn't have a stun setting<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** And I have my orders<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Look, you seem like decent officers. And I don't want your blood on my hands. So take my advice, get your teammate to the A&E, and drop this.<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** I'm not looking to put any of you in the morgue, but this thing doesn't have a stun setting<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** And I have my orders<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Well, neither does any weapon I'm carrying, but I think it is not beneficial to for any blood here to be spilled.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** And if your shapeshifter starts to go "more gorn" on me, I will not hesitate<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** And if your shapeshifter starts to go "more gorn" on me, I will not hesitate<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Well, more than hers, and totally understandable in the situation.<br />
 *Kolea points at Geret.*<br />
 *Geret looks apologetic, for a gorn.*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Is it okay if I give her a sedative and painkiller for the injury to stabilize her?<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Go ahead<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Go ahead<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Thanks.<br />
 *Kolea bends down next to Geret.*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Turn into something way less confrontational, like a puppy.<br />
@@ -391,23 +391,23 @@ Success with 0 momentum [2d20 = 23]**<br />
 >Kolea stabilizes Geret's injury so she will not transition into death saves at the end of the scene<br />
 
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Okay, so we have limited time before Starfleet security shows up to ask questions given that you blew a hole in the wall, again, totally understandable, not your fault.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** I don't mean to be rude here, but I have a schedule to keep. I'm glad you were able to stabilize your officer there, but I can't stick around.<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** I don't mean to be rude here, but I have a schedule to keep. I'm glad you were able to stabilize your officer there, but I can't stick around.<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** What are you here for?<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** I'm not authorized to tell you anything.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** But, from one officer to another: you should leave this floor<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** I'm not authorized to tell you anything.<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** But, from one officer to another: you should leave this floor<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Fair, orders are orders.<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I quite agree on that point.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** And you'd be better off dropping this and waling away<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** And you'd be better off dropping this and waling away<br />
 *Geret begins wailing.*<br />
 *Trill Female grabs a pull cord near her pants and yanks it, pulling out a thin fabric membrane running from her ankles to her hands like a wing*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Question though, did you have any luck tracking down the sniper who blew Jasanis' head off in front of you?<br />
 *Trill Female pauses, then grins slightly*<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Some Etaxian named Mirek Ghefk, private operator. <br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Surprised you heard about that, we didn't exactly file reports<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Some Etaxian named Mirek Ghefk, private operator. <br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Surprised you heard about that, we didn't exactly file reports<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** I have my ways.<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** I won't shed any tears for her<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** I won't shed any tears for her<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** We were here looking for a transmission terminal, this the only one on the floor that is active?<br />
-<img src="../images/auto/TrilInShadow.png" alt="Trill Female" width="50" height="50">**Trill Female:** Good point, almost forgot<br />
+<img src="../images/auto/TrillFemale.png" alt="Trill Female" width="50" height="50">**Trill Female:** Good point, almost forgot<br />
 *Trill Female fires several rounds from her antique firearm into the nearby active terminal, the screen goes dark*<br />
 *Kolea smiles.*<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea:** Thanks.<br />
