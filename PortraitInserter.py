@@ -91,7 +91,7 @@ def process_log(chatlog_file):
     id_parser = IdentityParser(load_identities=True)
     with open(chatlog_file, "r", encoding="utf8") as test_chat_in, open(join(CHATLOGS_OUT, basename(chatlog_file)), "w", encoding="utf8") as test_chat_out:
         for line in test_chat_in:
-            clean_line = re.sub(clean_line_images, "", line)
+            clean_line = re.sub(clean_line_images, "", line.strip()).strip()
             out_line = clean_line
             if clean_line.startswith("**"):
                 name = clean_line.split("**")[1].split(":")[0].strip()
@@ -99,7 +99,7 @@ def process_log(chatlog_file):
                 if image:
                     out_line = '<img src="../images/auto/%s" alt="%s" width="50" height="50">' % (basename(image), name)\
                                + clean_line
-            test_chat_out.write(out_line)
+            test_chat_out.write(out_line + "\n")
 
 
 
