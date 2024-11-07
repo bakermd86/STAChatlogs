@@ -1,19 +1,22 @@
 import re
 from json import dump, load
+from os import listdir
 from os.path import join, basename
 from shutil import copy
 from functools import reduce
 from bs4 import BeautifulSoup, Tag
 
 TEST_FILE = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\s02_e01_oh_doctor_3.md'
-TEST_OUT = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\Portraits'
-TEST_OUT_LOGS = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\Portraits\chatlogs'
+PORTRAITS_OUT = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\Portraits'
+CHATLOGS_IN = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\PortraitConversionIn'
+CHATLOGS_OUT = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output\PortraitConversionOut'
 FG_BASE_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds'
 CAMPAIGN_DIR = join(FG_BASE_DIR, 'campaigns', 'Far Beyond the Stars')
 DB_IN = join(CAMPAIGN_DIR, 'db.xml')
 CAMPAIGN_PORTRAITS = join(CAMPAIGN_DIR, 'portraits')
 
 clean_line_images = re.compile("^!\[]\([^)]+\)")
+
 
 class IdentityParser:
     def __init__(self, load_identities=False):
@@ -26,11 +29,11 @@ class IdentityParser:
         return self._identities
 
     def store_identities(self):
-        with open(join(TEST_OUT, "portrait_mapping.json"), "w") as mapping_out:
+        with open("portrait_mapping.json", "w") as mapping_out:
             dump(self.get_identities(), mapping_out)
 
     def load_identities(self):
-        with open(join(TEST_OUT, "portrait_mapping.json"), "r") as mapping_in:
+        with open("portrait_mapping.json", "r") as mapping_in:
             return load(mapping_in)
 
     def parse_character(self, character: Tag):
@@ -39,12 +42,12 @@ class IdentityParser:
         if not(char_name and char_name.text and char_id):
             return
         src_portrait = join(CAMPAIGN_PORTRAITS, char_id)
-        dst_portrait = join(TEST_OUT, "%s.png" % char_name.text.replace(" ", "_"))
+        dst_portrait = join(PORTRAITS_OUT, "%s.png" % char_name.text.replace(" ", "_"))
         copy(src_portrait, dst_portrait)
         self._identities[char_name.text] = dst_portrait
 
     def store_token(self, name_tag: Tag, token_path):
-        token_dst = join(TEST_OUT, basename(token_path))
+        token_dst = join(PORTRAITS_OUT, basename(token_path))
         if name_tag and name_tag.text and token_path:
             try:
                 copy(token_path, token_dst)
@@ -84,10 +87,9 @@ def parse_identities_init():
         id_parser.store_identities()
 
 
-def main():
-    parse_identities_init()
+def process_log(chatlog_file):
     id_parser = IdentityParser(load_identities=True)
-    with open(TEST_FILE, "r") as test_chat_in, open(join(TEST_OUT_LOGS, basename(TEST_FILE)), "w") as test_chat_out:
+    with open(chatlog_file, "r", encoding="utf8") as test_chat_in, open(join(CHATLOGS_OUT, basename(chatlog_file)), "w", encoding="utf8") as test_chat_out:
         for line in test_chat_in:
             clean_line = re.sub(clean_line_images, "", line)
             out_line = clean_line
@@ -99,6 +101,12 @@ def main():
                                + clean_line
             test_chat_out.write(out_line)
 
+
+
+def main():
+    # parse_identities_init()
+    for chatlog in [join(CHATLOGS_IN, f) for f in listdir(CHATLOGS_IN)]:
+        process_log(chatlog)
 
 
 if __name__ == '__main__':
