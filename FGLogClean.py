@@ -1,11 +1,13 @@
 import os
 from enum import Enum
-from os.path import join
+from os.path import join, basename
+from json import dump, load
 from shutil import copy
 from datetime import datetime
 import re
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString, Tag
+from functools import reduce
 
 
 WHISPER_FONT = '#660066'
@@ -19,26 +21,32 @@ MOOD_FONT = '#000000'
 
 FEN_EXT_NAME = "Fen's StarTrekAdventures Ruleset"
 
-CAMPAIGN_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds\campaigns\Far Beyond the Stars'
+FG_BASE_DIR = r'C:\Users\Michael\AppData\Roaming\SmiteWorks\Fantasy Grounds'
+CAMPAIGN_DIR = join(FG_BASE_DIR, 'campaigns', 'Far Beyond the Stars')
 CHATLOG_FILE = 'chatlog.html'
 DB_FILE = "db.xml"
-OUT_DIR = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs\output'
+FG_RESOURCES_DIR = r'F:\random\dice\Far Beyond the Stars Resources\Chatlogs'
+OUT_DIR = join(FG_RESOURCES_DIR, 'output')
 BACKUP_DIR = join(OUT_DIR, "backups")
+CAMPAIGN_PORTRAITS = join(CAMPAIGN_DIR, 'portraits')
+PORTRAITS_OUT = join(FG_RESOURCES_DIR, 'output', 'Portraits')
+DB_IN = join(CAMPAIGN_DIR, DB_FILE)
 
-SPEAKER_PATTERN = re.compile("([^:]+:)(.+)", re.DOTALL)
+
+SPEAKER_PATTERN = re.compile("([^:]+):(.+)", re.DOTALL)
 MOOD_PATTERN = re.compile("([^(]+)(\([^:]+)(.+)", re.DOTALL)
 
-SPEAKER_IMAGE_MAP = {
-    "hailey murry": "![](../images/murry.png)",
-    "zox": "![](../images/zox.png)",
-    "skig": "![](../images/skig.png)",
-    "baras": "![](../images/baras.png)",
-    "bachar": "![](../images/bachar.png)",
-    "11 and 10": "![](../images/twins.png)",
-    "viraseti": "![](../images/viraseti.png)",
-    "zerra": "![](../images/zerra.png)",
-    "malat": "![](../images/malat.png)",
-}
+# SPEAKER_IMAGE_MAP = {
+#     "hailey murry": "![](../images/murry.png)",
+#     "zox": "![](../images/zox.png)",
+#     "skig": "![](../images/skig.png)",
+#     "baras": "![](../images/baras.png)",
+#     "bachar": "![](../images/bachar.png)",
+#     "11 and 10": "![](../images/twins.png)",
+#     "viraseti": "![](../images/viraseti.png)",
+#     "zerra": "![](../images/zerra.png)",
+#     "malat": "![](../images/malat.png)",
+# }
 
 class LineTypes(Enum):
     WHISPER_AND_NPC_ROLL = 1,
@@ -52,6 +60,76 @@ class LineTypes(Enum):
     UNKNOWN = 10
 
 
+class IdentityParser:
+    def __init__(self, load_identities=False):
+        self._identities = self.load_identities() if load_identities else {}
+
+    def get_image(self, name):
+        return self._identities.get(name)
+
+    def get_identities(self):
+        return self._identities
+
+    def store_identities(self):
+        with open("portrait_mapping.json", "w") as mapping_out:
+            dump(self.get_identities(), mapping_out)
+
+    def load_identities(self):
+        with open("portrait_mapping.json", "r") as mapping_in:
+            return load(mapping_in)
+
+    def parse_character(self, character: Tag):
+        char_id = character.name
+        char_name = character.find("name", recursive=False)
+        if not(char_name and char_name.text and char_id):
+            return
+        src_portrait = join(CAMPAIGN_PORTRAITS, char_id)
+        dst_portrait = join(PORTRAITS_OUT, "%s.png" % char_name.text.replace(" ", "_"))
+        copy(src_portrait, dst_portrait)
+        self._identities[char_name.text] = dst_portrait
+
+    def store_token(self, name_tag: Tag, token_path):
+        token_dst = join(PORTRAITS_OUT, basename(token_path))
+        if name_tag and name_tag.text and token_path:
+            try:
+                copy(token_path, token_dst)
+                self._identities[name_tag.text] = token_dst
+            except FileNotFoundError:
+                return
+
+    def parse_identity(self, identity: Tag):
+        token_val = identity.find("token")
+        if not token_val or not token_val.text or "@" in token_val.text:
+            return
+        if token_val.text.startswith("campaign"):
+            token_path = join(CAMPAIGN_DIR, token_val.text.removeprefix("campaign/"))
+        else:
+            token_path = join(FG_BASE_DIR, token_val.text)
+        identity_name = identity.find("name", recursive=False)
+        non_identity_name = identity.find("nonid_name", recursive=False)
+        self.store_token(identity_name, token_path)
+        self.store_token(non_identity_name, token_path)
+
+    @staticmethod
+    def get_children(tag: Tag):
+        return list(reduce(lambda a, b: a + b, map(lambda t: t.findChildren(recursive=False),
+                                                   tag.find_all("category", recursive=False)))) + list(
+            filter(lambda t: t.name.startswith("id-"), tag.findChildren(recursive=False)))
+
+    def parse_identities(self):
+        with open(DB_IN, 'r') as fg_db:
+            soup = BeautifulSoup(fg_db, 'lxml')
+            root = soup.find("root")
+            characters = root.find("charsheet").find_all(recursive=False)
+            npcs = self.get_children(root.find("npc", recursive=False))
+            senior_staff = root.find("crewmate", recursive=False).findChildren(recursive=False)
+
+            list(map(self.parse_identity, npcs))
+            list(map(self.parse_identity, senior_staff))
+            list(map(self.parse_character, characters))
+            self.store_identities()
+
+
 class ChatFormatter:
     def __init__(self, campaign_dir, ep_title, ep_name, out_dir=OUT_DIR):
         self.campaign_dir = campaign_dir
@@ -59,20 +137,19 @@ class ChatFormatter:
         self.ep_name = ep_name
         self.out_dir = out_dir
         self.pc_names = self.get_pc_names()
-        print(self.pc_names)
         self.pc_roll_pres = self.get_pc_roll_pres()
         self.pc_chat_pres = self.get_pc_chat_pres()
         self.soup = self.get_chat_soup()
+        self.identity_parser = IdentityParser()
 
-    @staticmethod
-    def format_map():
+    def format_map(self):
         return {
             LineTypes.PC_ROLL: ChatFormatter.bold,
-            LineTypes.CHAT: ChatFormatter.bold_speaker,
+            LineTypes.CHAT: self.bold_speaker,
             LineTypes.EMOTE: ChatFormatter.italicize,
             LineTypes.STORY: ChatFormatter.blockquote,
             LineTypes.DETERMINE: ChatFormatter.bold,
-            LineTypes.MOOD: ChatFormatter.format_mood,
+            LineTypes.MOOD: self.format_mood,
         }
 
     def get_pc_roll_pres(self):
@@ -97,6 +174,9 @@ class ChatFormatter:
 
     def tags(self):
         yield from self.soup.find_all("font")
+
+    def parse_identities(self):
+        self.identity_parser.parse_identities()
 
     def parse_chatlog(self):
         md_body = self.start_body()
@@ -151,27 +231,26 @@ class ChatFormatter:
             return LineTypes.UNKNOWN
 
     @staticmethod
-    def add_speaker_image(speaker):
-        image_link = ""
-        for k, v in SPEAKER_IMAGE_MAP.items():
-            if k in speaker.lower():
-                image_link = v
-                break
-        return image_link + "**%s**" % speaker
+    def format_speaker_image(speaker, image_path):
+        print(speaker, image_path)
+        return '<img src="../images/auto/%s" alt="%s" width="50" height="50">' \
+               % (basename(image_path), speaker) if (speaker and image_path) else ""
 
-    @staticmethod
-    def bold_speaker(line):
+    def add_speaker_image(self, speaker):
+        image_path = self.identity_parser.get_image(speaker)
+        return ChatFormatter.format_speaker_image(speaker, image_path) + "**%s**" % speaker
+
+    def bold_speaker(self, line):
         m = SPEAKER_PATTERN.match(line)
         if m and m.groups():
-            speaker = ChatFormatter.add_speaker_image(m.group(1))
+            speaker = self.add_speaker_image(m.group(1))
             return ChatFormatter.break_line(speaker + m.group(2))
         return ChatFormatter.break_line(line)
 
-    @staticmethod
-    def format_mood(line):
+    def format_mood(self, line):
         m = MOOD_PATTERN.match(line)
         if m and m.groups():
-            speaker = ChatFormatter.add_speaker_image(m.group(1))
+            speaker = self.add_speaker_image(m.group(1))
             return ChatFormatter.break_line(speaker + " *%s*" % m.group(2) + m.group(3))
         return ChatFormatter.break_line(line)
 
@@ -215,6 +294,7 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Oh Doctor, Where Art Thou (Part 3)", "s02_e01_oh_doctor_3")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Oh Doctor, Where Art Thou (Part 4)", "s02_e01_oh_doctor_4")
+    formatter.parse_identities()
     formatter.parse_chatlog()
-    delete_old_log()
+    # delete_old_log()
