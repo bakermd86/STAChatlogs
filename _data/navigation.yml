@@ -30,13 +30,5 @@ docs:
         url: /episodes/s01_e11_love_in_time
       - title: "Identity Crisis"
         url: /episodes/s01_e12_identity_crisis
-      - title: "Oh Doctor, Where Art Thou (Part 1)"
-        url: /episodes/s02_e01_oh_doctor_1
-      - title: "Oh Doctor, Where Art Thou (Part 2)"
-        url: /episodes/s02_e01_oh_doctor_2
-      - title: "Oh Doctor, Where Art Thou (Part 3)"
-        url: /episodes/s02_e01_oh_doctor_3
-      - title: "Oh Doctor, Where Art Thou (Part 4)"
-        url: /episodes/s02_e01_oh_doctor_4
-      - title: "Oh Doctor, Where Art Thou (Part 5)"
-        url: /episodes/s02_e01_oh_doctor_5
+      - title: "Oh Doctor, Where Art Thou"
+        url: /episodes/s02_e01_oh_doctor
