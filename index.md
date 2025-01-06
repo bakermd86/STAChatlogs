@@ -16,3 +16,4 @@
 - [S02-E02 - His Dielectric Materials (Part 1)](episodes/s02_e02_dielectric_1)
 - [S02-E02 - His Dielectric Materials (Part 2)](episodes/s02_e02_dielectric_2)
 - [S02-E02 - His Dielectric Materials (Part 3)](episodes/s02_e02_dielectric_3)
+- [S02-E02 - His Dielectric Materials (Part 4)](episodes/s02_e02_dielectric_4)
