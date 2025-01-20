@@ -13,9 +13,5 @@
 - [S01-E11 - Love in the Time of Morphophagia](episodes/s01_e11_love_in_time)
 - [S01-E12 - Identity Crisis](episodes/s01_e12_identity_crisis)
 - [S02-E01 - Oh Doctor, Where Art Thou](episodes/s02_e01_oh_doctor)
-- [S02-E02 - His Dielectric Materials (Part 1)](episodes/s02_e02_dielectric_1)
-- [S02-E02 - His Dielectric Materials (Part 2)](episodes/s02_e02_dielectric_2)
-- [S02-E02 - His Dielectric Materials (Part 3)](episodes/s02_e02_dielectric_3)
-- [S02-E02 - His Dielectric Materials (Part 4)](episodes/s02_e02_dielectric_4)
-- [S02-E02 - His Dielectric Materials (Part 5)](episodes/s02_e02_dielectric_5)
+- [S02-E02 - His Dielectric Materials](episodes/s02_e02_dielectric)
 
