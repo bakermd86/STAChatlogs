@@ -21,4 +21,5 @@
 - [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 5)](episodes/s02_e03_knight_takes_rook_5)
 - [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 6)](episodes/s02_e03_knight_takes_rook_6)
 - [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 7)](episodes/s02_e03_knight_takes_rook_7)
+- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 8)](episodes/s02_e03_knight_takes_rook_8)
 
