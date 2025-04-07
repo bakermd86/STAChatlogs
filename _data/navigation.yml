@@ -34,19 +34,5 @@ docs:
         url: /episodes/s02_e01_oh_doctor
       - title: "His Dielectric Materials"
         url: /episodes/s02_e02_dielectric
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 1)"
-        url: /episodes/s02_e03_knight_takes_rook_1
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 2)"
-        url: /episodes/s02_e03_knight_takes_rook_2
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 3)"
-        url: /episodes/s02_e03_knight_takes_rook_3
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 4)"
-        url: /episodes/s02_e03_knight_takes_rook_4
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 5)"
-        url: /episodes/s02_e03_knight_takes_rook_5
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 6)"
-        url: /episodes/s02_e03_knight_takes_rook_6
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 7)"
-        url: /episodes/s02_e03_knight_takes_rook_7
-      - title: "Knight Takes Red Queen's Rook, Pawn Defends (Part 8)"
-        url: /episodes/s02_e03_knight_takes_rook_8
+      - title: "Knight Takes Red Queen's Rook, Pawn Defends"
+        url: /episodes/s02_e03_knight_takes_rook

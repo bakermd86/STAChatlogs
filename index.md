@@ -14,12 +14,4 @@
 - [S01-E12 - Identity Crisis](episodes/s01_e12_identity_crisis)
 - [S02-E01 - Oh Doctor, Where Art Thou](episodes/s02_e01_oh_doctor)
 - [S02-E02 - His Dielectric Materials](episodes/s02_e02_dielectric)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 1)](episodes/s02_e03_knight_takes_rook_1)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 2)](episodes/s02_e03_knight_takes_rook_2)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 3)](episodes/s02_e03_knight_takes_rook_3)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 4)](episodes/s02_e03_knight_takes_rook_4)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 5)](episodes/s02_e03_knight_takes_rook_5)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 6)](episodes/s02_e03_knight_takes_rook_6)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 7)](episodes/s02_e03_knight_takes_rook_7)
-- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends (Part 8)](episodes/s02_e03_knight_takes_rook_8)
-
+- [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends](episodes/s02_e03_knight_takes_rook)
