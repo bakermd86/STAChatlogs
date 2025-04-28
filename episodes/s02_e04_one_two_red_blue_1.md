@@ -16,9 +16,6 @@ Copyright 2025 Smiteworks USA, LLC*<br />
 *Fen's STA House Rules (v1.0.1) *<br />
 *FG Browser v1.2.3*<br />
 *[Prioritized Source: File; Other Sources: Vault]*<br />
-<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry** [ PRESENCE  (10) +  SCIENCE  (4)]
-[Successes: 1] [Complications: 0]
-Success with 0 momentum [2d20 = 25]<br />
 
 >Captains Log, Stardate 62062.3: We are completing our survey of the still unidentified spacial phenomenon in the Helothorar system. We've taken to calling it the "Kaleidoscope" on account of its mesmerizing appearance. Viraseti hasn't been able to make much sense of it, but we will have to leave by the end of the day shift in order to make our rendezvous with the research vessel USS Prudence. We have been ordered by Starfleet Command to remove the Pakleds from Cargo Bay 3 and transfer them to a more appropriate living space. Starfleet decided that allowing a Pakled religious cult to live on board a starship was not a suitable outcome.<br />
 
@@ -380,6 +377,7 @@ Success with 0 momentum [2d20 = 14]**<br />
 *Zox begins to ponder how the Voth may not exist in Lt. Cmdr Skig's universe.*<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox** Sure are! Reptile STRONG<br />
 <font color="#005500">KruschtyaEquation (Hailey Murry): I'm not seeing any purple lines, I don't think</font><br />
+
 >Skig goes to deck 12 and Lt. Cmdr Skig continues on to deck 13. As Skig crosses from deck 11 to deck 12, she appears to flatten to a plane, fold over herself, and dissapear. When Lt. Cmdr Skig continues on to deck 13, Skig sees her do the same.<br />
 
 **Lt. Cmdr Skig (Tin Can)** Can you hear me, or has the reptile's communications device failed<br />

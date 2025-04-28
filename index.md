@@ -16,3 +16,4 @@
 - [S02-E02 - His Dielectric Materials](episodes/s02_e02_dielectric)
 - [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends](episodes/s02_e03_knight_takes_rook)
 - [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig (Part 1)](episodes/s02_e04_one_two_red_blue_1)
+- [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig (Part 2)](episodes/s02_e04_one_two_red_blue_2)
