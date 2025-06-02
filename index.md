@@ -18,3 +18,4 @@
 - [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig (Part 1)](episodes/s02_e04_one_two_red_blue_1)
 - [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig (Part 2)](episodes/s02_e04_one_two_red_blue_2)
 - [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig (Part 3)](episodes/s02_e04_one_two_red_blue_3)
+- [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig (Part 4)](episodes/s02_e04_one_two_red_blue_4)
