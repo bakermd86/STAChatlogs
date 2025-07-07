@@ -36,15 +36,5 @@ docs:
         url: /episodes/s02_e02_dielectric
       - title: "Knight Takes Red Queen's Rook, Pawn Defends"
         url: /episodes/s02_e03_knight_takes_rook
-      - title: "One Skig, Two Skig, Red Skig, Blue Skig (Part 1)"
-        url: /episodes/s02_e04_one_two_red_blue_1
-      - title: "One Skig, Two Skig, Red Skig, Blue Skig (Part 2)"
-        url: /episodes/s02_e04_one_two_red_blue_2
-      - title: "One Skig, Two Skig, Red Skig, Blue Skig (Part 3)"
-        url: /episodes/s02_e04_one_two_red_blue_3
-      - title: "One Skig, Two Skig, Red Skig, Blue Skig (Part 4)"
-        url: /episodes/s02_e04_one_two_red_blue_4
-      - title: "One Skig, Two Skig, Red Skig, Blue Skig (Part 5)"
-        url: /episodes/s02_e04_one_two_red_blue_5
-      - title: "One Skig, Two Skig, Red Skig, Blue Skig (Part 6)"
-        url: /episodes/s02_e04_one_two_red_blue_6
+      - title: "One Skig, Two Skig, Red Skig, Blue Skig"
+        url: /episodes/s02_e04_one_two_red_blue
