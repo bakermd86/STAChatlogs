@@ -213,37 +213,37 @@ Directed by Diana Abrams<br />
 [Focus: Syndicate Training ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 26]**<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** It's a junkyard, I don't have stock. I scan your ship before you go into the stacks, and when you leave. I charge you based on the mass and composition of materials<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** It's a junkyard, I don't have stock. I scan your ship before you go into the stacks, and when you leave. I charge you based on the mass and composition of materials<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox** Smart.<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** 2 bars of latinum per ton for raw materials like Tritanium, computer cores and weapons systems are charged on a per-unit basis, refined products like ODN lines and EPS conduit are 5 bars / ton<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** 2 bars of latinum per ton for raw materials like Tritanium, computer cores and weapons systems are charged on a per-unit basis, refined products like ODN lines and EPS conduit are 5 bars / ton<br />
 <font color="#005500">Masakari (Zox): LOW LOW PRICES</font><br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** All sales are final, if you leave the stacks with it you pay for it<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** All sales are final, if you leave the stacks with it you pay for it<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea** This seems entirely plausible and rational.<br />
 <img src="../images/auto/windbloom_openheart.png" alt="Windbloom Openheart" width="50" height="50">**Windbloom Openheart** What about smaller items? I have been trying to find new Ketracel White tubes<br />
 <font color="#005500">Masakari (Zox): One of those car places where you bring your car and find part X or Y.</font><br />
 <img src="../images/auto/windbloom_openheart.png" alt="Windbloom Openheart" width="50" height="50">**Windbloom Openheart** I heard that you had some salvaged Jem'Hadar ships, my tubes are starting to wear out and they're hard to find replacements<br />
 *"Crazy" Kolaakor regards windbloom suspiciously for a moment before assessing that Windbloom definitely doesn't look like a narc*<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You're shit outta luck. Some Cardassians cleaned me out a few months ago, both of the Jem'Hadar fighters I had on-hand <br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You might be able to find something in the stacks if you've got good sensors, but I don't got no more Jem'Hadar ships<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You're shit outta luck. Some Cardassians cleaned me out a few months ago, both of the Jem'Hadar fighters I had on-hand <br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You might be able to find something in the stacks if you've got good sensors, but I don't got no more Jem'Hadar ships<br />
 **Kolea: [ INSIGHT  (11) +  SECURITY  (4)]
 [Focus: Bodai Shin Adept ]
 [Successes: 1] [Complications: 0]
 Success with 0 momentum [2d20 = 31]**<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry** They didn't look like they'd need the KW tubes, did they?<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** I have a "Don't Ask, Don't Tell" policy. I don't ask why you need it, and I don't tell anyone your details<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You go in, I scan you on the way out, you pay. Bingo, bango, bongo everybody leaves happy, nobody leaves dead<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** Well, sometimes they leave dead. That is not a gaurantee that there ain't no dead bodies in these ships<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** I don't go in there and clean em out<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** I have a "Don't Ask, Don't Tell" policy. I don't ask why you need it, and I don't tell anyone your details<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You go in, I scan you on the way out, you pay. Bingo, bango, bongo everybody leaves happy, nobody leaves dead<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** Well, sometimes they leave dead. That is not a gaurantee that there ain't no dead bodies in these ships<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** I don't go in there and clean em out<br />
 <img src="../images/auto/Zox.png" alt="Zox" width="50" height="50">**Zox** Do we pay for bodies the same way?<br />
 *Zox makes a toothy smile*<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** Bodies count as organic solids. 6 bars / ton<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** Bodies count as organic solids. 6 bars / ton<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea** If they bought the fighters, no problem for us. We were looking for the medical and biological systems. I'm pretty sure a scrap yard like this has pulled a few of those off the larger ships. Any chance you could point us in the direction of some of the less intact ships. Or the ones with organics in them?<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** I don't keep an inventory, you gotta search the stacks yourselves<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** But there's usually some bodies in there somewhere<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** I don't keep an inventory, you gotta search the stacks yourselves<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** But there's usually some bodies in there somewhere<br />
 <img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry** No general map or anything? <br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You've got a starship, use your sensors<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** You've got a starship, use your sensors<br />
 <img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea** Thanks for your help.<br />
-<img src="../images/auto/guy1.png" alt=""Crazy" Kolaakor" width="50" height="50">**"Crazy" Kolaakor** Just remember to pay before you leave, they don't call me Crazy Kolaakor because of my low prices. It's because I skin you alive if you try to steal from my yard<br />
+<img src="../images/auto/guy1.png" alt="Crazy Kolaakor" width="50" height="50">**"Crazy" Kolaakor** Just remember to pay before you leave, they don't call me Crazy Kolaakor because of my low prices. It's because I skin you alive if you try to steal from my yard<br />
 **Zox: [ CONTROL  (11) +  ENGINEERING  (4)]
 [Focus: Shipboard Tactical Systems ]
 [Successes: 2] [Complications: 0]
