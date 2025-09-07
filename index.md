@@ -17,3 +17,4 @@
 - [S02-E03 - Knight Takes Red Queen's Rook, Pawn Defends](episodes/s02_e03_knight_takes_rook)
 - [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig](episodes/s02_e04_one_two_red_blue)
 - [S02-E05 - Corpus Reus (Part 1)](episodes/s02_e05_corpus_reus_1)
+- [S02-E05 - Corpus Reus (Part 2)](episodes/s02_e05_corpus_reus_2)
