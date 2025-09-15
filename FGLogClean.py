@@ -1,6 +1,6 @@
 import os
 from enum import Enum
-from os.path import join, basename
+from os.path import join, basename, exists
 from json import dump, load
 from shutil import copy
 from datetime import datetime
@@ -85,7 +85,8 @@ class IdentityParser:
             return
         src_portrait = join(CAMPAIGN_PORTRAITS, char_id)
         dst_portrait = join(PORTRAITS_OUT, "%s.png" % char_name.text.replace(" ", "_"))
-        copy(src_portrait, dst_portrait)
+        if exists(src_portrait):
+            copy(src_portrait, dst_portrait)
         self._identities[char_name.text] = dst_portrait
 
     def store_token(self, name_tag: Tag, token_path):
@@ -294,7 +295,7 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Corpus Reus (Part 2)", "s02_e05_corpus_reus_2")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Corpus Reus (Part 3)", "s02_e05_corpus_reus_3")
     formatter.parse_identities()
     formatter.parse_chatlog()
     delete_old_log()
