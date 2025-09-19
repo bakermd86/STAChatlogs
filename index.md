@@ -19,3 +19,4 @@
 - [S02-E05 - Corpus Reus (Part 1)](episodes/s02_e05_corpus_reus_1)
 - [S02-E05 - Corpus Reus (Part 2)](episodes/s02_e05_corpus_reus_2)
 - [S02-E05 - Corpus Reus (Part 3)](episodes/s02_e05_corpus_reus_3)
+- [S02-E05 - Corpus Reus (Part 4)](episodes/s02_e05_corpus_reus_4)
