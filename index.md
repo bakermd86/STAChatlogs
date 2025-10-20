@@ -18,3 +18,4 @@
 - [S02-E04 - One Skig, Two Skig, Red Skig, Blue Skig](episodes/s02_e04_one_two_red_blue)
 - [S02-E05 - Corpus Reus](episodes/s02_e05_corpus_reus)
 - [S02-E06 - Articles of Faith (Part 1)](episodes/s02_e06_articles_of_faith_1)
+- [S02-E06 - Articles of Faith (Part 2)](episodes/s02_e06_articles_of_faith_2)
