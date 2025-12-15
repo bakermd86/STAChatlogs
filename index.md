@@ -23,3 +23,4 @@
 - [S02-E06 - Articles of Faith (Part 4)](episodes/s02_e06_articles_of_faith_4)
 - [S02-E06 - Articles of Faith (Part 5)](episodes/s02_e06_articles_of_faith_5)
 - [S02-E06 - Articles of Faith (Part 6)](episodes/s02_e06_articles_of_faith_6)
+- [S02-E06 - Articles of Faith (Part 7)](episodes/s02_e06_articles_of_faith_7)
