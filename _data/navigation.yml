@@ -40,19 +40,5 @@ docs:
         url: /episodes/s02_e04_one_two_red_blue
       - title: "Corpus Reus"
         url: /episodes/s02_e05_corpus_reus
-      - title: "Articles of Faith (Part 1)"
-        url: /episodes/s02_e06_articles_of_faith_1
-      - title: "Articles of Faith (Part 2)"
-        url: /episodes/s02_e06_articles_of_faith_2
-      - title: "Articles of Faith (Part 3)"
-        url: /episodes/s02_e06_articles_of_faith_3
-      - title: "Articles of Faith (Part 4)"
-        url: /episodes/s02_e06_articles_of_faith_4
-      - title: "Articles of Faith (Part 5)"
-        url: /episodes/s02_e06_articles_of_faith_5
-      - title: "Articles of Faith (Part 6)"
-        url: /episodes/s02_e06_articles_of_faith_6
-      - title: "Articles of Faith (Part 7)"
-        url: /episodes/s02_e06_articles_of_faith_7
-      - title: "Articles of Faith (Part 8)"
-        url: /episodes/s02_e06_articles_of_faith_8
+      - title: "Articles of Faith"
+        url: /episodes/s02_e06_articles_of_faith
