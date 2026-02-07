@@ -145,9 +145,12 @@ Success with 1 momentum [2d20 = 20]**<br />
 **Gul Haloras** Hmm, most enjoyable<br />
 <font color="#005500">KruschtyaEquation (Hailey Murry): 3v1 chess games vs DM, and we lost all three lol</font><br />
 
-> https://lichess.org/5j03qjT0 Mowus with Black, Gul Haloras with White
-> https://lichess.org/32zIlGQ9 Throk with White, Gul Haloras with Black
-> https://lichess.org/eDl8mB4r Hailey Murry with White, Gul Haloras with Black
+> Mowus with Black, Gul Haloras with White
+  <iframe src="https://lichess.org/5j03qjT0" style="width: 640px; height: 480px; border: 0px;"/>
+> Throk with White, Gul Haloras with Black
+  <iframe src="https://lichess.org/32zIlGQ9" style="width: 640px; height: 480px; border: 0px;"/>
+> Hailey Murry with White, Gul Haloras with Black
+  <iframe src="https://lichess.org/eDl8mB4r" style="width: 640px; height: 480px; border: 0px;"/>
 
 <font color="#005500">Masakari (Zox): Mowus was game #3, lost to time</font><br />
 **Gul Haloras** Mowus, you  show deft strategic thinking but you are too thoughtful. If you could learn to be more decisive, act with greater speed, you would be a truly worth opponent<br />
