@@ -20,3 +20,4 @@
 - [S02-E06 - Articles of Faith](episodes/s02_e06_articles_of_faith)
 - [S02-E07 - Where the Wild Things Are (Part 1)](episodes/s02_e07_wild_things_1)
 - [S02-E07 - Where the Wild Things Are (Part 2)](episodes/s02_e07_wild_things_2)
+- [S02-E07 - Where the Wild Things Are (Part 3)](episodes/s02_e07_wild_things_3)
