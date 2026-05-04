@@ -295,7 +295,7 @@ def delete_old_log():
 
 if __name__ == '__main__':
     backup_log()
-    formatter = ChatFormatter(CAMPAIGN_DIR, "Where the Wild Things Are (Part 3)", "s02_e07_wild_things_3")
+    formatter = ChatFormatter(CAMPAIGN_DIR, "Where the Wild Things Are (Part 4)", "s02_e07_wild_things_4")
     formatter.parse_identities()
     formatter.parse_chatlog()
     delete_old_log()
