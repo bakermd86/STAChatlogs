@@ -26,3 +26,4 @@
 - [S02-E07 - Where the Wild Things Are (Part 6)](episodes/s02_e07_wild_things_6)
 - [S02-E07 - Where the Wild Things Are (Part 7)](episodes/s02_e07_wild_things_7)
 - [S02-E07 - Where the Wild Things Are (Part 8)](episodes/s02_e07_wild_things_8)
+- [S02-E07 - Where the Wild Things Are (Part 9)](episodes/s02_e07_wild_things_9)
