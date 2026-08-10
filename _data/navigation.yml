@@ -4,7 +4,7 @@ docs:
       - title: "Index"
         url: /index
 
-  - title: "Season 1"
+  - title: Season 1
     children:
       - title: "Just War"
         url: /episodes/s01_e01_just_war
@@ -31,10 +31,10 @@ docs:
       - title: "Identity Crisis"
         url: /episodes/s01_e12_identity_crisis
       - title: "Oh Doctor, Where Art Thou"
-
-  - title: "Season 2"
-    children:
         url: /episodes/s02_e01_oh_doctor
+
+  - title: Season 2
+    children:
       - title: "His Dielectric Materials"
         url: /episodes/s02_e02_dielectric
       - title: "Knight Takes Red Queen's Rook, Pawn Defends"
