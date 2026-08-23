@@ -3175,3 +3175,57 @@ Success with 2 momentum [2d20 = 30]**<br />
 
 >---------CUT TO CREDITS-------<br />
 
+
+
+<font color="#005500">Masakari (Geret): "Think Harkonen looking like Saudukarr"</font><br />
+<font color="#005500">KruschtyaEquation (Hailey Murry): 1) Figure out who the stasis people are (asking about "a guy I met, so-and-so")</font><br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry** 2) Jem'Hadar Battle Tactics (if we were going to be doing fleet level training exercises against Jem'Hadar ships, what kind of tactics or adjustments would you make to help people learn how to fight the dominion?)<br />
+*Hailey Murry: 2) Jem'Hadar Battle Tactics (if we were going to be doing fleet level training exercises against Jem'Hadar ships, what kind of tactics or adjustments would you make to help people learn how to fight the dominion?)*<br />
+<font color="#005500">Masakari (Geret): "What yall happened to that them ship there? Run in ta some garbage mines?"</font><br />
+<font color="#005500">KruschtyaEquation (Hailey Murry): 3) Details on the major Cardassian factions and their thoughts on the Dominion</font><br />
+<font color="#005500">Masakari (Geret): "We have the keys for the thing we egg'ed"</font><br />
+<font color="#005500">Masakari (Geret): "No no...OUR flagship"</font><br />
+**Gul Haloras** Glinn Kamat was a loyal soldier, a true patriot. I am sorry to be the bearer of bad news as to his current situation. I am afraid he died during a training excercise when an EPS conduit overloaded. I had hoped that he would recover, I had requested his transfer to the Roral. Sadly, it seems his death is destined to have no true meaning after all. He is simply another cold body now, lost without purpose in the depths of space. My death will not be so ignominious. I will die in battle for Cardassia.<br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry** Ay, we know the dangers of the EPS conduit all too well...<br />
+**Gul Haloras** The Jem'Hadar fight without fear, they enter battle prepared to die. It is what people fear the most, but it is also their greatest weakness. Because neither the Founders nor the Jem'Hadar value their lives, their vessels lack strong defensive capabilities. They have overwhelming firepower, and exceptional manueverability, but their power systems and shields are comparatively weak. If I were faced with a wing of Jem'Hadar fighters, I would divert all non-essential power to my weapons, and overwhelm their defenses before they can do the same to my vessel. <br />
+<img src="../images/auto/Throk.png" alt="Throk" width="50" height="50">**Throk** Throk approve this approach, that which you eat first can only fight your stomach acids.<br />
+**Gul Haloras** Cardassia is the fading heart of a dying empire. Our name once struck fear into the hearts of our enemies. Now, we cede territory on the fringes of our empire, and we struggle to rebuild our fleet. Our homeworld is still strewn with rubble. Many of us in the central command recognize that our only hope for survival is to forge a new peace agreement with the Federation, the Klingons and the Romulans. The armistice treaty that ended the Dominion War has imposed... challenging conditions upon Cardassia, our only realistic hope of recovery is to negotiate new, more favorable peace terms.
+
+If such efforts fail, I fear that some factions with the Central Command and the civilian government would lash out, taking us back to a war we cannot hope to win. Certainly there are those on the Dutapa Council who believe we can win concessions from the Klingons in a war. But they are fools to believe that we can fight our way out of our current predicament.
+
+Then there are the fools like Ambassador Garak, content to simply ride out the rest of their careers, with no concern for the future of the empire. If it were up to me, we would cast them out of the government in favor of those willing to sacrifice for the greater good of Cardassia. <br />
+<img src="../images/auto/Hailey_Murry.png" alt="Hailey Murry" width="50" height="50">**Hailey Murry** Ah, yeah. It seems fairly foolish to lean on the hopes like Dominion War 2 being able to alleviate the results of Dominion War 1<br />
+**Hailey Murry: [ INSIGHT  (13) +  SECURITY  (3)]
+[Focus: Diplomacy ]
+[Successes: 3] [Complications: 0]
+Success with 2 momentum [2d20 = 18]**<br />
+**Gul Haloras** No one on Cardassia wants another alliance with The Dominion, the killed millions of Cardassians before the end of the last one. And no one with any sense wants another war with them either. 
+
+The wormhole presents too great a natural bottleneck to be able to effectively wage war across it. Especially since Captain Sisko "joined the prophets" (whatever that means). The only true threat the Dominion could pose to the Alpha quandrant is interference from changlings.
+
+Even without a fleet, a handful of changlings can still provoke wars, replace key political figures, launch assassinations. The prospect of a second Dominion War is unlikely, but we can never let down our guard when it comes to these changling infiltrators. We must root them out, and destroy them where they are found.<br />
+**Geret:  [4d20 = 49]**<br />
+**Hailey Murry:  [3d20 = 35]**<br />
+**Skig:  [4d20 = 38]**<br />
+<font color="#005500">KruschtyaEquation (Hailey Murry): I gotta go take care of the accute total renal failure :c</font><br />
+**Zox: [ REASON  (7) +  MEDICINE  (1)]
+[Focus: Xenobiology ]
+[Successes: 1] [Complications: 0]
+Success with 0 momentum [2d20 = 22]**<br />
+**Skig: [ CONTROL  (11) +  SECURITY  (3)]
+[Successes: 2] [Complications: 0]
+Success with 1 momentum [2d20 = 24]**<br />
+<font color="#005500">Masakari (Darisha-Han): If Throk puts his project on git, it will be open-sauce.</font><br />
+**Throk: [ REASON  (9) +  SCIENCE  (2)]
+[Focus: Hacking Security Systems ]
+[Successes: 2] [Complications: 0]
+Success with 1 momentum [2d20 = 17]**<br />
+<font color="#005500">Masakari (Zox): Retcon it that it's Pakled(TM) engineered.</font><br />
+<font color="#005500">Masakari (Zox): Kolea minus a random article of clothing.</font><br />
+<font color="#005500">indarien (Skig): Better idea, Kolea but actually wearing her uniform in a very prim and proper fashion without any buttons missing or indications it was put on very quickly. They can always tell when it is the hologram because the real Kolea always looks like she just engaged in "Diplomacy".</font><br />
+<img src="../images/auto/Kolea.png" alt="Kolea" width="50" height="50">**Kolea** Hey! I resemble that remark!<br />
+*Geret begins hanging out in engineering looking for scraps.*<br />
+**T'kor: [ CONTROL  (11) +  ENGINEERING  (4)]
+[Successes: 2] [Complications: 0]
+Success with 1 momentum [2d20 = 18]**<br />
+*Geret tries to give T'kor a big hug*<br />
