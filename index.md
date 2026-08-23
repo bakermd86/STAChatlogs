@@ -1,5 +1,10 @@
 ## Episode Chatlogs
 
+### Current Episode
+- [S02-E08 - Witless for the Prosecution (Part 1)](episodes/s02_e08_witless_1)
+
+## Past Episodes
+
 ### Season 1
 - [S01-E01 - Just War](episodes/s01_e01_just_war)
 - [S01-E02 - Nothing but Blue Skies](episodes/s01_e02_blue_skies)
