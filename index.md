@@ -2,6 +2,7 @@
 
 ### Current Episode
 - [S02-E08 - Witless for the Prosecution (Part 1)](episodes/s02_e08_witless_1)
+- [S02-E08 - Witless for the Prosecution (Part 2)](episodes/s02_e08_witless_2)
 
 ## Past Episodes
 
